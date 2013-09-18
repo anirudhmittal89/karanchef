@@ -1,0 +1,21 @@
+html
+	head
+		meta (charset="utf-8")
+		title About Me
+	body
+	
+	div#wrapper
+	div#columns
+		div.pin
+			img (src="http://cssdeck.com/uploads/media/items/2/2v3VhAp.png")
+			p
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+				Sed feugiat consectetur pellentesque. Nam ac elit risus, 
+				ac blandit dui. Duis rutrum porta tortor ut convallis.
+				Duis rutrum porta tortor ut convallis.
+		
+		- each data in ob
+        	div.pin
+        		img(src="{{data.image.src}}")
+        		p {{data.image.caption}}
+      	{{/each}}
