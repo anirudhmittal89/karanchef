@@ -1,10 +1,12 @@
-.icon{
+img.icon{
 	height:50px;
 	width:50px;
 	float: left;
 	margin-right: 12px;
 }
-
+.pin img {
+	width: 247px !important;
+}
 {
 	background: url(http://subtlepatterns.com/patterns/scribble_light.png) ;
 }
@@ -82,7 +84,7 @@
 }
 
  .pin:not(:hover) {
-	opacity: 0.4;
+	opacity: 0.7;
 }
 
 

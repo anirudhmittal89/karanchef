@@ -1,0 +1,62 @@
+html
+  body
+    .navbar-wrapper
+      .container
+        .navbar.navbar-inverse.navbar-static-top
+          .container
+            .navbar-header
+              button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+              img.icon(src="/images/img/icon.jpg") 
+              a.navbar-brand(href='#')  Karan Mittal
+            .navbar-collapse.collapse
+              ul.nav.navbar-nav
+                li.active
+                  a(href='#') Home
+                li
+                  a(href='#recipes') Recipes
+                li
+                  a(href='#about') About Me
+                li
+                  a(href='#about') Achievements
+                li
+                  a(href='#contact') Contact Us
+                li.dropdown
+                  a.dropdown-toggle(href='#', data-toggle='dropdown')
+                    | Dropdown
+                    b.caret
+                  ul.dropdown-menu
+                    li
+                      a(href='#') Action
+                    li
+                      a(href='#') Another action
+                    li
+                      a(href='#') Something else here
+                    li.divider
+                    li.dropdown-header Nav header
+                    li
+                      a(href='#') Separated link
+                    li
+                      a(href='#') One more separated link
+
+    .container.marketing
+      .row.featurette
+        .col-md-5
+          img.featurette-image.img-responsive(src='/images/food/4.jpg', data-src='holder.js/500x500/auto', alt='500x500')
+        .col-md-7
+          h2.featurette-heading
+            | Oh yeah, it's that good.
+            span.text-muted See for yourself.
+          p.lead
+            | Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+      hr.featurette-divider
+      footer
+        p.pull-right
+          a(href='#') Back to top
+        p
+          | © 2013 Company, Inc. ·
+          a(href='#') Privacy
+          | ·
+          a(href='#') Terms
