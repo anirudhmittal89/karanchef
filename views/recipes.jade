@@ -21,12 +21,13 @@ html
                   a(href='/me') About Me
 
     .container.marketing
+      h1 Recipes
       div#wrapper
       div#columns
       each data in ob
        div.pin
         img(src="#{data.src}")
-        p# data.caption
+        p# #{data.caption}
 
       footer
         p.pull-right
