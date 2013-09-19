@@ -11,6 +11,10 @@ exports.info = function(req, res){
   res.render('info', { title: 'Karan the Chef' })
 };
 
+exports.me = function(req, res){
+  res.render('me', { title: 'Karan the Chef' })
+};
+
 exports.recipes = function(req, res){
 	var ob=[
 	{ "src":"/images/food/13.jpg" , "caption":"Lorem ipsum dolor sit amet, con" },

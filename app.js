@@ -45,6 +45,7 @@ app.get('/', routes.index);
 app.get('/index', routes.index);
 app.get('/recipes', routes.recipes);
 app.get('/info', routes.info);
+app.get('/me', routes.me);
 
 app.listen(3000, function(){
   console.log("Express server listening on port %d in %s mode", app.address().port, app.settings.env);
