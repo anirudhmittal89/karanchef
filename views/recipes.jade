@@ -22,12 +22,19 @@ html
 
     .container.marketing
       h1 Recipes
+      div.portfolioFilter
+       a.current(href='#', data-filter='*') All Categories
+       a(href='#', data-filter='.main') Dish
+       a(href='#', data-filter='.snacks') Starters
+       a(href='#', data-filter='.desert') Deserts
+      
       div#wrapper
-      div#columns
-      each data in ob
-       div.pin
-        img(src="#{data.src}")
-        p# #{data.caption}
+      div#columns.portfolioContainer
+       each data in ob
+        div.pin(class="#{data.categ}")
+         a(href="/info")
+          img(src="#{data.src}")
+          p #{data.caption}
 
       footer
         p.pull-right

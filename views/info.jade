@@ -14,22 +14,50 @@ html
             .navbar-collapse.collapse
               ul.nav.navbar-nav
                 li.active
-                  a(href='#') Home
+                  a(href='/index') Home
                 li
-                  a(href='#recipes') Recipes
+                  a(href='/recipes') Recipes
                 li
-                  a(href='#about') About Me
+                  a(href='/me') About Me
 
     .container.marketing
       .row.featurette
-        .col-md-5
+        .col-md-6
           img.featurette-image.img-responsive(src='/images/food/4.jpg', data-src='holder.js/500x500/auto', alt='500x500')
-        .col-md-7
-          h2.featurette-heading
-            | Oh yeah, it's that good.
-            span.text-muted See for yourself.
-          p.lead
-            | Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+        .col-md-6
+          h2.featurette-heading.nomargin
+            | Ingredients
+          ul
+            li
+              span
+              p 1 cup white sugar
+            li
+              span
+              p 1/2 cup butter
+            li
+              span
+              p 2 eggs
+            li
+              span
+              p 1 1/2 cups all-purpose flour
+            li
+              span
+              p 1 3/4 teaspoons baking powder
+            li
+              span
+              p 1/2 cup milk
+          h2.featurette-heading.nomargin
+            | Directions
+          ol
+            li
+              span 01
+              p.lead Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x9 inch pan or line a muffin pan with paper liners.
+            li
+              span 02
+              p.lead In a medium bowl, cream together the sugar and butter. Beat in the eggs, one at a time, then stir in the vanilla. Combine flour and baking powder, add to the creamed mixture and mix well. Finally stir in the milk until batter is smooth. Pour or spoon batter into the prepared pan.
+            li
+              span 03
+              p.lead Bake for 30 to 40 minutes in the preheated oven. For cupcakes, bake 20 to 25 minutes. Cake is done when it springs back to the touch.
       hr.featurette-divider
       footer
         p.pull-right

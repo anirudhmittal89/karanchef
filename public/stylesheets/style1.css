@@ -5,6 +5,15 @@ color: #333;
 footer{
 	margin-top: 20px;
 }
+.carousel-inner {
+position: relative;
+width: 70% !important;
+margin:0 auto !important;
+overflow: hidden;
+}
+.carousel-control.left,.carousel-control.right{
+	background: none !important;
+}
 img.icon{
 	height:50px;
 	width:50px;
@@ -24,7 +33,7 @@ img.icon{
 	min-width: 800px;
 	margin: 50px auto;
 }
-
+/*
 #columns {
 	-webkit-column-count: 3;
 	-webkit-column-gap: 10px;
@@ -36,25 +45,22 @@ img.icon{
 	column-gap: 15px;
 	column-fill: auto;
 }
-
+*/
 .pin {
 	display: inline-block;
 	background: #FEFEFE;
 	border: 2px solid #FAFAFA;
 	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
-	margin: 0 2px 15px;
 	-webkit-column-break-inside: avoid;
 	-moz-column-break-inside: avoid;
 	column-break-inside: avoid;
-	padding: 15px;
-	padding-bottom: 5px;
 	background: -webkit-linear-gradient(45deg, #FFF, #F9F9F9);
 	opacity: 1;
-	
 	-webkit-transition: all .2s ease;
 	-moz-transition: all .2s ease;
 	-o-transition: all .2s ease;
 	transition: all .2s ease;
+	margin-bottom: 12px;
 }
 
 .pin img {
@@ -85,7 +91,7 @@ img.icon{
 		column-count: 5;
 	}
 }
-
+/*
 #columns:hover .pin:not(:hover) {
 	opacity: 0.4;
 }
@@ -93,9 +99,81 @@ img.icon{
  .pin:not(:hover) {
 	opacity: 0.7;
 }
+*/
+ol {
+list-style: none;
+color: #ccc;
+}
+
+ol li {
+font: bold 24pt helvetica, arial, sans-serif;
+position: relative;
+margin-bottom: 20px;
+}
+
+ol span {
+position: absolute;
+line-height: 25px;
+}
+
+ol li p {
+font: 12pt helvetica, arial, sans-serif;
+color: #555;
+padding-left: 60px;
+}
+
+h2.nomargin{
+	margin-top: 15px !important;
+}
+
+.filter a.selected {
+	background-color: #BB0000;
+	color: #FFF;
+}
 
 
+body {
+    font-family: Arial;
+}
+
+.portfolioFilter a { 
+    margin-right: 10px; 
+	color:#666;
+	text-decoration:none;
+}
+
+.portfolioFilter a.current { 
+    font-weight:bold;
+}
 
 
+img {
+    margin:5px;
+}
 
+.isotope-item {
+    z-index: 2;
+}
+.isotope-hidden.isotope-item {
+    pointer-events: none;
+    z-index: 1;
+}
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+}
+.isotope {
+    -webkit-transition-property: height, width;
+    -moz-transition-property: height, width;
+    transition-property: height, width;
+}
+.isotope .isotope-item {
+    -webkit-transition-property: -webkit-transform, opacity;
+    -moz-transition-property: -moz-transform, opacity;
+    transition-property: transform, opacity;
+}
 
