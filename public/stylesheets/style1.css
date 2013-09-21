@@ -177,3 +177,44 @@ img {
     transition-property: transform, opacity;
 }
 
+/*
+.portfolioFilter{
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+}
+
+
+.portfolioFilter h2, .portfolioFilter h4 {
+    line-height: 34px;
+    margin-bottom: 0px;
+    margin-right: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.portfolioFilter a.selected {
+    text-shadow: none;
+    color: white;
+    background-color: rgb(17, 51, 255);
+}
+.portfolioFilter a {
+    border-radius: 7px 0px 0px 7px;
+    border-left: medium none;
+}
+.portfolioFilter a:hover {
+    background-color: rgb(85, 187, 255);
+}
+.portfolioFilter a {
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+}
+.portfolioFilter a {
+    display: block;
+    padding: 0.4em 0.5em;
+    background-color: rgb(221, 221, 221);
+    color: rgb(34, 34, 34);
+    font-weight: bold;
+    text-shadow: 0px 1px rgba(255, 255, 255, 0.5);
+    background-image: -moz-linear-gradient(center top , rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+}*/
