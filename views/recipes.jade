@@ -32,7 +32,7 @@ html
       div#columns.portfolioContainer
        each data in ob
         div.pin(class="#{data.categ}")
-         a(href="/info")
+         a(href="/info?src=#{data.src}&caption=#{data.caption}")
           img(src="#{data.src}")
           p #{data.caption}
 

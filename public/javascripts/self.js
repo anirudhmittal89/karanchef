@@ -33,9 +33,10 @@ $('#filters a').click(function(){
         animationOptions: {
             duration: 750,
             easing: 'linear',
+            columnWidth: 435,
             queue: false
         }
-        
+
     });
  
     $('.portfolioFilter a').click(function(){

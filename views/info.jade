@@ -13,19 +13,20 @@ html
               a.navbar-brand(href='/index')  Karan Mittal
             .navbar-collapse.collapse
               ul.nav.navbar-nav
-                li.active
-                  a(href='/index') Home
                 li
+                  a(href='/index') Home
+                li.active
                   a(href='/recipes') Recipes
                 li
                   a(href='/me') About Me
 
     .container.marketing
+      <h1>#{data.caption}</h1>
       .row.featurette
         .col-md-6
-          img.featurette-image.img-responsive(src='/images/food/4.jpg', data-src='holder.js/500x500/auto', alt='500x500')
+          img.featurette-image.img-responsive(src=data.src)
         .col-md-6
-          h2.featurette-heading.nomargin
+          h3.featurette-heading.nomargin
             | Ingredients
           ul
             li
@@ -46,7 +47,8 @@ html
             li
               span
               p 1/2 cup milk
-          h2.featurette-heading.nomargin
+          
+      h3.featurette-heading.nomargin
             | Directions
           ol
             li
