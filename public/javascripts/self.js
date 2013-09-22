@@ -35,6 +35,7 @@ $('#filters a').click(function(){
             easing: 'linear',
             queue: false
         }
+        
     });
  
     $('.portfolioFilter a').click(function(){

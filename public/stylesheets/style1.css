@@ -20,8 +20,14 @@ img.icon{
 	float: left;
 	margin-right: 12px;
 }
+.pin{
+	overflow: hidden !important;
+	 text-overflow:ellipsis !important;
+	 max-width: 250px !important;
+	 margin-right: 12px;
+}
 .pin img {
-	width: 247px !important;
+	max-width: 250px !important;
 }
 {
 	background: url(http://subtlepatterns.com/patterns/scribble_light.png) ;
@@ -33,7 +39,7 @@ img.icon{
 	min-width: 800px;
 	margin: 50px auto;
 }
-/*
+
 #columns {
 	-webkit-column-count: 3;
 	-webkit-column-gap: 10px;
@@ -45,7 +51,8 @@ img.icon{
 	column-gap: 15px;
 	column-fill: auto;
 }
-*/
+
+
 .pin {
 	display: inline-block;
 	background: #FEFEFE;
@@ -91,15 +98,17 @@ img.icon{
 		column-count: 5;
 	}
 }
-/*
+
 #columns:hover .pin:not(:hover) {
-	opacity: 0.4;
+	opacity: .75;
 }
 
  .pin:not(:hover) {
-	opacity: 0.7;
+	opacity: 0.75;
 }
-*/
+
+
+
 ol {
 list-style: none;
 color: #ccc;
@@ -177,6 +186,7 @@ img {
     transition-property: transform, opacity;
 }
 
+
 /*
 .portfolioFilter{
     display: inline-block;
@@ -218,3 +228,7 @@ img {
     text-shadow: 0px 1px rgba(255, 255, 255, 0.5);
     background-image: -moz-linear-gradient(center top , rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
 }*/
+
+.carousel-inner .carousel .item {
+	background-color: none !important;
+}
