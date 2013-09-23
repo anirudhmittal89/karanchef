@@ -50,7 +50,7 @@ img.icon{
 .pin{
 	overflow: hidden !important;
 	 text-overflow:ellipsis !important;
-	 max-width: 350px !important;
+	 max-width: 360px !important;
 	 margin-right: 12px;
 }
 
@@ -215,14 +215,45 @@ img {
 }
 
 
-/*
-.portfolioFilter{
-    display: inline-block;
-    float: left;
-    margin-right: 10px;
+
+.portfolioFilter a{
+ 
+float: left;
+margin-bottom: 0.2em;
+display: block;
+padding: 0.4em 0.5em;
+background-color: #DDD;
+color: #222;
+font-weight: bold;
+text-shadow: 0 1px hsla( 0, 0%, 100%, 0.5 );
+background-image: -webkit-linear-gradient( top, hsla( 0, 0%, 100%, 0.5 ), hsla( 0, 0%, 100%, 0.0 ) );
+background-image: -moz-linear-gradient( top, hsla( 0, 0%, 100%, 0.5 ), hsla( 0, 0%, 100%, 0.0 ) );
+background-image: -ms-linear-gradient( top, hsla( 0, 0%, 100%, 0.5 ), hsla( 0, 0%, 100%, 0.0 ) );
+background-image: -o-linear-gradient( top, hsla( 0, 0%, 100%, 0.5 ), hsla( 0, 0%, 100%, 0.0 ) );
+background-image: linear-gradient( top, hsla( 0, 0%, 100%, 0.5 ), hsla( 0, 0%, 100%, 0.0 ) );
+border-left: 1px solid hsla( 0, 0%, 100%, 0.3 );
+border-right: 1px solid hsla( 0, 0%, 0%, 0.2 );
 }
 
+.portfolioFilter:first-child a{
+border-radius: 7px 0 0 7px;
+border-left: none;
+}
 
+.portfolioFilter a.current {
+background-color: #13F;
+text-shadow: none;
+color: white;
+}
+
+.portfolioFilter li {
+display: list-item;
+text-align: -webkit-match-parent;
+list-style: none;
+
+}
+
+/*
 .portfolioFilter h2, .portfolioFilter h4 {
     line-height: 34px;
     margin-bottom: 0px;
@@ -280,3 +311,6 @@ margin-top: 0px !important;
 	background: none !important;
 background-color: none !important;
 }
+
+
+
