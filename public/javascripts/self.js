@@ -28,7 +28,7 @@ $('#filters a').click(function(){
 */
 
     var $container = $('.portfolioContainer');
-    
+
     $container.imagesLoaded( function(){
     $container.isotope({
         filter: '*',
@@ -41,6 +41,10 @@ $('#filters a').click(function(){
 
     });
 });
+
+    $("div.pin a img").lazyload({
+     effect : "fadeIn"
+ });
  
     $('.portfolioFilter a').click(function(){
         $('.portfolioFilter .current').removeClass('current');

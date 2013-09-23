@@ -306,6 +306,8 @@ margin-top: 0px !important;
 	background: none !important;
 background-color: none !important;
 }
-
+.img-responsive {
+width:100%;
+}
 
 
