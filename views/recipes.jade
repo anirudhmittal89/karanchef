@@ -37,7 +37,7 @@ html
        each data in ob
         div.pin(class="#{data.categ}")
          a(href="/info?src=#{data.src}&caption=#{data.caption}")
-          img(src="#{data.src}")
+          img.lazy(src="#{data.src}")
           p #{data.caption}
 
       footer

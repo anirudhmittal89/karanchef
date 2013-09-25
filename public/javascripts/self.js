@@ -32,19 +32,27 @@ $('#filters a').click(function(){
     $container.imagesLoaded( function(){
     $container.isotope({
         filter: '*',
+         layoutMode: 'masonry',
+            onLayout: function () {
+                $(window).trigger("scroll");
+            },
         animationOptions: {
-            duration: 750,
+            duration: 200,
             easing: 'linear',
-            columnWidth: 435,
+            columnWidth: function(containerWidth){
+                return containerWidth/4;
+            },
             queue: false
         }
 
     });
 });
 
-    $("div.pin a img").lazyload({
-     effect : "fadeIn"
- });
+
+    $('img.lazy').lazyload({
+  effect: "fadeIn",
+  skip_invisible : false
+});
  
     $('.portfolioFilter a').click(function(){
         $('.portfolioFilter .current').removeClass('current');

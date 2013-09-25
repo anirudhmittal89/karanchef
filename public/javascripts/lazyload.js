@@ -40,6 +40,9 @@
                 if (settings.skip_invisible && !$this.is(":visible")) {
                     return;
                 }
+                if(settings.skip_invisible && $($this).parents('.isotope-item').hasClass('isotope-hidden')){
+                    return;
+                }
                 if ($.abovethetop(this, settings) ||
                     $.leftofbegin(this, settings)) {
                         /* Nothing. */
