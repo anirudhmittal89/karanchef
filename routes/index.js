@@ -538,11 +538,6 @@ exports.recipes = function(req, res){
         "categ": "ENTREE"
     },
     {
-        "src": "/images/ENTREE/CIABATTA CRUST.mp4",
-        "caption": "CIABATTA CRUST.mp4",
-        "categ": "ENTREE"
-    },
-    {
         "src": "/images/ENTREE/CIABATTA.jpg",
         "caption": "CIABATTA",
         "categ": "ENTREE"
@@ -1027,6 +1022,7 @@ var type=req.query.type;
 console.log(type);
 if(type=="main"){
 	ob=main;
+
 }
 if(type=="dessert"){
 	ob=dessert;
