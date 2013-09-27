@@ -32,6 +32,7 @@ $('#filters a').click(function(){
     $container.imagesLoaded( function(){
     $container.isotope({
         filter: '*',
+          transformsEnabled: false,
          layoutMode: 'masonry',
             onLayout: function () {
                 $(window).trigger("scroll");

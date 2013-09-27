@@ -29,7 +29,7 @@ var data={
 };
 
 exports.recipes = function(req, res){
-	var ob=[
+	var dessert=[
     {
         "src": "/images/DESSERTS/ALLUMETTES.jpg",
         "caption": "ALLUMETTES",
@@ -474,7 +474,9 @@ exports.recipes = function(req, res){
         "src": "/images/DESSERTS/WILD BERRY PIE.jpg",
         "caption": "WILD BERRY PIE",
         "categ": "DESSERTS"
-    },
+    }];
+
+    var entree=[
     {
         "src": "/images/ENTREE/ALMOND CRUSTED PANEER TIKKI WITH FENUGREEK LAVASH AND  TAMARIND SUACE.jpg",
         "caption": "ALMOND CRUSTED PANEER TIKKI WITH FENUGREEK LAVASH AND  TAMARIND SUACE",
@@ -749,7 +751,9 @@ exports.recipes = function(req, res){
         "src": "/images/ENTREE/WOOD FIRED QUESADILLAS WITH TOMATO SALSA , SOUR CREAM AND GUACAMOLE.jpg",
         "caption": "WOOD FIRED QUESADILLAS WITH TOMATO SALSA , SOUR CREAM AND GUACAMOLE",
         "categ": "ENTREE"
-    },
+    }];
+
+    var main=[
         {
             "src": "/images/MAINS/ACHARI PANEER STEAK WITH KADHAI VEGETABLES , GRILLED UPMA AND MAKHNI SAUCE.JPG",
             "caption": "ACHARI PANEER STEAK WITH KADHAI VEGETABLES , GRILLED UPMA AND MAKHNI SAUCE",
@@ -1016,6 +1020,20 @@ exports.recipes = function(req, res){
             "categ": "MAINS"
         }
     
-]
-  res.render('recipes', {ob:ob})
+];
+var ob=[];
+var src=req.query.src;
+var type=req.query.type;
+console.log(type);
+if(type=="main"){
+	ob=main;
+}
+if(type=="dessert"){
+	ob=dessert;
+}
+if(type=="entree"){
+	ob=entree;
+}
+console.log(ob);
+  res.render('recipes', {ob:ob});
 };

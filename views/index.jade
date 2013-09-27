@@ -2,7 +2,7 @@ html
   body
     .navbar-wrapper
       .container
-        .navbar.navbar-inverse.navbar-static-top
+        .navbar.navbar-inverse.navbar-fixed-top
           .container
             .navbar-header
               button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
@@ -16,7 +16,11 @@ html
                 li.active
                   a(href='/index') Home
                 li
-                  a(href='/recipes') Recipes
+                  a(href='/recipes?type=dessert') Dessert Recipes
+                li
+                  a(href='/recipes?type=entree') Entree Recipes
+                li
+                  a(href='/recipes?type=main') Main Course Recipes  
                 li
                   a(href='/me') About Me
 
@@ -27,31 +31,15 @@ html
         li.active(data-target='#myCarousel', data-slide-to='1')
         li(data-target='#myCarousel', data-slide-to='2')
       .carousel-inner
-        .item
-          img(src='/images/img/bg1.jpg', data-src='holder.js/100%x500/auto/#777:#7a7a7a/text:First slide', alt='First slide')
-          .container
-            .carousel-caption
-              h1 Example headline.
-              p
-                | 
         .item.active
-          img(src='/images/img/bg2.jpg', data-src='holder.js/100%x500/auto/#777:#7a7a7a/text:Second slide', alt='Second slide', style='height: 500px; width: 100%; display: block;')
+          img(src='/images/img/CHETTINAD SPICED WHOLE CRAB.jpg', data-src='holder.js/100%x500/auto/#777:#7a7a7a/text:First slide', alt='First slide' style='height: 500px; width: 100%; display: block;')
           .container
             .carousel-caption
-              h1 Another example headline.
+              h1 CHETTINAD SPICED WHOLE CRAB
               p
                 | Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
               p
-                a.btn.btn-large.btn-primary(href='#') Learn more
-        .item
-          img(src='/images/img/bg1.jpg', data-src='holder.js/100%x500/auto/#777:#7a7a7a/text:Third slide', alt='Third slide', style='height: 500px; width: 100%; display: block;')
-          .container
-            .carousel-caption
-              h1 One more for good measure.
-              p
-                | Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-              p
-                a.btn.btn-large.btn-primary(href='#') Browse gallery
+                a.btn.btn-large.btn-primary(href='/recipes?type=dessert') Browse Dessert Recipes
       a.left.carousel-control(href='#myCarousel', data-slide='prev')
         span.glyphicon.glyphicon-chevron-left
       a.right.carousel-control(href='#myCarousel', data-slide='next')
@@ -61,28 +49,28 @@ html
       // Three columns of text below the carousel
       .row
         .col-lg-4
-          img.img-circle(src='/images/food/1.jpg', data-src='holder.js/140x140', alt='140x140', style='width: 140px; height: 140px;')
-          h2 Heading
+          img.img-circle(src='/images/DESSERTS/PASTRY DISPLAY.jpg', data-src='holder.js/140x140', alt='140x140', style='width: 200px; height: 200px;')
+          h2 Dessert Recipes
           p
-            | Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.
+            | Dessert is a typically sweet course that concludes a meal. There is a wide variety of desserts in western cultures including cakes, cookies, biscuits, gelatins, pastries, ice creams, pies, puddings, and candies. Fruit is also commonly found in dessert courses because of its natural sweetness.
           p
-            a.btn.btn-default(href='#') View details »
+            a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
         // /.col-lg-4
         .col-lg-4
-          img.img-circle(src='/images/food/2.jpg', data-src='holder.js/140x140', alt='140x140', style='width: 140px; height: 140px;')
-          h2 Heading
+          img.img-circle(src='/images/ENTREE/PEPPER FRIED PRAWNS.jpg', data-src='holder.js/140x140', alt='140x140', style='width: 200px; height: 200px;')
+          h2 Entree Recipes
           p
-            | Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.
+            | In French cuisine, an entrée is a dish served before the main course, or between two principal courses of a meal.This use of the term is unusual (but not unheard of) outside North America, as most other English speakers follow the original French usage, generally considering the word "entrée" to mean a first course.
           p
-            a.btn.btn-default(href='#') View details »
+            a.btn.btn-default(href='#') Browse Entree Recipes »
         // /.col-lg-4
         .col-lg-4
-          img.img-circle(src='/images/food/3.jpg', data-src='holder.js/140x140', alt='140x140', style='width: 140px; height: 140px;')
-          h2 Heading
+          img.img-circle(src='/images/MAINS/MADRAS LAMB NALLI KORMA.jpg', data-src='holder.js/140x140', alt='140x140', style='width: 200px; height: 200px;')
+          h2 Main Course Recipes  
           p
-            | Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+            | A main course is the featured or primary dish in a meal consisting of several courses. It usually follows the entrée ("entry") course. In the United States it may in fact be called "entree".The main dish is usually the heaviest, heartiest, and most complex or substantive dish on a menu.
           p
-            a.btn.btn-default(href='#') View details »
+            a.btn.btn-default(href='#') Browse Main Course Recipes »
         // /.col-lg-4
       // /.row
       // START THE FEATURETTES

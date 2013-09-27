@@ -15,29 +15,33 @@ html
               ul.nav.navbar-nav
                 li
                   a(href='/index') Home
-                li.active
-                  a(href='/recipes') Recipes
+                li
+                  a(href='/recipes?type=dessert') Dessert Recipes
+                li
+                  a(href='/recipes?type=entree') Entree Recipes
+                li
+                  a(href='/recipes?type=main') Main Course Recipes  
                 li
                   a(href='/me') About Me
 
     .container.marketing
       h1 Recipes
-      div.portfolioFilter
-       li
-        a.current(href='#', data-filter='*') All Categories
-       li
-        a(href='#', data-filter='.MAINS') MAINS
-       li
-        a(href='#', data-filter='.ENTREE') ENTREE
-       li
-        a(href='#', data-filter='.DESSERTS') DESSERTS
+      //-div.portfolioFilter
+      //- li
+      //-  a.current(href='#', data-filter='*') All Categories
+      //- li
+      //-  a(href='#', data-filter='.MAINS') MAINS
+      //- li
+      //-  a(href='#', data-filter='.ENTREE') ENTREE
+      //- li
+      //-  a(href='#', data-filter='.DESSERTS') DESSERTS
       
       div#wrapper
       div#columns.portfolioContainer
        each data in ob
-        div.pin(class="#{data.categ}")
+        div.pin(class="#{data.categ}",style="max-width: 355px;margin: 10px;background: none repeat scroll 0% 0% rgb(255, 255, 255);border-top: 2px solid rgb(158, 27, 50);padding: 10px;")
          a(href="/info?src=#{data.src}&caption=#{data.caption}")
-          img.lazy(src="#{data.src}")
+          img.lazy(src="#{data.src}",style="width: 100%;border-bottom: 1px solid rgb(204, 204, 204);padding-bottom: 15px;margin-bottom: 5px;")
           p #{data.caption}
 
       footer

@@ -2,6 +2,7 @@ html body {
 background: url(/images/img/imgbg.jpg) repeat 0 0 #f8f8f8;
 color: #333;
 }
+
 footer{
 	margin-top: 20px;
 }
@@ -20,9 +21,10 @@ img.icon{
 	float: left;
 	margin-right: 12px;
 }
-
-
-
+.carousel {
+    margin-bottom: 60px;
+    margin-top: 60px !important;
+}
 {
 	background: url(http://subtlepatterns.com/patterns/scribble_light.png) ;
 }
@@ -46,16 +48,12 @@ img.icon{
 	column-fill: auto;
 }
 
-
+/*
 .pin{
 	overflow: hidden !important;
 	 text-overflow:ellipsis !important;
 	 max-width: 360px !important;
 	 margin-right: 12px;
-}
-
-
-.pin {
 	display: inline-block;
 	background: #FEFEFE;
 	border: 2px solid #FAFAFA;
@@ -70,43 +68,27 @@ img.icon{
 	-o-transition: all .2s ease;
 	transition: all .2s ease;
 	margin-bottom: 12px;
+	max-width: 300px;
+    margin: 10px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-top: 2px solid rgb(158, 27, 50);
+    clear: both;
+    padding: 10px;
 }
-
+*/
+/*
 .pin img {
 	width: 100%;
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 15px;
 	margin-bottom: 5px;
 }
-
+*/
 .pin p {
 	font: 18px Arial, sans-serif;
 	color: #777777;
 	margin: 0;
-}
-
-.pin {
-    max-width: 300px;
-    margin: 10px;
-    background: none repeat scroll 0% 0% rgb(255, 255, 255);
-    border-top: 2px solid rgb(158, 27, 50);
-    clear: both;
-}
-
-a {
-    color: rgb(158, 27, 50);
-}
-
-a img {
-    border: medium none;
-}
-
-.pin {
-    padding: 10px;
-}
-
-.pin p {
-    color: rgb(158, 27, 50);
+	color: rgb(158, 27, 50);
     text-decoration: none;
     letter-spacing: 1px;
     font-size: 16px;
@@ -116,6 +98,16 @@ a img {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+
+
+a {
+    color: rgb(158, 27, 50);
+}
+
+a img {
+    border: medium none;
+}
+
 
 
 @media (min-width: 960px) {
