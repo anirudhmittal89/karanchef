@@ -1,0 +1,113 @@
+<html><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Full Width Slider</title>
+		
+		<!-- ****************** STEP 1: INCLUDE FOLLOWING IN YOUR <HEAD> ****************** -->
+		<meta name="Keywords" content="">
+		<meta name="Description" content="">
+		<!-- jQuery library -->
+		<script type="text/javascript" src="lib/js/jquery-1.9.1.min.js"></script><style type="text/css"></style>
+		<!-- jQuery Plugin scripts -->
+		<script type="text/javascript" src="lib/js/jquery.easing.1.3.min.js"></script>
+		<!-- Slider  scripts -->
+		<script type="text/javascript" src="lib/js/jquery.preview.slider.js"></script>
+		<script type="text/javascript" src="lib/js/fn.js"></script>
+		<script type="text/javascript" charset="utf-8">
+		var color = '#F24A4A'
+		$(window).load(function(){
+			$(".contentslider-std").jps({
+				circular:1,//Activate the infinite nav scroll
+				panelfx:"fading",// Define the panels transition effect. Possible values: "fading", "sliding", "none" . Default is "fading"
+				panelfxfirst:"fading",// Add a transition effect on the first displayed item. There are only 2 possible values for the moment: "fading" or "none".  Default is "none"
+				panelfxeasing:"swing",// Add an easing effect to the nav slide transition.Default jQuery easing functions are "swing" or "linear".
+				fastchange:'true',//default is true. By default the user can slide to the next content even if the slider is still running. 
+				
+				panelfxafter: function(){
+					populate_preview_images(slider_ids); //populating the preview images after the animation ends
+				}
+			});
+		});
+		</script>
+		<!-- Slider styles -->
+		<link rel="stylesheet" type="text/css" href="lib/css/style.css" media="screen">
+		<link href="http://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet" type="text/css">
+		<!-- ****************** /STEP 1: INCLUDE FOLLOWING IN YOUR <HEAD> ***************** -->
+	</head><div id="yvkM3rCcK9nCeZ2HIj6" class="Z4AhLOEYW_EU98l036zljYh8" style="display: none;"></div><div id="ETUL7HatPP3AUqAaHtyB8Cx_K" class="Z4AhLOEYW_EU98l036zljYh8" style="display: none;"></div><div id="briRevrJXbDvxWFp6kRqaS" class="Z4AhLOEYW_EU98l036zljYh8" style="display: none;"></div>
+	<body>
+		<div id="page">
+			<div id="content">
+				<h2 class="slider-title">jQuery Preview Slider - Demo page</h2>
+				<!-- ****************** STEP 2: INCLUDE THE HTML PART ****************** -->
+				<div class="jps contentslider-std" style="height: 610px; display: block;">
+					<div class="jps-btn jps-go-btn jps-go-prev prev" style="left: 0px;"><a href="#" title="Previous"><span>Previous</span></a><strong id="d-thumb" style="opacity: 0;">&nbsp;</strong></div>
+					<div class="jps-btn jps-go-btn jps-go-next next" style="right: 0px;"><a href="#" title="Next" style="opacity: 1;"><span>Next</span></a><strong id="b-thumb" style="opacity: 0;">&nbsp;</strong></div>
+					
+					
+					<ul class="jps-panels" style="height: 610px;">
+						<!-- ****************** STEP 3: DUPLICATE TO ADD MORE SLIDES ****************** -->
+						<li id="a" class="jps-panel" style="display: list-item;">// the id has to have the same name as the image
+							<!-- Text container -->
+							<div class="description">
+								<!-- Text title -->
+								<h2>Heading text</h2>
+								<!-- /Text title -->
+								<!-- Text description -->
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+									
+								</p>
+								<!-- Text description -->
+								<!-- Learn more button -->
+								 <a href="#">Read more...</a>
+								<!-- /Learn more button -->
+							</div>
+							<!-- /Text container -->
+							<a href="#" class="holder" title="[Link title text]">
+								<!-- Slide image -->
+								<img src="lib/images/a.jpg" id="loaded" alt="[Alternative text]">
+								<!-- /Slide image -->
+							</a>
+						</li>
+						<!-- ****************** STEP 3: DUPLICATE TO ADD MORE SLIDES ****************** -->
+						
+						<!-- demo slides (you can delete these) --> 
+						<li id="b" class="jps-panel jps-panel-old" style="display: list-item;">
+							<div class="description">
+								<h2>Heading text</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. 
+									</p>
+									<a href="#">Read more...</a>
+							</div>
+							<a href="#" class="holder" title="[Link title text]"><img src="lib/images/b.jpg" alt="[Alternative text]"></a>
+						</li>
+						<li id="c" class="jps-panel jps-panel-active" style="display: list-item;">
+							<div class="description">
+								<h2>Heading text</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+									 </p>
+									<a href="#">Read more...</a>
+							</div>
+							<a href="#" class="holder" title="[Link title text]"><img src="lib/images/c.jpg" alt="[Alternative text]"></a>
+						</li>
+						<li id="d" class="jps-panel" style="display: list-item;">
+							<div class="description">
+								<h2>Heading text</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+									 </p>
+									<a href="#">Read more...</a>
+							</div>
+							<a href="#" class="holder" title="[Link title text]"><img src="lib/images/d.jpg" alt="[Alternative text]"></a>
+						</li>
+						
+						<!-- demo slides (you can delete these) --> 
+					</ul>
+					<div class="cl">&nbsp;</div>
+				</div>
+				<small style="padding-top:10px; display:block">Please note the images used in this preview are for demo purpose only and are not included in the package!</small>
+				<!-- ****************** /STEP 2: INCLUDE THE HTML PART ****************** -->
+			</div>
+				<div class="cl">&nbsp;</div>
+			<div class="spacer"></div>
+		</div>
+	
+
+</body></html>

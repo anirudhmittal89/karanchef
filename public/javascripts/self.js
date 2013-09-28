@@ -27,6 +27,17 @@ $('#filters a').click(function(){
 });
 */
 
+
+            $(function() {
+                $('#ei-slider').eislideshow({
+                    animation           : 'center',
+                    autoplay            : true,
+                    slideshow_interval  : 3000,
+                    titlesFactor        : 0
+                });
+            });
+        
+
     var $container = $('.portfolioContainer');
 
     $container.imagesLoaded( function(){
