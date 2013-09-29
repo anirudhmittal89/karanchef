@@ -15,17 +15,17 @@ html
               ul.nav.navbar-nav
                 li
                   a(href='/index') Home
-                li
+                li.dessert
                   a(href='/recipes?type=dessert') Dessert Recipes
-                li
+                li.entree
                   a(href='/recipes?type=entree') Entree Recipes
-                li
+                li.main
                   a(href='/recipes?type=main') Main Course Recipes  
                 li
                   a(href='/me') About Me
 
     .container.marketing
-      h1 Recipes
+      h1 #{title}
       //-div.portfolioFilter
       //- li
       //-  a.current(href='#', data-filter='*') All Categories
@@ -41,7 +41,7 @@ html
        each data in ob
         div.pin(class="#{data.categ} col-lg-4",style="margin-bottom:10px;border-top: 2px solid rgb(158, 27, 50);padding: 5px;")
          a(href="/info?src=#{data.src}&caption=#{data.caption}")
-          img.lazy(src="#{data.src}",style="width: 100%;border-bottom: 1px solid rgb(204, 204, 204);padding-bottom: 0px;margin-bottom: 5px;")
+          img.lazy(src="#{data.src}",style="width: 95%;border-bottom: 1px solid rgb(204, 204, 204);padding-bottom: 0px;margin-bottom: 5px;")
           p #{data.caption}
 
       footer
@@ -52,3 +52,20 @@ html
           a(href='#') Privacy
           | ·
           a(href='#') Terms
+  script(type='text/javascript').
+    var src=window.location.href.split("?type=")[1];
+
+    $("li.main").removeClass("active");
+    $("li.entree").removeClass("active");
+    $("li.dessert").removeClass("active");
+    if(src=="main"){
+      $("li.main").addClass("active");
+    }
+    if(src=="entree"){
+      $("li.entree").addClass("active");
+    }
+    if(src=="dessert"){
+      $("li.dessert").addClass("active");
+    }
+
+  

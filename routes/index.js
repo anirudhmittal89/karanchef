@@ -1022,14 +1022,17 @@ var type=req.query.type;
 console.log(type);
 if(type=="main"){
 	ob=main;
+    title="Main Course Recipes";
 
 }
 if(type=="dessert"){
 	ob=dessert;
+    title="Dessert Recipes";
 }
 if(type=="entree"){
 	ob=entree;
+    title="Entree Recipes";
 }
 console.log(ob);
-  res.render('recipes', {ob:ob});
+  res.render('recipes', {ob:ob,title:title,dessertMenu:true});
 };
