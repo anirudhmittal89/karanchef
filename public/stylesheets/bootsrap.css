@@ -25,6 +25,10 @@ summary {
   display: block;
 }
 
+  .col-lg-4 {
+    width: 33.33333333333333%;
+    float:left;
+  }
 audio,
 canvas,
 video {
