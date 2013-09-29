@@ -96,6 +96,8 @@ img.icon{
     font-weight: normal;
     text-transform: uppercase;
     letter-spacing: 1px;
+    position:relative;
+    top:-5px;
 }
 
 
@@ -314,4 +316,9 @@ margin-bottom: 10px !important;
 
 .marketing{
 margin-top:60px;
+}
+
+@media (min-width: 500px && max-width: 1000px)
+.col-lg-4 {
+width: 33.33333333333333%;
 }
