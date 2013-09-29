@@ -1,8 +1,25 @@
+
+@media (min-width: 768px){
+#ei-slider{
+max-width: 750px !important;
+}
+}
+@media (min-width: 992px){
+#ei-slider{
+max-width: 970px !important;
+}
+}
+@media (min-width: 1200px){
+#ei-slider{
+max-width: 1170px !important;
+}
+}
+
 .ei-slider{
 	position: relative;
 	width: 100%;
-	max-width: 1920px;
-	height: 800px;
+	/*max-width: 1920px;*/
+	height: 675px;
 	margin: 0 auto;
 }
 .ei-slider-loading{
@@ -155,3 +172,4 @@
 		line-height: 40px;
 	}
 }
+
