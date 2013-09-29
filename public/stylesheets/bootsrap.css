@@ -1070,7 +1070,12 @@ pre code {
     margin-left: 91.66666666666666%;
   }
 }
-
+@media screen and (max-width: 480px){
+div.col-lg-4{
+  width:100% !important;
+  text-align: center;
+}
+}
 @media (min-width: 992px) {
   .container {
     max-width: 970px;
