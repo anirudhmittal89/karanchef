@@ -86,6 +86,7 @@ text-shadow: 0px 2px 3px #555;
 	position: relative;
 	float: left;
 	height: 100%;
+	list-style-type: none;
 }
 .ei-slider-thumbs li.ei-slider-element{
 	top: 0px;
