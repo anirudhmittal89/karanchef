@@ -39,7 +39,7 @@ $('#filters a').click(function(){
         
 
     var $container = $('.portfolioContainer');
-
+/*
     $container.imagesLoaded( function(){
     $container.isotope({
         filter: '*',
@@ -59,13 +59,18 @@ $('#filters a').click(function(){
 
     });
 });
-
+*/
 
     $('img.lazy').lazyload({
   effect: "fadeIn",
   skip_invisible : false
 });
- 
+
+     $('img').lazyload({
+  effect: "fadeIn",
+  skip_invisible : false
+});
+ /*
     $('.portfolioFilter a').click(function(){
         $('.portfolioFilter .current').removeClass('current');
         $(this).addClass('current');
@@ -81,6 +86,6 @@ $('#filters a').click(function(){
          });
          return false;
     }); 
-
+*/
 
 	});

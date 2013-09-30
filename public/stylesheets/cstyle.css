@@ -19,8 +19,9 @@ max-width: 1170px !important;
 	position: relative;
 	width: 100%;
 	/*max-width: 1920px;*/
-	height: 675px;
+	height: 475px;
 	margin: 0 auto;
+	margin-top:50px;
 }
 .ei-slider-loading{
 	width: 100%;

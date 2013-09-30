@@ -39,11 +39,11 @@ html
       div#wrapper
       div#columns.portfolioContainer
        each data in ob
-        div.pin(class="#{data.categ} col-lg-4",style="margin-bottom:10px;border-top: 2px solid rgb(158, 27, 50);padding: 5px;")
+        div.pin(class="#{data.categ} col-lg-4",style="margin:0 12px 25px 5px")
          a(href="/info?src=#{data.src}&caption=#{data.caption}")
           img.lazy(src="#{data.src}",style="width: 95%;border-bottom: 1px solid rgb(204, 204, 204);padding-bottom: 0px;margin-bottom: 5px;")
           p #{data.caption}
-
+      div(style="clear:both")
       footer
         p.pull-right
           a(href='#') Back to top
