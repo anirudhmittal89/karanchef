@@ -350,3 +350,29 @@ max-height: 33.33333333333333%;
 	left:-10px !important;
 }
 }
+
+div.row div.col-lg-4{
+	width: 33.33333333333333% !important;
+	height: 33.33333333333333% !important;
+
+}
+
+@media screen and (max-width: 480px){
+	.ei-title {
+width: 100%;
+margin:0px;
+position:inherit !important;
+text-align: center;
+background:none !important;
+}
+div.row div.col-lg-4{
+  width:100% !important;
+  text-align: center;
+}
+div.ei-title h2{
+	font-size: 18px !important;
+}
+div.row div.col-lg-4 img{
+	margin:0 auto !important;
+}
+}
