@@ -70,6 +70,11 @@ $('#filters a').click(function(){
   effect: "fadeIn",
   skip_invisible : false
 });
+
+     $("button.navbar-toggle").live("click",function(){
+       $(this).toggleClass("in"); 
+       $(".navbar-collapse").toggleClass("in");
+     });
  /*
     $('.portfolioFilter a').click(function(){
         $('.portfolioFilter .current').removeClass('current');

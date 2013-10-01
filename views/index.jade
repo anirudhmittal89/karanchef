@@ -16,11 +16,17 @@ html
                 li.active
                   a(href='/index') Home
                 li
-                  a(href='/recipes?type=dessert') Dessert Recipes
+                  a(href='/recipes?type=dessert') Dessert
                 li
-                  a(href='/recipes?type=entree') Entree Recipes
+                  a(href='/recipes?type=entree') Entree
                 li
-                  a(href='/recipes?type=main') Main Course Recipes  
+                  a(href='/recipes?type=main') Main Course  
+                li
+                  a(href='/recipes?type=dessert') Salad
+                li
+                  a(href='/recipes?type=entree') Pasta
+                li
+                  a(href='/recipes?type=main') Vegetarian    
                 li
                   a(href='/me') About Me
 
@@ -121,23 +127,47 @@ html
             | A main course is the featured or primary dish in a meal consisting of several courses. It usually follows the entrée ("entry") course. In the United States it may in fact be called "entree".The main dish is usually the heaviest, heartiest, and most complex or substantive dish on a menu.
           p
             a.btn.btn-default(href='/recipes?type=main') Browse Main Course Recipes »
+      .row
+        .col-lg-4
+          img.img-circle.img-responsive(src='http://2.bp.blogspot.com/_UIXOn06Pz70/SHUunwR72BI/AAAAAAAADxc/k-c9rl9I21I/s800/Strawberry+and+Avocado+Spinach+Salad+500.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          h2 Salad
+          p
+            | Salad is a popular, ready-to-eat dish made of diverse ingredients, usually served chilled or at a moderate temperature. Many people use the word "salad" to describe light, savory leafy vegetable dishes, most often served with a sauce or dressing, but the category may additionally include dishes made of ingredients such as fruits, grains, meats, seafood and sweets. Though many salads use raw ingredients, some use cooked ingredients; most salads use vegetables, though fruit salads also exist.
+          p
+            a.btn.btn-default(href='/recipes?type=dessert') Browse Salad Recipes »
+        // /.col-lg-4
+        .col-lg-4
+          img.img-circle.img-responsive(src='http://images3.wikia.nocookie.net/__cb20100729005509/familyrecipes/images/4/4d/S_pasta.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          h2 Pasta
+          p
+            | Pasta is a type of noodle and is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically pasta is made from an unleavened dough of a durum wheat flour mixed with water and formed into sheets or various shapes, then cooked and served in any number of dishes. It can be made with flour from other cereals or grains, and eggs may be used instead of water.
+          p
+            a.btn.btn-default(href='/recipes?type=entree') Browse Pasta Recipes »
+        // /.col-lg-4
+        .col-lg-4
+          img.img-circle.img-responsive(src='http://avocadopesto.files.wordpress.com/2012/04/collard-green-wraps-11a-1-of-1.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          h2 Vegetarian  
+          p
+            | Veganism is the practice of abstaining from the use of animal products, particularly in diet, as well as following an associated philosophy that rejects the commodity status of sentient animals. A follower of veganism is known as a vegan.
+          p
+            a.btn.btn-default(href='/recipes?type=main') Browse Vegetarian Recipes »
         // /.col-lg-4
       // /.row
       // START THE FEATURETTES
       hr.featurette-divider
-      .row.featurette
-        .col-md-7
-          h2.featurette-heading
-            | COOKING FOOD IS PURE LOVE!! 
-            span.text-muted
-              span.h2 EVOKING ALL SENSES AND SATISYING ONE'S SOUL 
-          p.lead
-            | I have always been passionate about food since my childhood and nothing was more fascinating to me than food. I started cooking at the age of 16 . I started off by cooking food for my family and friends. After getting a positive response and request for making the food again and again I decided to pursue this as my career.
+      //-.row.featurette
+      //-  .col-md-7
+      //-    h2.featurette-heading
+      //-      | COOKING FOOD IS PURE LOVE!! 
+      //-      span.text-muted
+      //-        span.h2 EVOKING ALL SENSES AND SATISYING ONE'S SOUL 
+      //-    p.lead
+      //-      | I have always been passionate about food since my childhood and nothing was more fascinating to me than food. I started cooking at the age of 16 . I started off by cooking food for my family and friends. After getting a positive response and request for making the food again and again I decided to pursue this as my career.
             Some Some of my favorite cooking shows are Masterchef Australia and  America's Top chef. One of my favorite chef's is Heston Blumenthal that has motivated me to strive for perfection each time i cooked.
-          a.btn.btn-default(href='me') View details »
-        .col-md-5
-          img.featurette-image.img-responsive(src='/images/img/pp.jpg', data-src='holder.js/500x500/auto', alt='500x500')
-      hr.featurette-divider
+      //-    a.btn.btn-default(href='me') View details »
+      //-  .col-md-5
+      //-    img.featurette-image.img-responsive(src='/images/img/pp.jpg', data-src='holder.js/500x500/auto', alt='500x500')
+      //-hr.featurette-divider
       //-.row.featurette
       //-  .col-md-5
       //-    img.featurette-image.img-responsive(src='/images/food/4.jpg', data-src='holder.js/500x500/auto', alt='500x500')
