@@ -84,12 +84,13 @@ img.icon{
 }
 */
 .pin p {
-	font-size: 11px;
-line-height: 15px;
-word-wrap: break-word;
+font-size: 16px;
+line-height: 20px;
 color: #0091CE;
-text-decoration: underline;
-font-weight: 500;
+height:18px;
+overflow:hidden;
+text-overflow:ellipsis;
+text-align: center;
 
 }
 
@@ -384,4 +385,14 @@ div.ei-title h2{
 div.row div.col-lg-4 img{
 	margin:0 auto !important;
 }
+}
+
+@media screen and (min-width: 768px){
+.navbar-wrapper{
+	margin-bottom:80px;
+}
+div.ei-title h2{
+	font-size: 18px !important;
+}
+
 }
