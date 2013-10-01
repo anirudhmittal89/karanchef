@@ -324,13 +324,17 @@ margin-top:60px;
 width: 33.33333333333333%;
 }
 
+@media (min-width: 720px){
 div#columns div.col-lg-4 {
 width: 31.33333333333333% !important;
-height: 33.33333333333333%;
-max-width: 31.33333333333333% !important;
+height: 30.33333333333333%;
+max-width: 30.33333333333333% !important;
 max-height: 33.33333333333333%;
 }
-
+.container h1{
+	margin-top: 40px;
+}
+}
 
 @media (min-width: 1200px){
 div#columns div.col-lg-4 {
