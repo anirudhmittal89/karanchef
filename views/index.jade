@@ -30,90 +30,26 @@ html
                 li
                   a(href='/me') About Me
 
-    #ei-slider.ei-slider
-      ul.ei-slider-large
-        li
-          img(src='/images/APPLE PIE.jpg', alt='image06')
-          .ei-title
-            h2 APPLE PIE
-            h3 
-              a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
-        li
-          img(src='/images/CHOCLATE AND WANUT BROWNIE  2.jpg', alt='image06')
-          .ei-title
-            h2 CHOCLATE AND WANUT BROWNIE
-            h3 
-              a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
-        li
-          img(src='/images/CHOCOLATE FUDGE CAKE WITH ORANGE MOUSSE.jpg', alt='image06')
-          .ei-title
-            h2 CHOCOLATE FUDGE CAKE WITH ORANGE MOUSSE
-            h3 
-              a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
-        li
-          img(src='/images/GUM PASTE DECORATION OVER CAKE.jpg', alt='image06')
-          .ei-title
-            h2 GUM PASTE DECORATION OVER CAKE
-            h3 
-              a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
-        li
-          img(src='/images/HARIYALI MURGH TIKKA AND CHICKEN SHAMMI KEBAB PLATTER.jpg', alt='image06')
-          .ei-title
-            h2 HARIYALI MURGH TIKKA AND CHICKEN SHAMMI KEBAB PLATTER
-            h3 
-              a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
+    #hero
+      .hero-wrapper
+        .focus
+          .title Discover the world's recipes
+          form.keywords(action='/recipes')
+            span.ninja-autocomplete
+              input#q(autocapitalize='off', autocorrect='off', name='q', placeholder='Search recipes...', type='text', value='', autocomplete='off')
+            button.nochrome(type='submit')
+              span.text Search
+              span.y-icon &
+        .sidekick
+          img.bigimage(src='http://imagesci.com/img/2013/03/food-wallpaper-7883-hd-wallpapers.jpg')
+      #google-ads-0.ad-hero.image
 
-
-
-        li
-          img(src='/images/HOME SMOKED PANEER TIKKA.jpg', alt='image06')
-          .ei-title
-            h2 HOME SMOKED PANEER TIKKA
-            h3 
-              a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
-        li
-          img(src='/images/STRAWBERRY AND FRANGIPANE TART.jpg', alt='image06')
-          .ei-title
-            h2 STRAWBERRY AND FRANGIPANE TART
-            h3 
-              a.btn.btn-default(href='/recipes?type=entree') Browse Dessert Recipes »
-      ul.ei-slider-thumbs
-        li.ei-slider-element Current
-        li
-          a(href='#') APPLE PIE
-          img(src='/images/APPLE PIE.jpg', alt='image06')
-        li
-          a(href='#') CHOCLATE AND WANUT BROWNIE
-          img(src='/images/CHOCLATE AND WANUT BROWNIE  2.jpg', alt='image06')
-        li
-          a(href='#') CHOCOLATE FUDGE CAKE WITH ORANGE MOUSSE
-          img(src='/images/CHOCOLATE FUDGE CAKE WITH ORANGE MOUSSE.jpg', alt='image06')
-        li
-          a(href='#') GUM PASTE DECORATION OVER CAKE
-          img(src='/images/GUM PASTE DECORATION OVER CAKE.jpg', alt='image06')
-        li
-          a(href='#') HARIYALI MURGH TIKKA AND CHICKEN SHAMMI KEBAB PLATTER
-          img(src='/images/HARIYALI MURGH TIKKA AND CHICKEN SHAMMI KEBAB PLATTER.jpg', alt='image06')
-        li
-          a(href='#') HOME SMOKED PANEER TIKKA
-          img(src='/images/HOME SMOKED PANEER TIKKA.jpg', alt='image06')
-        li
-          a(href='#') STRAWBERRY AND FRANGIPANE TART
-          img(src='/images/STRAWBERRY AND FRANGIPANE TART.jpg', alt='image06')
-
-    .container.marketing
+    .container.marketing.mrgn
       // Three columns of text below the carousel
       .row
-        .col-lg-4
-          img.img-circle.img-responsive(src='http://www.vancitybuzz.com/wp-content/uploads/2012/08/Vancouver-Dessert-Festival.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
-          h2 Dessert
-          p
-            | Dessert is a typically sweet course that concludes a meal. There is a wide variety of desserts in western cultures including cakes, cookies, biscuits, gelatins, pastries, ice creams, pies, puddings, and candies. Fruit is also commonly found in dessert courses because of its natural sweetness.
-          p
-            a.btn.btn-default(href='/recipes?type=dessert') Browse Dessert Recipes »
         // /.col-lg-4
         .col-lg-4
-          img.img-circle.img-responsive(src='/images/ENTREE/PEPPER FRIED PRAWNS.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          img.img.img-responsive(src='http://innatpleasantlake.com/wp-content/uploads/lamb-entree.jpg', data-src='holder.js/140x140', alt='140x140', style='height:300px;width:100%')
           h2 Entree
           p
             | In French cuisine, an entrée is a dish served before the main course, or between two principal courses of a meal.This use of the term is unusual (but not unheard of) outside North America, as most other English speakers follow the original French usage, generally considering the word "entrée" to mean a first course.
@@ -121,15 +57,22 @@ html
             a.btn.btn-default(href='/recipes?type=entree') Browse Entree Recipes »
         // /.col-lg-4
         .col-lg-4
-          img.img-circle.img-responsive(src='/images/MAINS/MADRAS LAMB NALLI KORMA.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          img.img.img-responsive(src='http://www.pittsburghmagazine.com/Pittsburgh-Magazine/November-2012/The-Best-Pizza-in-Pittsburgh/120925-0008-Giovannis.jpg', data-src='holder.js/140x140', alt='140x140', style='height:300px;width:100%')
           h2 Main Course  
           p
             | A main course is the featured or primary dish in a meal consisting of several courses. It usually follows the entrée ("entry") course. In the United States it may in fact be called "entree".The main dish is usually the heaviest, heartiest, and most complex or substantive dish on a menu.
           p
             a.btn.btn-default(href='/recipes?type=main') Browse Main Course Recipes »
+        .col-lg-4
+          img.img.img-responsive(src='http://www.vancitybuzz.com/wp-content/uploads/2012/08/Vancouver-Dessert-Festival.jpg', data-src='holder.js/140x140', alt='140x140', style='height:300px;width:100%')
+          h2 Dessert
+          p
+            | Dessert is a typically sweet course that concludes a meal. There is a wide variety of desserts in western cultures including cakes, cookies, biscuits, gelatins, pastries, ice creams, pies, puddings, and candies. Fruit is also commonly found in dessert courses because of its natural sweetness.
+          p
+            a.btn.btn-default(href='/recipes?type=dessert') Browse Dessert Recipes »
       .row
         .col-lg-4
-          img.img-circle.img-responsive(src='http://2.bp.blogspot.com/_UIXOn06Pz70/SHUunwR72BI/AAAAAAAADxc/k-c9rl9I21I/s800/Strawberry+and+Avocado+Spinach+Salad+500.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          img.img.img-responsive(src='http://2.bp.blogspot.com/_UIXOn06Pz70/SHUunwR72BI/AAAAAAAADxc/k-c9rl9I21I/s800/Strawberry+and+Avocado+Spinach+Salad+500.jpg', data-src='holder.js/140x140', alt='140x140', style='height:300px;width:100%')
           h2 Salad
           p
             | Salad is a popular, ready-to-eat dish made of diverse ingredients, usually served chilled or at a moderate temperature. Many people use the word "salad" to describe light, savory leafy vegetable dishes, most often served with a sauce or dressing, but the category may additionally include dishes made of ingredients such as fruits, grains, meats, seafood and sweets. Though many salads use raw ingredients, some use cooked ingredients; most salads use vegetables, though fruit salads also exist.
@@ -137,7 +80,7 @@ html
             a.btn.btn-default(href='/recipes?type=dessert') Browse Salad Recipes »
         // /.col-lg-4
         .col-lg-4
-          img.img-circle.img-responsive(src='http://images3.wikia.nocookie.net/__cb20100729005509/familyrecipes/images/4/4d/S_pasta.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          img.img.img-responsive(src='http://images3.wikia.nocookie.net/__cb20100729005509/familyrecipes/images/4/4d/S_pasta.jpg', data-src='holder.js/140x140', alt='140x140', style='height:300px;width:100%')
           h2 Pasta
           p
             | Pasta is a type of noodle and is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. It is also commonly used to refer to the variety of pasta dishes. Typically pasta is made from an unleavened dough of a durum wheat flour mixed with water and formed into sheets or various shapes, then cooked and served in any number of dishes. It can be made with flour from other cereals or grains, and eggs may be used instead of water.
@@ -145,12 +88,14 @@ html
             a.btn.btn-default(href='/recipes?type=entree') Browse Pasta Recipes »
         // /.col-lg-4
         .col-lg-4
-          img.img-circle.img-responsive(src='http://avocadopesto.files.wordpress.com/2012/04/collard-green-wraps-11a-1-of-1.jpg', data-src='holder.js/140x140', alt='140x140', style='height:100%;width:100%;max-width: 300px; max-height: 300px;')
+          img.img.img-responsive(src='http://avocadopesto.files.wordpress.com/2012/04/collard-green-wraps-11a-1-of-1.jpg', data-src='holder.js/140x140', alt='140x140', style='height:300px;width:100%')
           h2 Vegetarian  
           p
             | Veganism is the practice of abstaining from the use of animal products, particularly in diet, as well as following an associated philosophy that rejects the commodity status of sentient animals. A follower of veganism is known as a vegan.
           p
             a.btn.btn-default(href='/recipes?type=main') Browse Vegetarian Recipes »
+      
+        
         // /.col-lg-4
       // /.row
       // START THE FEATURETTES

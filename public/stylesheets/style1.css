@@ -534,3 +534,315 @@ span.black {
 -moz-osx-font-smoothing: greyscale;
 -webkit-font-smoothing: antialiased;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#hero {
+background: #383838;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+position: relative;
+text-align: center;
+width: 100%;
+}
+
+.hero-wrapper {
+height: 100%;
+left: 0;
+position: absolute;
+top: 0;
+width: 100%;
+}
+
+
+
+@media only screen and (min-width: 1024px){
+#hero {
+height: 450px;
+}
+}
+
+@media only screen and (max-width: 769px){
+#hero {
+height: 320px;
+}
+}
+@media only screen and (max-width: 481px){
+#hero {
+height: 256px;
+}
+}
+
+@media only screen and (min-width: 769px){
+.focus {
+margin-top: -56px;
+}
+}
+@media only screen and (max-width: 769px){
+.focus {
+margin-top: -48px;
+}
+}
+@media only screen and (max-width: 481px){
+.focus {
+margin-top: -48px;
+}
+}
+.focus {
+height: 0;
+overflow: visible;
+position: relative;
+text-align: left;
+width: 100%;
+z-index: 2;
+margin-top: -44px;
+margin-left: auto;
+margin-right: auto;
+top: 50%;
+}
+
+@media only screen and (min-width: 1024px){
+.focus .title {
+font-size: 56px;
+margin-bottom: 20px;
+text-shadow: #000 0 0 7px,rgba(0,0,0,0.9) 0 0 20px;
+}
+}
+@media only screen and (max-width: 769px){
+.focus .title {
+font-size: 48px;
+margin-bottom: 16px;
+}
+}
+@media only screen and (max-width: 481px){
+.focus .title {
+font-size: 36px;
+margin-bottom: 12px;
+font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 300;
+}
+}
+
+
+.focus .title {
+color: #fff;
+height: 0;
+overflow: visible;
+text-shadow: #000 0 0 7px,rgba(0,0,0,0.9) 0 0 1px;
+font-size: 24px;
+line-height: 1;
+margin-bottom: 8px;
+text-align: center;
+}
+
+.hero-wrapper .imglink, .hero-wrapper .sidekick {
+height: 100%;
+left: 0;
+overflow: hidden;
+position: absolute;
+top: 0;
+width: 100%;
+}
+
+@media only screen and (min-width: 754px){
+.hero-wrapper .bigimage {
+height: auto;
+min-width: 1200px;
+}
+}
+
+.hero-wrapper .bigimage {
+height: auto;
+min-width: 769px;
+width: 100%;
+}
+
+@media only screen and (min-width: 1024px){
+.focus > form {
+margin-top: 76px;
+}
+}
+@media only screen and (max-width: 769px){
+.focus > form {
+margin-top: 64px;
+width: 400px;
+}
+}
+
+
+@media only screen and (max-width: 481px){
+.focus > form {
+margin-top: 48px;
+width: 300px;
+}
+}
+
+.focus > form {
+margin: 32px auto 0;
+width: 240px;
+}
+
+.focus > form .ninja-autocomplete {
+width: 100%;
+}
+.ninja-autocomplete {
+display: inline-block;
+position: relative;
+}
+
+
+form input#q, form input#q-m, form input#q-home {
+background: #f8f8f8;
+-webkit-border-radius: 7px;
+border-radius: 7px;
+-webkit-box-shadow: rgba(0,0,0,0.1) 0 1px 1px 0 inset;
+box-shadow: rgba(0,0,0,0.1) 0 1px 1px 0 inset;
+padding: 0 10px;
+overflow: hidden;
+}
+.focus > form .ninja-autocomplete input {
+width: 100%;
+}
+@media only screen and (min-width: 1024px){
+.focus > form input {
+font-size: 18px;
+height: 48px;
+padding: 0 10px 0 48px !important;
+}
+}
+@media only screen and (max-width: 769px){
+.focus > form input {
+font-size: 16px;
+height: 40px;
+padding: 0 10px 0 40px !important;
+}
+}
+.focus > form input {
+border: none;
+-webkit-border-radius: 5px !important;
+border-radius: 5px !important;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+-webkit-box-shadow: rgba(0,0,0,0.3) 0 0 10px !important;
+box-shadow: rgba(0,0,0,0.3) 0 0 10px !important;
+font-size: 14px;
+height: 36px;
+line-height: 1;
+margin-bottom: 0;
+padding: 0 10px 0 36px !important;
+width: 85%;
+-webkit-transition: all ease-in 200ms;
+-moz-transition: all ease-in 200ms;
+-o-transition: all ease-in 200ms;
+-ms-transition: all ease-in 200ms;
+transition: all ease-in 200ms;
+-webkit-appearance: none;
+}
+form input, form textarea {
+border: 1px solid #aaa;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+-webkit-box-shadow: rgba(0,0,0,0.1) 0 1px 3px 0 inset;
+box-shadow: rgba(0,0,0,0.1) 0 1px 3px 0 inset;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+font-size: 13px;
+line-height: 18px;
+outline: none;
+padding: 4px 8px;
+-webkit-transition: border 300ms ease-in, box-shadow 300ms ease-in;
+-moz-transition: border 300ms ease-in, box-shadow 300ms ease-in;
+-o-transition: border 300ms ease-in, box-shadow 300ms ease-in;
+-ms-transition: border 300ms ease-in, box-shadow 300ms ease-in;
+transition: border 300ms ease-in, box-shadow 300ms ease-in;
+}
+
+
+@media only screen and (min-width: 1024px){
+.focus > form button {
+font-size: 20px;
+height: 48px;
+top: -48px;
+width: 48px;
+}
+}
+@media only screen and (max-width: 769px){
+.focus > form button {
+font-size: 16px;
+height: 40px;
+top: -40px;
+width: 40px;
+}
+}
+.focus > form button {
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+color: #aaa;
+text-decoration: none;
+font-size: 14px;
+height: 36px;
+left: 0;
+position: relative;
+top: -36px;
+width: 36px;
+}
+a[class*="nochrome"], button[class*="nochrome"] {
+background: none;
+border: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+color: #e16120;
+cursor: pointer;
+margin: 0;
+padding: 0;
+}
+.focus > form button .text {
+display: none;
+}
+
+a >.y-icon, button >.y-icon {
+vertical-align: top;
+}
+.y-icon {
+display: inline-block;
+font-family: 'y-icon';
+font-style: normal;
+speak: none;
+font-weight: normal;
+}
+
+@media only screen and (min-width: 754px){
+.hero-wrapper .bigimage {
+height: 450px;
+min-width: 1200px;
+margin:0px;
+margin-top:70px;
+margin-bottom:30px;
+}
+}
+.hero-wrapper .bigimage {
+height: auto;
+min-width: 769px;
+width: 100%;
+}
+
+.mrgn{
+	margin-top:30px;
+}
