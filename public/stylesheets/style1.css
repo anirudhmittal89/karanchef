@@ -30,8 +30,8 @@ overflow: hidden;
 	background: none !important;
 }
 img.icon{
-	height:50px;
-	width:50px;
+	height:45px;
+	width:45px;
 	float: left;
 	margin-right: 12px;
 }
@@ -192,9 +192,6 @@ body {
 
 
 
-img {
-    margin:5px;
-}
 
 .isotope-item {
     z-index: 2;
@@ -537,7 +534,9 @@ span.black {
 
 
 
-
+.nav{
+	margin:0px !important;
+}
 
 
 
@@ -662,6 +661,7 @@ width: 100%;
 .hero-wrapper .bigimage {
 height: auto;
 min-width: 1200px;
+margin:0px !important;
 }
 }
 
