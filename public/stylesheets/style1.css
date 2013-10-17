@@ -568,14 +568,19 @@ width: 100%;
 }
 
 
-
-@media only screen and (min-width: 1024px){
+@media only screen and (min-width:1025px) {
 #hero {
 height: 450px;
 }
 }
 
-@media only screen and (max-width: 769px){
+@media only screen and (min-width:770px) and (max-width: 1024px){
+#hero {
+height: 450px;
+}
+}
+
+@media only screen and (min-width:482px) and (max-width: 769px){
 #hero {
 height: 320px;
 }
