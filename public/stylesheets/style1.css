@@ -2,6 +2,12 @@ html body {
 background: url(/images/img/imgbg.jpg) repeat 0 0 #f8f8f8;
 color: #333;
 }
+.img-responsive {
+    max-height: 225px !important;
+}
+.row{
+	margin-bottom:20px;
+}
 
 .recipes .col-lg-4{
 padding-right: 0px !important;
