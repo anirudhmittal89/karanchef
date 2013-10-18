@@ -28,6 +28,13 @@ var data={
 
 };
 
+exports.recajax = function(req, res){
+    res.send({id:1234});
+
+
+  
+};
+
 exports.recipes = function(req, res){
 	var dessert=[
     {
@@ -1016,6 +1023,7 @@ exports.recipes = function(req, res){
         }
     
 ];
+
 var ob=[];
 var src=req.query.src;
 var type=req.query.type;
