@@ -26,9 +26,25 @@ html
 
     .container.marketing
       <h1>#{data.caption}</h1>
-      .row.featurette
-        .col-md-6
-          img.featurette-image.img-responsive(src=data.src)
+      ul.thumbnails(style="width:25%;float:right")
+        li.span3
+          a.thumbnail(href='/info?src=/images/ENTREE/CAESAR%20SALAD.JPG&caption=CAESAR%20SALAD')
+            img(src='/images/ENTREE/CAESAR SALAD.JPG', alt='360x270', style='width: 360px; height: 270px;')
+            p CAESAR SALAD
+        li.span3
+          a.thumbnail(href='/info?src=/images/ENTREE/PRAWN%20COCKTAIL%20SALAD.jpg&caption=PRAWN%20COCKTAIL%20SALAD')
+            img(src='/images/ENTREE/PRAWN COCKTAIL SALAD.jpg', alt='360x270', style='width: 360px; height: 270px;')
+            p PRAWN COCKTAIL SALAD
+        li.span3
+          a.thumbnail(href='/info?src=/images/MAINS/ACHARI%20PANEER%20STEAK%20WITH%20KADHAI%20VEGETABLES%20,%20GRILLED%20UPMA%20AND%20MAKHNI%20SAUCE.JPG&caption=ACHARI%20PANEER%20STEAK%20WITH%20KADHAI%20VEGETABLES%20,%20GRILLED%20UPMA%20AND%20MAKHNI%20SAUCE')
+            img(src='/images/MAINS/ACHARI PANEER STEAK WITH KADHAI VEGETABLES , GRILLED UPMA AND MAKHNI SAUCE.JPG', alt='360x270', style='width: 360px; height: 270px;')
+            p ACHARI PANEER STEAK WITH KADHAI VEGETABLES , GRILLED UPMA AND MAKHNI SAUCE
+        
+
+      div(style="width:70%;float:left")
+        .span8
+          img.featurette-image.img-responsive(src=data.src , style="max-height:400px !important;height:400px !important")
+      
         .col-md-6
           h3.featurette-heading.nomargin
             | Ingredients
