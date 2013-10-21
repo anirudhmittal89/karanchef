@@ -10,6 +10,11 @@ float: right;
 	width:70%;
 	float:left;
 }
+
+.lead {
+font-size: 18px !important;
+}
+
 .span3 a p{
 	text-align:center;
 }
