@@ -2,7 +2,14 @@ html body {
 background: url(/images/img/imgbg.jpg) repeat 0 0 #f8f8f8;
 color: #333;
 }
-
+.thumbnails{
+width: 25%;
+float: right;
+}
+.infoRec{
+	width:70%;
+	float:left;
+}
 .span3 a p{
 	text-align:center;
 }
@@ -365,6 +372,20 @@ max-height: 33.33333333333333%;
 	margin-top: 90px !important;
 }
 }
+
+
+@media (max-width: 480px) {
+.thumbnails{
+display:none;
+}
+.infoRec{
+	width:100%;
+	float:left;
+}
+}
+
+
+
 
 @media (min-width: 480px) and (max-width: 719px) {
 div#columns div.col-lg-4 {
