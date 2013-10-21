@@ -2,6 +2,10 @@ html body {
 background: url(/images/img/imgbg.jpg) repeat 0 0 #f8f8f8;
 color: #333;
 }
+
+.span3 a p{
+	text-align:center;
+}
 .img-responsive {
     max-height: 225px !important;
 }
@@ -857,3 +861,6 @@ width: 100%;
 .mrgn{
 	margin-top:30px;
 }
+
+
+
