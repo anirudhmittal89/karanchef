@@ -6,6 +6,22 @@ color: #333;
 width: 25%;
 float: right;
 }
+#demo1:hover{
+	color:black;
+}
+.dropdown-menu{
+	max-width:450px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+
+}
+
+.dropdown-menu li a{
+	max-width:440px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+
+}
 .infoRec{
 	width:70%;
 	float:left;
