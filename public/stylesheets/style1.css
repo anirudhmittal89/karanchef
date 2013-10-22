@@ -171,15 +171,32 @@ a img {
 }
 
 
-div.pin{
+div.pin:hover{
 display: block;
 /*border: solid 3px #fff;*/
 box-shadow: 0 1px 5px 3px #CCC;
 -webkit-box-shadow: 0 1px 5px 3px #CCC;
 -moz-box-shadow: 0 1px 5px 3px #CCC;
 -o-box-shadow: 0 1px 5px 3px #CCC;
+opacity: 1.0;
 
 }
+
+div.pin a:hover{
+	text-decoration:none;
+}
+
+div.pin{
+display: block;
+opacity: 0.9;
+/*border: solid 3px #fff;*/
+box-shadow: 0 0px 1px 1px #CCC;
+-webkit-box-shadow: 0 0px 1px 1px #CCC;
+-moz-box-shadow: 0 0px 1px 1px #CCC;
+-o-box-shadow: 0 0px 1px 1px #CCC;
+
+}
+
 
 ol {
 list-style: none;
