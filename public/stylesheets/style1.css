@@ -9,6 +9,12 @@ float: right;
 #demo1:hover{
 	color:black;
 }
+.col-lg-4 a{
+	color:black;
+}
+.col-lg-4 a:hover{
+	text-decoration: none;
+}
 .dropdown-menu{
 	max-width:450px;
 	overflow:hidden;
