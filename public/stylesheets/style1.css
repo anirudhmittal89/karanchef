@@ -6,6 +6,10 @@ color: #333;
 width: 25%;
 float: right;
 }
+
+#at4win-footer {
+height:30px !important;
+}
 #demo1:hover{
 	color:black;
 }
