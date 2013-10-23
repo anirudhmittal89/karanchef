@@ -405,9 +405,10 @@ margin-bottom: 10px !important;
 margin-top:60px;
 }
 
-@media (min-width: 500px && max-width: 1000px)
+@media (min-width: 500px){
 .col-lg-4 {
-width: 33.33333333333333%;
+width: 33.33333333333333% !important;
+}
 }
 
 @media (min-width: 720px){

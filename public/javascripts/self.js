@@ -62,7 +62,7 @@ $(".nochrome").click(function(){
     
 });
 */
-
+/*
             $(function() {
                 $('#ei-slider').eislideshow({
                     animation           : 'center',
@@ -74,6 +74,7 @@ $(".nochrome").click(function(){
         
 
     var $container = $('.portfolioContainer');
+    */
 /*
     $container.imagesLoaded( function(){
     $container.isotope({

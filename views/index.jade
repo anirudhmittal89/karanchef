@@ -152,6 +152,7 @@ html
           | ·
           a(href='#') Terms
   script(type='text/javascript').
+
     var src=window.location.href.split("?type=")[1];
 
     $("li.main").removeClass("active");
@@ -166,9 +167,6 @@ html
     if(src=="dessert"){
       $("li.dessert").addClass("active");
     }
-    $.ajax("/recajax",function(resp){
-      console.log(resp);
-    });
     var search=
       [
           {
