@@ -74,7 +74,20 @@ html
           a(href='#') Terms
   script(type='text/javascript').
     var src=window.location.href.split("?type=")[1];
-
+    addthis.layers({
+      'theme' : 'dark',
+      'share' : {
+      'position' : 'left',
+      'numPreferredServices' : 4
+      },
+      'follow' : {
+      'services' : [
+      {'service': 'facebook', 'id': 'chefkaranmittal'},
+      {'service': 'twitter', 'id': 'chefkaranmittal'},
+      {'service': 'google_follow', 'id': '117032594678034009374'}
+      ]
+      }
+      });
     $("li.main").removeClass("active");
     $("li.entree").removeClass("active");
     $("li.dessert").removeClass("active");
