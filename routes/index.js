@@ -4,15 +4,15 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Karan the Chef' })
+  res.render('index', { pagetitle: 'Chef Karan Mittal' })
 };
 
 exports.info = function(req, res){
-  res.render('info', { title: 'Karan the Chef' })
+  res.render('info', { pagetitle: 'Chef Karan Mittal' })
 };
 
 exports.me = function(req, res){
-  res.render('me', { title: 'Karan the Chef' })
+  res.render('me', { pagetitle: 'Chef Karan Mittal' })
 };
 
 exports.info = function(req, res){
@@ -23,7 +23,9 @@ var data={
 	"caption":caption,
 	"src":src
 };
-  res.render('info', {data:data});
+
+var pagetitle="Chef Karan Mittal | "+data.caption;
+  res.render('info', {data:data, pagetitle: pagetitle});
 
 
 };
@@ -1042,5 +1044,6 @@ if(type=="entree"){
     title="Entree Recipes";
 }
 console.log(ob);
-  res.render('recipes', {ob:ob,title:title,dessertMenu:true});
+var pagetitle="Chef Karan Mittal | "+title;
+  res.render('recipes', {ob:ob,title:title,dessertMenu:true,pagetitle:pagetitle});
 };
