@@ -214,7 +214,7 @@ div.pin a:hover{
 
 div.pin{
 display: block;
-opacity: 0.9;
+opacity: 0.95;
 /*border: solid 3px #fff;*/
 box-shadow: 0 0px 1px 1px #CCC;
 -webkit-box-shadow: 0 0px 1px 1px #CCC;
