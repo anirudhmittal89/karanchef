@@ -63,6 +63,9 @@ html
             ol
                 each key,val in method[0]
                   li #{key} #{val}
+      #fb-root
+      .fb-comments(data-href='http://chefkaran.herokuapp.com/info?src=data.src&caption=#{data.caption}', data-colorscheme='light', data-numposts='10', data-width='The pixel width of the plugin')
+
                 
       hr.featurette-divider
       footer
@@ -80,7 +83,13 @@ html
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
       ga('create', 'UA-45068140-2', 'chefkaran.herokuapp.com');
       ga('send', 'pageview');
-
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=201504166689357";
+      fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
 
     addthis.layers({
       'theme' : 'dark',
