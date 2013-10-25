@@ -457,25 +457,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "750 gms",
+                "Sugar": "1600 gms",
+                "Eggs": "24",
+                "Dark chocolate": "3600 gms",
+                "Baking powder": "20 gms",
+                "Flour": "1600 gms",
+                "Walnut": "1000 gms",
+                "Cream": "800 ml"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Melt the chocolate and butter over double boiler.": "",
+                "Whish the eggs and sugar till fluffy": "",
+                "Add the melted chocolate and butter": "",
+                "Fold the dry ingredients and walnuts": "",
+                "Gradually add the cream to make a thick batter": "",
+                "Pour the mixture in greased trays and bake in the oven at 180 degree celcius": ""
             }
         ]
     },
@@ -905,25 +904,20 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Sugar": "500 gms",
+                "Eggs": "25",
+                "Milk": "2.5 ltrs",
+                "Vanilla essence": "15 ml"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Boil milk and sugar together.": "",
+                "Whish eggs and vanilla essence together.": "",
+                "When the milk is hot(not too hot, otherwise eggs with curdle), add the eggs while continously whisking. Strain the mixture": "",
+                "Make dry caramel using sugar and desired color is achieved. Add this to the moulds so tha tbottom is covered completely.": "",
+                "Pour the mixture in the moulds till 90% and bake in a bain Morie  at 170 degrees celcius for 60 minutes.": "",
+                "Cool and serve": ""
             }
         ]
     },
