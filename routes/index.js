@@ -5483,8 +5483,7 @@ for(all in entireData){
     if(entireData[all].caption == caption){
         var method=entireData[all].method;
         var ingredients=entireData[all].ingredients;
-        console.log(method);
-        console.log(ingredients);
+        
     }
 }
 
@@ -5507,7 +5506,6 @@ exports.recipes = function(req, res){
 var ob=[];
 var src=req.query.src;
 var type=req.query.type;
-console.log(type);
 if(type=="main"){
 	ob=main;
     title="Main Course Recipes";
@@ -5521,7 +5519,7 @@ if(type=="entree"){
 	ob=entree;
     title="Entree Recipes";
 }
-console.log(ob);
+
 var pagetitle="Chef Karan Mittal | "+title;
   res.render('recipes', {ob:ob,title:title,dessertMenu:true,pagetitle:pagetitle});
 };

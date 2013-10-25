@@ -224,13 +224,8 @@ box-shadow: 0 0px 1px 1px #CCC;
 }
 
 
-ol {
-list-style: none;
-color: #ccc;
-}
 
 ol li {
-font: bold 24pt helvetica, arial, sans-serif;
 position: relative;
 margin-bottom: 20px;
 }

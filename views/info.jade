@@ -60,10 +60,9 @@ html
           
       h3.featurette-heading.nomargin
             | Directions
-          ol
-            each key,val in method[0]
-              li
-                div(style="color:black") #{key} #{val}
+            ol
+                each key,val in method[0]
+                  li #{key} #{val}
                 
       hr.featurette-divider
       footer
