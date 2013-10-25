@@ -2366,25 +2366,19 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Cream": "2 ltrs",
+                "Egg yolks": "36",
+                "Sugar": "350 gms",
+                "Vanilla pods": "2"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Bring cream, suger, and vanilla pods to a boil": "",
+                "Add slowly whished egg yolks while stirring continously": "",
+                "Strain the mixture and pour into ramkins till 80% filled": "",
+                "Using a blow torch, remove the air bubbles from the top and bake at 180 degree celcius for 20-25 minutes.": "",
+                "Cool before serving. Sprinkle sugar on top and brulee. Repeat again for the desired 'glass-like' crust on top": ""
             }
         ]
     },
