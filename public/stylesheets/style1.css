@@ -1,6 +1,8 @@
 html body {
 background: url(/images/img/imgbg.jpg) repeat 0 0 #f8f8f8;
 color: #333;
+overflow:auto;
+overflow-x:hidden !important;
 }
 .thumbnails{
 width: 25%;
