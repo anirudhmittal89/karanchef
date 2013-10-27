@@ -5358,25 +5358,26 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Oilve oil": "2 tbl spoon",
+                "Ground cumin": "2 teaspoons",
+                "All-purpose flour ": "1/4 cup",
+                "Tomato paste": "1/4 cup",
+                "Reduced-sodium vegetable broth": "1 can",
+                "Coarse salt and ground pepper": "",
+                "Pepper Jack cheese (grated)": "3 cups",
+                "Black beans, rinsed and drained": "1 can(15 ounces)",
+                "frozen chopped spinach, thawed and squeezed dry": "10 ounces",
+                "frozen corn kernels, thawed": "10 ounces",
+                "scallions, thinly sliced, white and green parts separated": "6",
+                "corn tortillas (6-inch)": "16"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Make sauce: In a medium saucepan, heat oil over medium. Add 1 teaspoon cumin, flour, and tomato paste; cook, whisking, 1 minute. Whisk in broth and 3/4 cup water; bring to a boil. Reduce to a simmer, and cook until slightly thickened, 5 to 8 minutes. Season with salt and pepper, and set aside.": "",
+                "Make filling: In a large bowl, combine 2 cups cheese, beans, spinach, corn, scallion whites, and remaining 1 teaspoon cumin; season with salt and pepper.": "",
+                "Preheat oven to 400 degrees. Lightly oil two 8-inch square baking dishes; set aside. Stack tortillas, and wrap in damp paper towels; microwave on high for 1 minute. Or stack and wrap in aluminum foil, and heat in oven for 5 to 10 minutes. Top each tortilla with a heaping 1/3 cup of filling; roll up tightly and arrange, seam side down, in prepared baking dishes.": "",
+                "Dividing evenly, sprinkle enchiladas with remaining 1 cup cheese, and top with sauce. Bake, uncovered, until hot and bubbly, 15 to 20 minutes. Cool 5 minutes; serve garnished with scallion greens.": ""                
             }
         ]
     },
