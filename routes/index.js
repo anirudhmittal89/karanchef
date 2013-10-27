@@ -5442,25 +5442,30 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Chicken Stock": "1.5 qurts",
+                "Butter": "2 tbl spoon",
+                "Olive oil": "2 tbl spoon",
+                "Onion": "1",
+                "Garlic": "35cloves",
+                "Porcini mushrooms": "0.25 cup",
+                "Crimini Mushrooms": "0.50 cup",
+                "Shiitake Mushrooms": "0.50 cup",
+                "Parsley": "3 tbl spoon",
+                "White wine": "1.5 cups",
+                "Arborio Rice": "3 cups",
+                "Salt": "0.75 tbl spoon",
+                "Pepper": "0.25 tbl spoon",
+                "Cream": "0.5",
+                "Parmigiano Reggiano": "5 tbl spoon"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "In a covered stockpot, bring the stock to a boil then reduce the heat to low and simmer.": "",
+                "In a large saucepan on medium heat, cook 2 tablespoons of butter and the olive oil until sizzling, about 2 minutes. Add the onion, stir well and cook for two minutes. Reduce the heat to low and add the garlic, stir well and cook for 4 minutes. Raise the heat to medium-high, add the mushrooms, and 1 tablespoon of the parsley and cook for 3 minutes, stiring to prevent sticking. Add the wine and deglaze. Make sure you dislodge all the brown bits that might stick to the bottom of the pan. Cook for 2 minutes. Add the rice, salt and pepper and stir until all the wine has evaporated, about 2 minutes more.": "",
+                "Add 3 cups of the simmering stock and bring to a boil, stiring continuously for 2 minutes. Reduce the heat to a low simmer, cover the saucepan and let the rice cook 15 more minutes.": "",
+                "Stir the risotto. Raise the heat to medium and add 1/2 cup of simmering stock, stiring well until it is all incorporated. continue adding the simmering stock 1/2 cup at a time, and stiring well until all the risotto is cooked, about 5-8 minutes. Taste the rice with each addition of the stock it is perfectly cooked when tender to the bite. Don't worry if you haven't used all the stock.": "",
+                "Turn off the heat, optionally add cream and butter, the rest of the parsley, the cheese and 1/2 cup of remaining simmering stock. Mix well and let the risotto rest for 3 miutes. Serve on a plate or deep pasta bowls. Pair with a Pinot Grigio and a crisp Italian salad.": ""                
             }
         ]
     }
