@@ -5386,25 +5386,32 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Grated paneer": "2 tbl spoon",
+                "Palak leaves": "1 cup",
+                "Mashed boiled potatoes": "1 cup",
+                "Green chillis finely chopped": "2",
+                "Ginger piece minced": "1",
+                "Salt to taste": "",
+                "Bread": "2",
+                " Mix all the above ingredients and make small lemon sized balls, roll them in corn flour/bread crumbs and deep fry in oil.":"",
+                "Spinach": "1 big bunch",
+                "Onions": "2-4",
+                "Tomatoes": "2",
+                "Ginger garlic paste": "1 tbl spoon",
+                "Garam masala powder": "1/4 tbl spoon",
+                "Red chilli powder": "1 tbl spoon",
+                "Cashewnut paste": "2 tbl spoon",
+                "Salt to taste": "",
+                "Ghee (clarified butter)": "2 tbl spoon",
+                "Shah jeera (caraway seeds)": "1 tbl spoon",
+                "cream for garnish(optional)": ""
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Heat ghee in a cooking vessel and add the shah jeera and let them pop. Add the onion paste and fry for 4-5 minutes on medium heat ensuring that it doesnt burn. Add the ginger garlic paste and fry for another 2-3 mts. Add red chilli pwd and combine. Add the tomato puree and let it cook over slow fire till the ghee separates. Add the palak paste and the cashewnut paste and combine. Add a cup of water and salt. Cover and cook for 10-12 minutes on low heat. Stir once in a while. Lastly add the garam masala and mix well. Turn off heat.": "",
+                "Just before serving, spread the koftas on a serving plate and pour the creamy gravy over the koftas and garnish with cream (optional). Serve with hot rotis or naan. If you are serving the dish immediately on cooking, then you can add the koftas to the gravy and simmer over heat for a minute before serving.": "",
+                "This recipe with soft melt-in-the-mouth koftas served in an aromatic and rich gravy is an absolutely tantilising, irresistable dish that will have your family or guests licking their fingers..": ""
             }
         ]
     },
