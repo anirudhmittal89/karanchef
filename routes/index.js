@@ -3990,25 +3990,35 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Baby potatoes": "22",
+                "Oil": "Appropiate to deep fry",
+                "Mustard oil": "2 tbl spoons",
+                "Cumin seeds": "1 tbl spoon",
+                "Asafoetida": "A pinch or two",
+                "Onions": "2-4",
+                "Ginger-garlic paste": "1 tbl spoon",
+                "Tomatoes": "3-5",
+                "Red chilli": "1/2 tbl spoon",
+                "Cumin powder": "1/2 tbl spoon",
+                "Coriander powder": "1 tbl spoon",
+                "Turmeric powder": "1/2 tbl spoon",
+                "Salt": "1 tbl spoon( put more if needed)",
+                "Garam masala powder": "1/2 tbl spoon",
+                "Fresh coriander leaves": "1 tbl spoon",
+                "Ginger": "According to taste"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Peel, wash and prick potatoes all over with the help of a fork": "",
+                "Keep in salted water for fifteen minutes": "",
+                "Heat sufficient oil in a kadai and deep-fry the potatoes on medium heat till golden brown. Drain and place on an absorbent paper and keep aside": "",
+                "Heat mustard oil in a pan to smoking point. Cool and heat again": "",
+                "Add cumin seeds and asafoetida and cook on medium heat till the cumin seeds change colour. Add onion and sauté for three to four minutes or till the onion turns light golden": "",
+                "Add ginger-garlic paste and sauté for a minute. Add a little water and stir. Add tomatoes and sauté for a minute. Add a little water and cook till tomatoes turn pulpy": "",
+                "Add red chilli powder, cumin powder, coriander powder, turmeric powder and a little water and stir. Add fried potatoes and stir to mix well and cook for two minutes": "",
+                "Add a little water and salt. Mix well and simmer for five minutes or till the potatoes absorb the gravy. Add garam masala powder and stir": "",
+                "Remove from heat and serve hot garnished with coriander leaves and ginger strips": ""
             }
         ]
     },
@@ -4018,25 +4028,27 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Eggplant": "1",
+                "Onion": "1-2",
+                "Tomatoes": "1-2",
+                "Green chillies": "2-4",
+                "Garlic": "7-8 cloves",
+                "Coariander powder": "1/4 tbl spoon",
+                "Mustard oil powder": "2 tbl spoon",
+                "Salt to taste": "",
+                "Lime": "1/2"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Roast on a gas cooktop by just placing the eggplant straight on the burner and keeping the flame on low setting. Keep turning and cooking till all the skin on the eggplant is charred and the inner flesh looks really soft. A good sign to watch for is that the eggplant seems to 'cave in' on itself!": "",
+                "Grill in your oven grill or on your barbecue grill. Again, keep turning periodically till all the skin on the eggplant is charred and the inner flesh looks really soft.": "",
+                "'Roast' in your oven till all the skin on the eggplant is charred and the inner flesh looks really soft.": "",
+                "Once the eggplant is roasted, allow to cool fully and then peel off and discard the charred skin and stem.": "",
+                "Mash the eggplant roughly, in a mixing bowl.": "",
+                "Add the mustard oil, onion, tomato, green chillies, garlic, coriander leaves and salt to taste. Mix well.": "",
+                "Add a squeeze of lime juice and mix well.": "",
+                "Serve hot garnished with coriander leaves and ginger strips": ""
             }
         ]
     },
@@ -4074,25 +4086,24 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "2 filets mignon": "",
+                "2 sheets puff pastry": "",
+                "Salt to taste": "",
+                "Pepper to taste": "",
+                "Butter": "1tbl spoon",
+                "Mushroom Duxelles": "4 tbl spoon",
+                "Egg": "1"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Thaw puff pastry according to package directions.": "",
+                "Filets are often irregular in shape, if yours are use a piece of kitchen twine to tie them into a round": "",
+                "Season filets generously with salt and pepper.": "",
+                "Pre-heat a medium (10-inch) non-stick skillet over medium heat. Add butter and swirl in pan to melt.": "",
+                "Cook filets on both sides for about 3 minutes until well-browned, then brown the edges. Note: Regularly check the internal temperature of the filets, they should not be cooked past 120F at the center.*** Allow filets to cool, then wrap in plastic and chill for at least a couple of hours.": "",
+                "Heat oven to 400F. Whisk together egg and 1 tablespoon water (egg wash).": "",
+                "Wrap the filets in puff pastry according to the steps outlined in the photo tutorial for Individual Beef Wellingtons. Brush with egg wash, and bake in center of oven until golden brown; about 30 minutes.": ""                
             }
         ]
     },
@@ -4102,25 +4113,24 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "2 filets mignon": "",
+                "2 sheets puff pastry": "",
+                "Salt to taste": "",
+                "Pepper to taste": "",
+                "Butter": "1tbl spoon",
+                "Mushroom Duxelles": "4 tbl spoon",
+                "Egg": "1"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Thaw puff pastry according to package directions.": "",
+                "Filets are often irregular in shape, if yours are use a piece of kitchen twine to tie them into a round": "",
+                "Season filets generously with salt and pepper.": "",
+                "Pre-heat a medium (10-inch) non-stick skillet over medium heat. Add butter and swirl in pan to melt.": "",
+                "Cook filets on both sides for about 3 minutes until well-browned, then brown the edges. Note: Regularly check the internal temperature of the filets, they should not be cooked past 120F at the center.*** Allow filets to cool, then wrap in plastic and chill for at least a couple of hours.": "",
+                "Heat oven to 400F. Whisk together egg and 1 tablespoon water (egg wash).": "",
+                "Wrap the filets in puff pastry according to the steps outlined in the photo tutorial for Individual Beef Wellingtons. Brush with egg wash, and bake in center of oven until golden brown; about 30 minutes.": ""                
             }
         ]
     },
@@ -4130,25 +4140,26 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "3 tbl spoon",
+                "Onion": "2",
+                "Garlic": "2 tbl spoon",
+                "Tomato paste": "1 tbl spoon",
+                "Tomato sauce": "15 ounces",
+                "Diced tomato": "1 can",
+                "Rotisserie chicken": "1 (skinless)",
+                "Frozen peas": "10 ounces",
+                "Whipping Cream": "1/3 cup",
+                "Ground Cinnamon": "1/2 tbl spoon",
+                "Cayenne": "1/2 tbl spoon",
+                "Garam masala": "1 tbl spoon"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "To make the spice blend: Stir the ingredients together in a small bowl and set aside.": "",
+                "To make the sauce: Melt the butter in a 12-inch nonstick skillet over medium heat. Add the onion and cook, stirring frequently, until the pieces just begin to turn gold, about 5 minutes. Add the garlic, tomato paste and spice blend, and cook for 1 minute, stirring constantly to prevent burning. The spices will be fragrant. Add the tomato sauce and diced tomatoes and stir will. Add the chicken pieces, spoon the sauce over the top and bring to a simmer. Turn the heat to low and cook, uncovered, until the chicken is warmed through and the sauce is flavorful, about 10 minutes. Stir frequently. Remove the chicken to a serving dish and cover to keep warm.": "",
+                "Shake any excess water from the peas. Add the peas and cream to the sauce in the pan, stir well and heat through. Do not boil. Spoon the sauce over the chicken. Serve with rice and warmed pita bread.": "",
+                "If you prefer shreds of chicken to whole pieces, remove the skin from the chicken and pull the meat into large chunks by hand. Add to the pan along with the garlic, tomato paste and spice blend. Cook for 3 minutes and then add the tomato sauce and continue with the recipe. Serve over basmati rice.": ""               
             }
         ]
     },
@@ -4186,25 +4197,38 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Blue Crab": "1 lb",
+                "Onion": "2",
+                "Shallots": "1/2 cup",
+                "Tomato": "1 cup chopped",
+                "Ginger garlic paste": "1 tbl spoon",
+                "Turmeric powder": "1 tbl spoon",
+                "Red chili  powder": "1 tbl spoon",
+                "Curry leaves": "4-6",
+                "Lemon juice": "2 tbl spoon",
+                "Oil": "2 tbl spoon",
+                "Chopped coriander": "to garnish",
+                "Cumin seeds": "1 tbl spoon",
+                "Poppy seeds": "1 tbl spoon",
+                "Coriander seeds": "1/2 tbl spoon",
+                "Black pepper": "4-6",
+                "Cinnamon stick": "1",
+                "Cloves": "2",
+                "Bay leaf": "1",
+                "Fenugreek seeds": "10-12",
+                "Grated coconut": "3 tbl spoon"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Wash and cut the crabs thoroughly. I have used the flesh part with shell ( discarding the hard outer shell), legs and the claws in this recipe. Marinade crabs with salt, turmeric powder and 1/2  tbsp red chili powder , keep aside for 15 minutes.": "",
+                "In the mean time, dry roast the ingredients for grinding as mentioned above till you get a nice aroma.  You need to dry roast the coconut separately to a golden brown color.": "",
+                "Add all the roasted spices in a blender with 3 to 4 tbsp of water and blend well to a fine paste.": "",
+                "Next in a wide bottomed non stick skillet, heat 2 tbsp oil, add the curry leaves, ginger garlic paste with onions and sautee till the onions turn a light golden brown color.": "",
+                "Next add the chopped  tomatoes and cook till they turn soft , then add the spice paste, with 1/2 tbsp red chili powder, fry well for a minute or so by constantly stirring untill the spices leave oil and you get a nice aroma ": "",
+                "Add the crab pieces , mix well with the spices and let fry for 2 to 3 minutes. ": "",
+                "Lastly add a cup of water  and let cook on medium low heat for 5 to 6 minutes or until the crab is fully cooked. Add 2 tbsp of lemon juice at the end. I have kept a dry gravy, you can add water according to your desired gravy consistency.": "",
+                "Garnish with chopped coriander, serve hot with Rice or Paratha.": ""
             }
         ]
     },
