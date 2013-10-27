@@ -5414,25 +5414,34 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Diced tomatoes": "1 can",
+                "Onion": "2",
+                "Garlic": "2 cloves",
+                "Carrots": "2 peeled",
+                "Dried basil": "0.25 teaspoon",
+                "Salt": "0.25 teaspoon",
+                "Black pepper": "0.5 teaspoon",
+                "Dried oregano": "0.25 teaspoon",
+                "Mozzarella cheese": "1.5 cups grated",
+                "Dried parsley": "1 teaspoon",
+                "Zucchini": "3",
+                "Fresh mushrooms": "2",
+                "Chopped spinach": "1 packet",
+                "Parmesan cheese": "4 tbl spoon",
+                "Ricotta cheese": "400 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Pre-heat oven to 180 degrees celcius.": "",
+                "Cook onion, garlic and basil in a saucepan until onions soft. Add tomatoes, salt, pepper, oregano and finely chopped carrot. Cook for about 20-30 minutes, until well cooked and it becomes less watery. The less watery the sauce the better your lasagna will hold together later, but don't let the sauce get too dry either or your lasagna won't hold together too well.": "",
+                "In a separate bowl, combine ricotta, mozzarella (or tasty cheese) and parsley. Set aside.": "",
+                "In a food processor finely chop up the fresh mushrooms. Note: Be sure to clean the mushrooms prior to chopping if they require it. You may also thinly slice the mushrooms instead of chopping in a food processor. It depends on your preference and taste.": "",
+                "Cut off both ends of the zucchini, peel and slice lengthwise into strips. These will be used as the layers for your lasagna. If you don't usually eat zucchini, try slicing them fairly thin (about 5mm or less thickness).": "",
+                "Arrange a single layer of zucchini strips in an 8 x 8 inch baking dish to cover the bottom of the dish, or two small baking dishes depending on what you have available.": "",
+                "Spread 1/2 of the ricotta mixture over the zucchinis. Next layer 1/2 of the tomato mixture, then 1/2 of the mushrooms, followed by 1/2 of the spinach. Repeat with zucchini, ricotta, tomato, mushrooms and spinach again. Keep layering the ingredients in the same order until you run out of ingredients. You may run our after only a couple of layers which is fine as it will still cook and taste the same at the end.": "",
+                "Decorate the top with any left over ingredients you may have (zucchini, mushrooms, etc) if you desire. Finish of with parmasen cheese on top. Add as much or as little as you desire.": "",
+                "Bake 30-45 minutes in the over. Season with salt before serving.": ""
             }
         ]
     },
