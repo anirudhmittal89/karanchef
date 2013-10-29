@@ -22,7 +22,7 @@ app.use(express.compress());
 
 // listen
 
-  app.use(express.static(__dirname + '/public'));
+  app.use(express.static(__dirname + '/public',{ maxAge: 86400000 /* 1d */ }));
 });
 
 app.configure('development', function(){
