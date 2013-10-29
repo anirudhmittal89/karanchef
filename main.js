@@ -19,8 +19,7 @@ app.use(express.compiler({ src : __dirname + '/public', enable: ['less']}));
   app.use(app.router);
   // gzip
 app.use(express.compress());
-// static
-app.use("/public", express.static(__dirname+'/public'));
+
 // listen
 
   app.use(express.static(__dirname + '/public'));
