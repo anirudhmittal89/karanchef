@@ -7,6 +7,7 @@ var express = require('express')
   , routes = require('./routes');
 
 var app = module.exports = express.createServer();
+app.use(express.compress());
 
 // Configuration
 
@@ -18,7 +19,6 @@ app.configure(function(){
 app.use(express.compiler({ src : __dirname + '/public', enable: ['less']}));
   app.use(app.router);
   // gzip
-app.use(express.compress());
 
 // listen
 
