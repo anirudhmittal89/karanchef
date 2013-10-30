@@ -104,14 +104,18 @@ html
       $("li.dessert").addClass("active");
     }
     var pgno=2;
-    
+    var ajax=false;
     window.onscroll = function(ev) {
+    if(ajax == false){
         if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+            ajax=true;
             $.get("/recajax",{"categ":src,"pgno":pgno},function(resp){
               $("#columns").append(resp);
               pgno++;
+              ajax=false;
           });        
         }
+      }
     };
 
     
