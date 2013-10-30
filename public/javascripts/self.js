@@ -31,21 +31,6 @@ $('#filters a').click(function(){
 });
 */
 
-
-$("#demo1").change(function(){
-    var value=$("#demo1").val();
-    var src="";
-    //console.log(value);
-    for(each in search){
-      
-      if(search[each].name == value){
-        //console.log(search[each].name);
-        src=search[each].src;
-        window.location="/info?src="+search[each].src+"&caption="+search[each].name;
-      }
-    }
-    
-});
 /*
 $(".nochrome").click(function(){
     var value=$("#demo1").val();
