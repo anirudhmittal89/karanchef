@@ -51,6 +51,7 @@ app.get('/index', routes.index);
 app.get('/*/recipes', routes.recipes);
 app.get('/*/info', routes.info);
 app.get('/me', routes.me);
+app.get('/recajax', routes.recajax);
 var port = process.env.PORT || 5000;
 
 app.listen(port, function(){

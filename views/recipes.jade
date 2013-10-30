@@ -40,24 +40,27 @@ html
       
       div#wrapper
       div#columns.portfolioContainer.recipes
-       each data in ob
-        div.pin(class="#{data.categ} col-lg-4",style="margin:0 12px 25px 5px")
-         a(href="/#{data.caption}/info?src=#{data.src}&caption=#{data.caption}")
-          img.lazy(src="#{data.src}",alt="#{data.caption}",style="width: 100%;height:200px;padding: 0px;margin:0 auto")
-          p #{data.caption}
-          div.y-ingredients
-            | parmesan, sage, olive oil, kosher salt, unsalted butter, butternut squash and 
-            span.y-truncated.popup-card
-              olive oil, sage, parmesan, kosher salt, butternut squash, unsalted butter and strozzapreti
-          div.aspect-bar  
-            span.aspect-icon
-              span.clock.y-icon 
-                i.icon-time 
-                span.numbers 25 
-                  span.black mins,
-                span.numbers 7 
-                  span.black ingredients
+       each data,index in ob
+        if index < 12
+          div.pin(class="#{data.categ} col-lg-4",style="margin:0 12px 25px 5px")
+           a(href="/#{data.caption}/info?src=#{data.src}&caption=#{data.caption}")
+            img.lazy(src="#{data.src}",alt="#{data.caption}",style="width: 100%;height:200px;padding: 0px;margin:0 auto")
+            p #{data.caption}
+            div.y-ingredients
+              | parmesan, sage, olive oil, kosher salt, unsalted butter, butternut squash and 
+              span.y-truncated.popup-card
+                olive oil, sage, parmesan, kosher salt, butternut squash, unsalted butter and strozzapreti
+            div.aspect-bar  
+              span.aspect-icon
+                span.clock.y-icon 
+                  i.icon-time 
+                  span.numbers 25 
+                    span.black mins,
+                  span.numbers 7 
+                    span.black ingredients
       div(style="clear:both")
+      a#loadMore(href="javascript:void(0)")
+        | Load More
       footer
         p.pull-right
           a(href='#') Back to top
@@ -102,6 +105,17 @@ html
     if(src=="dessert"){
       $("li.dessert").addClass("active");
     }
+    
+
+    var pgno=2;
+    $("a#loadMore").click(function(){
+      $.get("/recajax",{"categ":src,"pgno":pgno},function(resp){
+        $("#columns").append(resp);
+        pgno++;
+      });
+    
+    });
+    
     var search=
       [
           {

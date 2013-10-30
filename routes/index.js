@@ -5528,10 +5528,30 @@ var pagetitle="Chef Karan Mittal | "+data.caption;
 };
 
 exports.recajax = function(req, res){
-    res.send({id:1234});
+    var categ= req.query.categ;
+    var pgno = req.query.pgno;
+    var entireData=[];
+    console.log(categ);
+    if(/MAIN/i.test(categ)){
+        entireData=main;
+    }else if(/ENTREE/i.test(categ)){
+        entireData=entree;
+    }else{
+        entireData=dessert;
+    }
 
-
-  
+    var index=pgno*12;
+    var lowerIndex=(pgno-1)*12;
+    var resultData=[];
+    var resultDataCounter=0;
+    for(each in entireData){
+        if(each > lowerIndex && each < index){
+            resultData[resultDataCounter]=entireData[each];
+            resultDataCounter++;
+        }
+    }
+    res.render("recipesAjax",{ob:resultData});
+    //res.send(resultData);
 };
 
 exports.recipes = function(req, res){
