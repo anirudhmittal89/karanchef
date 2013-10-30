@@ -59,8 +59,6 @@ html
                   span.numbers 7 
                     span.black ingredients
       div(style="clear:both")
-      a#loadMore(href="javascript:void(0)")
-        | Load more recipes
       footer
         p.pull-right
           a(href='#') Back to top
@@ -105,16 +103,18 @@ html
     if(src=="dessert"){
       $("li.dessert").addClass("active");
     }
-    
-
     var pgno=2;
-    $("a#loadMore").click(function(){
-      $.get("/recajax",{"categ":src,"pgno":pgno},function(resp){
-        $("#columns").append(resp);
-        pgno++;
-      });
     
-    });
+    window.onscroll = function(ev) {
+        if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+            $.get("/recajax",{"categ":src,"pgno":pgno},function(resp){
+              $("#columns").append(resp);
+              pgno++;
+          });        
+        }
+    };
+
+    
     
     var search=
       [
