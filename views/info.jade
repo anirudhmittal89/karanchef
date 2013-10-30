@@ -64,7 +64,7 @@ html
                 each key,val in method[0]
                   li #{key} #{val}
       #fb-root
-      .fb-comments(data-href='http://chefkaran.herokuapp.com/info?src=#{data.src}&caption=#{data.caption}', data-colorscheme='light', data-numposts='10', data-width='The pixel width of the plugin')
+      .fb-comments(data-href='http://chefkaran.herokuapp.com/#{data.caption}/info?src=#{data.src}&caption=#{data.caption}', data-colorscheme='light', data-numposts='10', data-width='The pixel width of the plugin')
 
                 
       hr.featurette-divider
