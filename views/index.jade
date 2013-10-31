@@ -130,10 +130,11 @@ html
     }
     $.get("/getSearchData",function(resp){
       var search=resp;
-    })
-    $('#demo1').typeahead({
+      $('#demo1').typeahead({
                     source: search
-    });
+      });
+    
+    })
     addthis.layers({
       'theme' : 'dark',
       'share' : {
