@@ -6547,7 +6547,11 @@ exports.recipes = function(req, res){
 
 var ob=[];
 var src=req.query.src;
-var type=req.query.type;
+
+
+//console.log(src);
+//var type=req.query.type;
+var type=req.originalUrl.split("/")[1];
 if(type=="main"){
 	ob=main;
     title="Main Course Recipes";
