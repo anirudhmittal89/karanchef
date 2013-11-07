@@ -55,14 +55,14 @@ html
           ul
             each key,val in ingredients[0]
               li
-                span #{key} of #{val}
+                span #{val}
             
           
       h3.featurette-heading.nomargin
             | Directions
             ol
                 each key,val in method[0]
-                  li #{key} #{val}
+                  li #{val}
       #fb-root
       .fb-comments(data-href='http://chefkaran.herokuapp.com/#{data.caption}/info?src=#{data.src}&caption=#{data.caption}', data-colorscheme='light', data-numposts='10', data-width='The pixel width of the plugin')
 
