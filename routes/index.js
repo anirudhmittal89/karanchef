@@ -30,7 +30,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/APPLE PIE 1.jpg",
-        "caption": "APPLE PIE ",
+        "caption": "APPLE PIE",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -69,7 +69,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/APPLE PIE.jpg",
-        "caption": "APPLE PIE ",
+        "caption": "APPLE PIE",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -201,7 +201,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/BANOFEE PIE 2.jpg",
-        "caption": "BANOFEE PIE ",
+        "caption": "BANOFEE PIE",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -332,8 +332,8 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/DESSERTS/BLUEBERRY COLD CHEESECAKE 1.jpg",
-        "caption": "BLUEBERRY COLD CHEESECAKE ",
+        "src": "/images/DESSERTS/BLUEBERRY COLD CHEESECAKE.jpg",
+        "caption": "BLUEBERRY COLD CHEESECAKE",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -366,7 +366,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/BLUEBERRY COLD CHEESECAKE 2.jpg",
-        "caption": "BLUEBERRY COLD CHEESECAKE ",
+        "caption": "BLUEBERRY COLD CHEESECAKE",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -484,7 +484,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/CHOCLATE AND WANUT BROWNIE  2.jpg",
-        "caption": "CHOCLATE AND WANUT BROWNIE  ",
+        "caption": "CHOCLATE AND WANUT BROWNIE",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -511,7 +511,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/CHOCOLATE AND WALNUT BROWNIES 1.jpg",
-        "caption": "CHOCOLATE AND WALNUT BROWNIES ",
+        "caption": "CHOCOLATE AND WALNUT BROWNIES",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -999,7 +999,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/DANISH PASTRY 1.jpg",
-        "caption": "DANISH PASTRY ",
+        "caption": "DANISH PASTRY",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -1027,7 +1027,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/DANISH PASTRY 2.jpg",
-        "caption": "DANISH PASTRY ",
+        "caption": "DANISH PASTRY",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -1643,7 +1643,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/PAIN-AU-CHOCOLAT 2.jpg",
-        "caption": "PAIN-AU-CHOCOLAT ",
+        "caption": "PAIN-AU-CHOCOLAT",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -1699,7 +1699,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/PASTRY DISPLAY 2.jpg",
-        "caption": "PASTRY DISPLAY ",
+        "caption": "PASTRY DISPLAY",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -5522,7 +5522,6 @@ if(/MAINS/i.test(src)){
 }else{
     entireData=dessert;
 }
-
 for(all in entireData){
     if(entireData[all].caption == caption){
         var method=entireData[all].method;
@@ -5530,7 +5529,6 @@ for(all in entireData){
         
     }
 }
-
 var pagetitle="Chef Karan Mittal | "+data.caption;
   res.render('info', {data:data, pagetitle: pagetitle,method:method,ingredients:ingredients});
 
