@@ -4342,25 +4342,23 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+               "Olive oil": "2 tbsp",
+                "Chopped tomatoes": "10",
+                "Onions": "3",
+                "Butter": "1 tbsp",
+                "soymilk":"1 cup",
+                "garlic":"3 cloves",
+                "Starch":"3 tbsp",
+                "shallot":"1 diced",
+                "yeast":"4 tbsp",
+                "fettuccine": "500 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Cook pasta according to directions until al dente.": "",
+                "Melt vegan butter in saucepan. Add garlic and shallot, saute until cooked through. Add nutritional yeast and stir well. Pour in soymilk. Cook on medium heat until it starts to bubble. Add corn starch slowly, until you reach desires consistency.": "",
+                " Stir in bacon bits last. Add pasta to sauce and mix well": ""
             }
         ]
     },
