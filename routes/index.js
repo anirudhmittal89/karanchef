@@ -4279,12 +4279,12 @@ var main=[
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "In an electric mixer fitted with a dough hook, add eggs, 1 at a time, and mix. Continue mixing and add all the flour and water; continue mixing until it forms a ball. Sprinkle some flour on work surface, and knead the dough until elastic and smooth. Wrap the dough in plastic wrap and let it rest for about 30 minutes to allow the gluten to relax.": "",
+                "Cut the ball of dough in half, cover and reserve the dough you are not immediately using to prevent it from drying out. Dust the counter and dough with flour. Form the dough into a rectangle and roll it through the pasta machine, 2 or 3 times, at its widest setting. Guide the sheet of dough with the palm of your hand as it emerges from the rollers. Reduce the setting and crank the dough through again, 2 or 3 times. Continue until the machine is at its narrowest setting. The dough should be paper-thin, about 1/8-inch thick.": "",
+                "Dust the counter and dough with flour, and lay out the long sheet of pasta. Brush the top surface of dough with egg wash. Drop 1 tablespoon of cooled filling about 2 inches apart on half the sheet of pasta. Fold the unfilled half over the filling. With an espresso cup or finger, gently press out air pockets around each mound of filling and form a seal. Use a crimper to cut each pillow into squares. Check to make sure the crimped edges are well sealed before cooking. If making ravioli in advance, dust with cornmeal to prevent them from sticking.": "",
+                "Cook the ravioli in plenty of boiling water for 10 to 15 minutes. Ravioli will float to the top when cooked so be careful not to overcrowd the pot. Lift the ravioli from water with a large strainer or slotted spoon. Plate the pasta, top with your favorite pasta sauce and grated cheese before serving.": "",
+                "Ricotta Cheese Filling:": "",
+                "1 cup ricotta cheese, well drained, 1 egg, Salt and pepper, In a mixing bowl, thoroughly combine all ingredients. Chill in the refrigerator a few minutes to firm up the filling.": ""
             }
         ]
     },
