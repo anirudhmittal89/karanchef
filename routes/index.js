@@ -1310,33 +1310,28 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/DESSERTS/GATEAUX ST.HONORE.jpg",
-        "caption": "GATEAUX ST.HONORE",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
+    "src": "/images/DESSERTS/GATEAUX ST.HONORE.jpg",
+    "caption": "GATEAUX ST.HONORE",
+    "categ": "DESSERTS",
+    "ingredients": [
+        {
+            "choux pastry": "150 gms",
+            " castor Sugar": "100 gms",
+            "puff pastry": "100 gms",
+            "creme patisserie": "100 gms"
+        }
+    ],
+    "method": [
+        {
+            "roll out the puff pastry to about 3 mm thickness and cut a circle through big cutter. prick the base throughout with fork and place in fridge.": "",
+            "pipe half of the choux pastry in swirls on top of the puff pastry starting from centre till the corner(leaving gap between).": "",
+            "pipe choux buns on the silpat with the rest of the choux pastry.": "",
+            "place the tray in the oven at 180c till puff and choux are cooked together. allow to dry a bit. ": "",
+            "filling the choux buns with pastry cream. make caramel with sugar and coat the buns with them.": "",
+            "place the profiteroles at the corner of gateaux and fill the space with creme chantilly. dust little cocoa powder on top and garnish with fresh strawberries.": ""
+        }
+    ]
+},
     {
         "src": "/images/DESSERTS/GUM PASTE DECORATION OVER CAKE.jpg",
         "caption": "GUM PASTE DECORATION OVER CAKE",
@@ -1449,33 +1444,32 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/DESSERTS/MANGO AND CHILLI MOUSSE.jpg",
-        "caption": "MANGO AND CHILLI MOUSSE",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
+    "src": "/images/DESSERTS/MANGO AND CHILLI MOUSSE.jpg",
+    "caption": "MANGO AND CHILLI MOUSSE",
+    "categ": "DESSERTS",
+    "ingredients": [
+        {
+            "MOUSSE BASE": "",
+            "Egg yolks": "24",
+            "whole eggs": "8",
+            "castor sugar": "800 gms",
+            "gelatin powder": "140 gms",
+            "whipped cream": "4 kgs",
+            "mango puree": "as required",
+            "chilly flakes": "as required"
+        }
+    ],
+    "method": [
+        {
+            "MOUSSE BASE": "",
+            "whip cream till soft peaks. dissolve gelatin and allow to melt it completely.": "",
+            "cook eggs and sugar over double boiler till thick 'ribbon' consistency is achieved.": "",
+            "add the melted gelatin to the sabayon. allow the mixture to cool. temper the sabayon by adding little cream.": "",
+            "add the tempered sabayon to the whipped cream and fold into smooth mixture, without lumps. ": "",
+            "add mango puree and chilly flakes into the base and set in desired moulds.": ""
+        }
+    ]
+},
     {
         "src": "/images/DESSERTS/MANGO AND PEPPERMINT PARFAIT.jpg",
         "caption": "MANGO AND PEPPERMINT PARFAIT",
@@ -1530,33 +1524,42 @@ var dessert=[
     }
 ,
     {
-        "src": "/images/DESSERTS/ORANGE BREAD AND BANANA BREAD.jpg",
-        "caption": "ORANGE BREAD AND BANANA BREAD",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
+    "src": "/images/DESSERTS/ORANGE BREAD AND BANANA BREAD.jpg",
+    "caption": "ORANGE BREAD AND BANANA BREAD",
+    "categ": "DESSERTS",
+    "ingredients": [
+        {
+            "ORANGE BREAD": "",
+            "Butter": "500 gms",
+            "Sugar": "1250 gms",
+            "Eggs": "10",
+            "Vanilla essence": "5 ml",
+            "flour": "825 gms",
+            "baking powder": "20 gms",
+            "orange zest": "20gms",
+            "BANANA BREAD": "",
+            "eggs": "13",
+            "ripe bananas": "1250 gms",
+            "refined oil": "1 litre",
+            "baking soda": "25 gms",
+            "walnuts": "225 gms",
+            "cocoa powder": "50 gms",
+            "cornflour": "200 gms",
+            "cinnamon powder": "5gms"
+        }
+    ],
+    "method": [
+        {
+            "orange bread": "",
+            "Cream the butter and sugar together": "",
+            "Add the eggs one by one till sugar is dissolved and mixture is creamed": "",
+            "Fold all the dry ingredients and pour the batter in greased moulds and bake at 180c till done.": "",
+            "BANANA BREAD": "",
+            "Make a puree of ripe bananas and refined oil. whisk eggs and sugar on high speed till sugar is dissolved and it is thick, fluffy.": "",
+            "add the puree of bananas and continue to whisk. fold the dry ingredients. pour into greased moulds and bake at 180c till done.": ""
+        }
+    ]
+},
     {
         "src": "/images/DESSERTS/ORANGE CREME CARAMEL.jpg",
         "caption": "ORANGE CREME CARAMEL",
