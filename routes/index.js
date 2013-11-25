@@ -3,31 +3,28 @@
  * GET home page.
  */
 var dessert=[
+    
     {
         "src": "/images/DESSERTS/ALLUMETTES.jpg",
         "caption": "ALLUMETTES",
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "puff pastry": "as required",
+                "egg whites": "60 gms",
+                "icing sugar": "270 gms",
+                "lemon juice": "2.5 gms",
+                "creme patisserie": "as required",
+                "fresh berries": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "for royal icing, Combine the egg whites, sugar and lemon juice and mix with a paddle attachment on medium speed for 4-5 minutes till smooth and thick.": "",
+                "Roll out the puff pastry to 1/8 inch (2-3 mm) thick. Place in the freezer until hard.": "",
+                "Spread a thin layer of royal icing on the surface of the frozen puff pastry sheet. Cut into desired length and width. Place on a baking sheet lined with parchment paper.": "",
+                "Bake at 350∞F (180∞C) until light golden. Baking at this temperature may seem slightly low, but it is necessary to retain a good color.": "",
+                "Once cooled cut in half and fill with pastry cream and berries.": ""
             }
         ]
     },
@@ -37,53 +34,75 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "PIE DOUGH": "",
+                "pastry flour": "500 gms",
+                "butter": "250 gms",
+                "cold water": "60 gms",
+                "salt": " 1 gm",
+                "sugar": "450 gms",
+                "apple filling": "",
+                "Apples, peeled and thinly sliced": "900 gms",
+                "butter(a)": "30 gms",
+                "sugar(a)": "90 gms ",
+                "cornflour": "24 gms ",
+                "sugar (b)": "100 gms ",
+                "cinnamon": "3 gms ",
+                "nutmeg": " 0.5 gms",
+                "lemon juice": "10 gms ",
+                "butter (b)": " 10 gms "
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "PIE DOUGH": "",
+                "sift the flour into a mixing bowl. add the butter. rub the butter into the flour until the mixture resembles cornmeal. ": "",
+                "dissolve sugar and salt in water. wdd the water to the flour mixture. mix very gently, just until the water is absorbed. do not overwork the dough. cling wrap the dough and refrigerate for 4 hours.": "",
+                "FILLING": "",
+                "saute the apples in butter(a) until slightly softened. add sugar(a) as the apples cook. this will draw the juices of the apples.": "",
+                "mix water and cornstarch until smooth. add the mixture and boil until the liquid is thick.": "",
+                "remove from heat and add remaining ingredients until fully incorparated( butter(b) and sugar (b)). cool completely.": "",
+                "ASSEMBLY": "",
+                "Roll out the dough to 3mm thickness and line the base of the pan. add the cold filling. brush the edges with water.": "",
+                "roll out another sheet and cut lattice crust. brush eggwash on top. bake at 220c for about 35-40 minutes. for the initial 20 minutes, cover the edges of the pie with foil.": ""
             }
         ]
     },
     {
         "src": "/images/DESSERTS/APPLE PIE.jpg",
-        "caption": "APPLE PIE",
+        "caption": "APPLE PIE ",
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "PIE DOUGH": "",
+                "pastry flour": "500 gms",
+                "butter": "250 gms",
+                "cold water": "60 gms",
+                "salt": " 1 gm",
+                "sugar": "450 gms",
+                "apple filling": "",
+                "Apples, peeled and thinly sliced": "900 gms",
+                "butter(a)": "30 gms",
+                "sugar(a)": "90 gms ",
+                "cornflour": "24 gms ",
+                "sugar (b)": "100 gms ",
+                "cinnamon": "3 gms ",
+                "nutmeg": " 0.5 gms",
+                "lemon juice": "10 gms ",
+                "butter (b)": " 10 gms "
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "PIE DOUGH": "",
+                "sift the flour into a mixing bowl. add the butter. rub the butter into the flour until the mixture resembles cornmeal. ": "",
+                "dissolve sugar and salt in water. wdd the water to the flour mixture. mix very gently, just until the water is absorbed. do not overwork the dough. cling wrap the dough and refrigerate for 4 hours.": "",
+                "FILLING": "",
+                "saute the apples in butter(a) until slightly softened. add sugar(a) as the apples cook. this will draw the juices of the apples.": "",
+                "mix water and cornstarch until smooth. add the mixture and boil until the liquid is thick.": "",
+                "remove from heat and add remaining ingredients until fully incorparated( butter(b) and sugar (b)). cool completely.": "",
+                "ASSEMBLY": "",
+                "Roll out the dough to 3mm thickness and line the base of the pan. add the cold filling. brush the edges with water.": "",
+                "roll out another sheet and cut lattice crust. brush eggwash on top. bake at 220c for about 35-40 minutes. for the initial 20 minutes, cover the edges of the pie with foil.": ""
             }
         ]
     },
@@ -93,25 +112,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour": "1800 gms",
+                "Salt": "30 gms",
+                "sugar": "225 gms",
+                "softened butter": "150 gms",
+                "fresh yeast": "120 gms",
+                "bread improver": "35 gms",
+                "eggs": "4",
+                "milk": "650-700 ml",
+                "icings": "for icing"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "combine all the ingredients and knead into a very soft dough.": "",
+                "sheet the dough till 6mm thick. place the dough covered with butter paper over a floured tray and put in the fridge for atleast 2 hours. ": "",
+                "take the tray out of the fridge. using doughnut cutter, cut the doughnuts and place on a floured tray. ": "",
+                "place the doughnuts in the proving chamber or warm place for 90 minutes. after proving, fry the doughnuts in oil at 160c till golden on both sides.": "",
+                "allow the doughnuts to cool. apply different icings on top.": ""
             }
         ]
     },
@@ -121,25 +139,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "egg whites ": "95 gms",
+                "Castor Sugar": "125 gms",
+                "almond meal": "135 gms",
+                "icing sugar": "135 gms",
+                "water": "40 gms",
+                "food colouring": "pinch",
+                "filling/ganache": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "To make the shells, put 50 g of eggwhites in one bowl and 45 g in another.": "",
+                " Pour the water into a small saucepan. Add the sugar and gently stir. Place the mixture on the stove and, using a cooking thermometer, stir until the temperature reaches 118∞C.add food colouring also, if using": "",
+                "Meanwhile, put the almond meal and icing sugar mixture in another bowl. Make a well in the centre of the icing sugar and almond meal and place 45 gms of egg whites in the well. The eggwhites should just sit in the nest. Set that bowl aside.": "",
+                "Place the remaining batch of eggwhites into the clean, dry bowl of a food processor. On medium speed, slowly run the hot sugar mixture down the side of the bowl so it blends in with the eggwhites.": "",
+                "After 3-5 minutes, it should form a firm, glossy meringue mixture. Take the bowl with the almond meal mixture and gently fold through the meringue mix.": "",
+                "Fit a piping bag with a 9 mm tube. Fill the bag halfway, and pack the mixture down tight so there are no air bubbles. Line a tray with baking paper. Pipe each shell about the size of a 20-cent piece. When finished, pick up the tray and lightly tap the base.": "",
+                "Set the tray aside for about 30 minutes or until a skin forms on the top of the shells. Once theyíre touch-dry, put the shells in the oven and bake for 15 minutes. When the shells are cool, flip them out and match them up in pairs. fill with ganache/any other filling.": ""
             }
         ]
     },
@@ -149,25 +166,36 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
+                "MUFFIN BATTER": "",
                 "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Sugar": "500 gms",
+                "Eggs": "10",
+                "Vanilla essence": "5 ml",
+                "flour": "500 gms",
+                "baking powder": "20 gms",
+                "bananas": "4",
+                "jaggery": "100 gms",
+                " BAKED SHREEKHAND": "",
+                "hung yoghurt": "1500 gms",
+                "cream": "1 litre",
+                "milkmaid": "400 gms",
+                "castor sugar": "200 gms ",
+                "MANGO GRANITA": "",
+                "Mangoes, pureed": "6"
             }
         ],
         "method": [
             {
+                "BANANA AND JAGGERY CAKE": "",
                 "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Add the eggs one by one till sugar is dissolved and mixture is creamed": "",
+                "Fold all the dry ingredients and set aside the muffin batter.": "",
+                "make a caramel with jaggery and line the base of the cake tim with it. arrange thickly sliced bananas over it. pipe the muffin batter over the bananas and bake in the oven at 180c till done.": "",
+                "when warm, carefully iinert the cake over a plate.": "",
+                "BAKED SHREEKHAND": "",
+                "add all the ingredients and combine well to dissolve the sugar. pour the mixture in ramekins and bake at 180 in waterbath for about 10 minutes.": "",
+                "MANGO GRANITA": "",
+                "Pour the mango puree in a container and cover with lid. freeze for few hours. scrape the granita with a fork and serve immediately.": ""
             }
         ]
     },
@@ -177,25 +205,22 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "tart base": "mentioned in chocolate tart",
+                "Sugar": "200 gms",
+                "cream": "120 ml",
+                "butter": "80 gms",
+                "bananas, thickly sliced": "7-8",
+                "whipped cream": "as required",
+                "dark chocolate, grated": "for garnish"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "prepare the tart and bake till fully done.": "",
+                "Heat sugar on moderately high heat in a heavy-bottomed saucepan. As the sugar begins to melt, stir vigorously with a whisk or wooden spoon": "",
+                "As soon as all of the sugar crystals have melted (the liquid sugar should be dark amber in color), immediately add the butter to the pan. Whisk until the butter has melted.": "",
+                "Once the butter has melted, take the pan off the heat. Count to three, then slowly add the cream to the pan and continue to whisk to incorporate.": "",
+                "Whisk until caramel sauce is smooth. Let cool in the pan for a couple minutes. fill half of the tart shells with caramel sauce. add the bananas on top. pipe whipped cream on top of bananas and garnish with grated chocolate.": ""
             }
         ]
     },
@@ -205,25 +230,22 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "tart base": "mentioned in chocolate tart",
+                "Sugar": "200 gms",
+                "cream": "120 ml",
+                "butter": "80 gms",
+                "bananas, thickly sliced": "7-8",
+                "whipped cream": "as required",
+                "dark chocolate, grated": "for garnish"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "prepare the tart and bake till fully done.": "",
+                "Heat sugar on moderately high heat in a heavy-bottomed saucepan. As the sugar begins to melt, stir vigorously with a whisk or wooden spoon": "",
+                "As soon as all of the sugar crystals have melted (the liquid sugar should be dark amber in color), immediately add the butter to the pan. Whisk until the butter has melted.": "",
+                "Once the butter has melted, take the pan off the heat. Count to three, then slowly add the cream to the pan and continue to whisk to incorporate.": "",
+                "Whisk until caramel sauce is smooth. Let cool in the pan for a couple minutes. fill half of the tart shells with caramel sauce. add the bananas on top. pipe whipped cream on top of bananas and garnish with grated chocolate.": ""
             }
         ]
     },
@@ -289,25 +311,23 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Egg yolk": "6",
+                "castor sugar": "125 gms",
+                "refined flour": "100 gms",
+                "milk": "500 ml",
+                "vanilla pod, scraped": "1",
+                "cornflour": "50 gms",
+                "baking powder": "pinch",
+                "ice cold water": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Whisk the egg yolks and one-third of sugar together in a bowl to a light ribbon consistency. whisk in the flour thoroughly.": "",
+                "in a saucepan, heat the milk with the rest of the sugar and the vanilla pod. as soon as it comes to the boil, pour it onto the egg yolk mixture, stirringas you go.": "",
+                "mix well, then return the mixture to the pan. bring to the boil over medium heat, stirring continously with the whisk.": "",
+                "continue to cook till thick. pour into a container lined with cling film. put in the deep freezer for about 2-3 hours. take it out and cut thick strips.": "",
+                "make a little thick batter of flour, cornflour, baking powder and ice cold water. dip the strips in the batter and fry in hot oil till golden and crisp. serve with berry/mango sauce and fresh fruits.": ""
             }
         ]
     },
@@ -317,25 +337,30 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "crushed digestive bicuits": "200gms",
+                "melted butter": "75 gms",
+                "egg yolk": "3",
+                "castor Sugar": "100 gms",
+                "muscat": "80 ml",
+                "vanilla pod, scraped": "1",
+                "goats curd": "350 gms",
+                "cream cheese": "250 gms",
+                "sour cream": "200 gms",
+                "gelatin leaves": "3.5",
+                "lemon juice": "15 ml",
+                "egg white": "3",
+                "castor sugar": "125 gms",
+                "blueberry compote": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "blend the biscuits till smooth. add the butter and combine well. put this mixture in greased moulds and press well till smooth and even.": "",
+                "make a thick sabayon with egg yolks, sugar, muscat and vanilla.": "",
+                "cream the cheeses and add to the sabayon once cooled": "",
+                "heat the lemon juice and add dissolved gelatin. pour over the sabayon and mix.": "",
+                "make soft peak meringue with egg whites and sugar. fold into the mixture": "",
+                "pour over the biscuit base and set in fridge for 2 hours. add berry compote on top.": ""
             }
         ]
     },
@@ -345,25 +370,30 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "crushed digestive bicuits": "200gms",
+                "melted butter": "75 gms",
+                "egg yolk": "3",
+                "castor Sugar": "100 gms",
+                "muscat": "80 ml",
+                "vanilla pod, scraped": "1",
+                "goats curd": "350 gms",
+                "cream cheese": "250 gms",
+                "sour cream": "200 gms",
+                "gelatin leaves": "3.5",
+                "lemon juice": "15 ml",
+                "egg white": "3",
+                "castor sugar": "125 gms",
+                "blueberry compote": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "blend the biscuits till smooth. add the butter and combine well. put this mixture in greased moulds and press well till smooth and even.": "",
+                "make a thick sabayon with egg yolks, sugar, muscat and vanilla.": "",
+                "cream the cheeses and add to the sabayon once cooled": "",
+                "heat the lemon juice and add dissolved gelatin. pour over the sabayon and mix.": "",
+                "make soft peak meringue with egg whites and sugar. fold into the mixture": "",
+                "pour over the biscuit base and set in fridge for 2 hours. add berry compote on top.": ""
             }
         ]
     },
@@ -373,25 +403,26 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "240 gms",
+                "Sugar": "600 gms",
+                "Eggs": "4",
+                "vanilla pod": "1",
+                "flour": "600 gms",
+                "Baking soda": "14 gms",
+                "yoghurt (thick)": "240 ml",
+                "water": "240 ml",
+                "blueberry compote": "as required",
+                "blueberry icing": "as required"
             }
         ],
         "method": [
             {
                 "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "whisk the eggs and vanilla pod seeds together and add little by little to the creamed butter at regular intervals till sugar is dissolved.": "",
+                "whisk the yoghurt and water together.": "",
+                "add the yoghurt liquid and flour, baking soda, little by little, till everything is incorporated and thick pouring consistency batter is obtained.add blueberry compote in the batter": "",
+                "pour the mixture in greased moulds and bake at 180c for 30 minutes or till done. ": "",
+                "pipe the blueberry icing over the cupcake and decorate it.": ""
             }
         ]
     },
@@ -470,7 +501,7 @@ var dessert=[
         "method": [
             {
                 "Melt the chocolate and butter over double boiler.": "",
-                "Whish the eggs and sugar till fluffy": "",
+                "Whisk the eggs and sugar till fluffy": "",
                 "Add the melted chocolate and butter": "",
                 "Fold the dry ingredients and walnuts": "",
                 "Gradually add the cream to make a thick batter": "",
@@ -484,25 +515,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "750 gms",
+                "Sugar": "1600 gms",
+                "Eggs": "24",
+                "Dark chocolate": "3600 gms",
+                "Baking powder": "20 gms",
+                "Flour": "1600 gms",
+                "Walnut": "1000 gms",
+                "Cream": "800 ml"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Melt the chocolate and butter over double boiler.": "",
+                "Whisk the eggs and sugar till fluffy": "",
+                "Add the melted chocolate and butter": "",
+                "Fold the dry ingredients and walnuts": "",
+                "Gradually add the cream to make a thick batter": "",
+                "Pour the mixture in greased trays and bake in the oven at 180 degree celcius": ""
             }
         ]
     },
@@ -512,25 +542,25 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "dark chocolate": "as required for cones",
+                "dark chocolate, finely chopped": "325 gms",
+                "pure heavy cream": "500 ml",
+                "egg yolks ": "4",
+                "castor sugar": "75",
+                "vanilla pod, scraped": "1/2",
+                "egg whites": "3"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "for cones, melt the dark chocolate and fill in PVC sheets shaped like cones. let it set and then remove from the sheets. set aside": "",
+                "place chocolate in a metal bowl, melt it over double boiler and keep warm.": "",
+                "using an electric mixer, whip cream until soft peaks form.": "",
+                "make sabayon by combining the egg yolks, 50 gms sugar and vanilla seeds. cook over double boiler, whisking continously until the egg yolks become glossy. remove from heat.": "",
+                "pour melted chocolate into warm sabayon and with large hand whisk, whisk as fast as you can to incorporate all the chocolate in sbayon. chocolate will begin to seize, at that point you will need to add 1 large kitchen spoonful of whipped cream. continue to whisk, cream will begin to soften the mixture": "",
+                "add another spoonful of cream and whisk vigorously for 1 minute. the mixture will now be workable and relatively stable. you should have half the whipped cream left.": "",
+                "immediately whisk egg whites until soft peaks form. whisk in remaining 25 gms sugar until dissolved. place egg whites and remaining cream on top of the chocolate mixture and gently fold through until well incorporated.": "",
+                "freeze for 5-10 minutes to remove as much as heat as possible, and refrigerate until required. pipe the mousse in the chocolate cones and serve.": ""
             }
         ]
     },
@@ -568,25 +598,26 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "240 gms",
+                "Sugar": "600 gms",
+                "Eggs": "4",
+                "vanilla pod": "1",
+                "flour": "600 gms",
+                "Baking soda": "14 gms",
+                "yoghurt (thick)": "240 ml",
+                "water": "240 ml",
+                "chocolate truffle": "as required",
+                "chocolate truffle icing": "as required"
             }
         ],
         "method": [
             {
                 "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "whisk the eggs and vanilla pod seeds together and add little by little to the creamed butter at regular intervals till sugar is dissolved.": "",
+                "whisk the yoghurt and water together.": "",
+                "add the yoghurt liquid and flour, baking soda, little by little, till everything is incorporated and thick pouring consistency batter is obtained.add melted chcolate truffle in the batter": "",
+                "pour the mixture in greased moulds and bake at 180c for 30 minutes or till done. ": "",
+                "pipe the chocolate icing over the cupcake and decorate it.": ""
             }
         ]
     },
@@ -596,25 +627,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour": "1800 gms",
+                "Salt": "30 gms",
+                "sugar": "225 gms",
+                "softened butter": "150 gms",
+                "fresh yeast": "120 gms",
+                "bread improver": "35 gms",
+                "eggs": "4",
+                "milk": "650-700 ml",
+                "chocolate truffle": "for icing"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "combine all the ingredients and knead into a very soft dough.": "",
+                "sheet the dough till 6mm thick. place the dough covered with butter paper over a floured tray and put in the fridge for atleast 2 hours. ": "",
+                "take the tray out of the fridge. using doughnut cutter, cut the doughnuts and place on a floured tray. ": "",
+                "place the doughnuts in the proving chamber or warm place for 90 minutes. after proving, fry the doughnuts in oil at 160c till golden on both sides.": "",
+                "allow the doughnuts to cool. melt the chocolate truffle and dip the doughnuts in it till the first half is covered.": ""
             }
         ]
     },
@@ -624,25 +654,37 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "CHOUX PASTE": "",
+                "milk": "500 ml",
+                "water": "125 ml",
+                "butter": "100 gms",
+                "salt": "2.5 gms",
+                "sugar": "5 gms",
+                "flour": "150 gms",
+                "eggs": " 4",
+                "CREME PATISSERIE": "",
+                "Egg yolk": "6",
+                "castor sugar": "125 gms",
+                "refined flour": "40gms",
+                "vanilla pod, scraped": "1",
+                "chocolate truffle": "as required for eclairs",
+                "dark chocolate": "for dipping"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "BASIC CHOUX PASTE": "",
+                "add milk, water, butter, salt and sugar together in a saucepan and bring to boil.": "",
+                "when the liquid starts to come to a boil, add the flour and continue to cook using wooden spatula on low heat till the mixture becomes soft paste and starts to leave the sides of the pan.": "",
+                "transfer to another round bottom container. knock off some heat, add eggs 1 by 1.": "",
+                "resulting mixture should be smooth, little thick and glossy.": "",
+                " CREME PATISSERIE": "",
+                "Whisk the egg yolks and one-third of sugar together in a bowl to a light ribbon consistency. whisk in the flour thoroughly.": "",
+                "in a saucepan, heat the milk with the rest of the sugar and the vanilla pod. as soon as it comes to the boil, pour it onto the egg yolk mixture, stirringas you go.": "",
+                "mix well, then return the mixture to the pan. bring to the boil over medium heat, stirring continously with the whisk. let buuble for 2 minutes, then pour into a bowl.": "",
+                "for chocolate eclairs, mix the creme patisserie with chocolate truffle.": "",
+                "Using a star nozzle, pipe the choux paste into eclair shape on a silpat. brush with eggwah on top and bake at 180c till golden. allow to dry till hollow from inside.": "",
+                "allow to cool. using a pointed nozzle, make3 holes at the bottom of the eclairs and fill the eclairs with chocolate creme patisserie.dip the eclairs in melted chocolate till the front is totally covered.": ""
             }
         ]
     },
@@ -680,25 +722,23 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "egg whites": "500 gms",
+                "castor sugar": "250 gms",
+                "dark chocolate": "3",
+                "butter": "250gms",
+                "egq yolks": "450 gms",
+                "coffee powder": "15 gms",
+                "Chocolate mousse": "refer to recipe of chocolate mousse"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "melt the chocolate and butter over double boiler.": "",
+                "when not so hot, add egg yolks to the melted chocolate little by little till fully incorporated.": "",
+                "add coffee powder to the chocolate mixture.": "",
+                "add egg whites in machine with whisk attachment. start to whip on high speed.add the sugar little by little till incorporated. resulting meringue should have stiff peaks.": "",
+                "add 1/3rd of the meringue into the chocolate mixture. now, fold the rest carefully to retain the fluffiness of meringue.": "",
+                "pour the mixture into greased moulds till 50% is filled.bake at 180c in a water bath for about 40 minutes.allow to cool. pipe chocolate mousse over top and serve.": ""
             }
         ]
     },
@@ -708,25 +748,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "dark chocolate, finely chopped": "325 gms",
+                "pure heavy cream": "500 ml",
+                "egg yolks ": "4",
+                "castor sugar": "75",
+                "vanilla pod, scraped": "1/2",
+                "egg whites": "3"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "for cones, melt the dark chocolate and fill in PVC sheets shaped like cones. let it set and then remove from the sheets. set aside": "",
+                "place chocolate in a metal bowl, melt it over double boiler and keep warm.": "",
+                "using an electric mixer, whip cream until soft peaks form.": "",
+                "make sabayon by combining the egg yolks, 50 gms sugar and vanilla seeds. cook over double boiler, whisking continously until the egg yolks become glossy. remove from heat.": "",
+                "pour melted chocolate into warm sabayon and with large hand whisk, whisk as fast as you can to incorporate all the chocolate in sbayon. chocolate will begin to seize, at that point you will need to add 1 large kitchen spoonful of whipped cream. continue to whisk, cream will begin to soften the mixture": "",
+                "add another spoonful of cream and whisk vigorously for 1 minute. the mixture will now be workable and relatively stable. you should have half the whipped cream left.": "",
+                "immediately whisk egg whites until soft peaks form. whisk in remaining 25 gms sugar until dissolved. place egg whites and remaining cream on top of the chocolate mixture and gently fold through until well incorporated.": "",
+                "freeze for 5-10 minutes to remove as much as heat as possible, and refrigerate until required.": ""
             }
         ]
     },
@@ -736,25 +775,23 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
+                "MUFFIN BATTER": "",
                 "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Sugar": "500 gms",
+                "Eggs": "10",
+                "Vanilla essence": "5 ml",
+                "flour": "500 gms",
+                "baking powder": "20 gms",
+                "cocoa powder": "as required",
+                "chocolate truffle": "as required"
             }
         ],
         "method": [
             {
                 "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Add the eggs one by one till sugar is dissolved and mixture is creamed": "",
+                "Fold all the dry ingredients and set aside the muffin batter.mix little cocoa powder and chocolate truffle in the batter.": "",
+                "fill the muffin mats with the batter and bake at 180c for about 25 minutes or till done.": ""
             }
         ]
     },
@@ -820,25 +857,31 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "BASIC TART BASE": "",
+                "refined flour": "250 gms",
+                "butter, cubed and slightly softened": "125 gms",
+                "icing sugar, sifted": "100 gms",
+                "salt": "pinch",
+                "eggs": "2",
+                "CHOCOLATE MIXTURE": "",
+                "dark chocolate, finely chopped": "250 gms",
+                "butter": "40 gms",
+                "double cream": "200 ml",
+                "milk": "50 ml",
+                "egg": "1",
+                "egg yolk": "2"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "BASIC TART": "",
+                "put the flour in a mound on a work surface and make a well. put in butter, icing sugar, salt and mix these ingredients together with you fingertips. ": "",
+                "Add the eggs one by one till mixture is creamed properly. work into the flour mixture using you fingertips, until the dough begins to hold together.": "",
+                "when the dough is amalgamated, knead it few times until smooth. wrap the dough in cling wrap and rest in the fridge for 1-2 hours.": "",
+                "when the dough is rested, roll out on a lightly floured surface to a 3mm thickness. roll the dough on a greased tart base and prick the base with fork.": "",
+                "blind bake the tart at 180c for 20 minutes. remove the beans and return the tart to the oven for 10 more minutes.": "",
+                "cHOLCOLATE TART": "",
+                "for chocolate mixture, bring milk and cream to a boil. add to whisked egg and egg yolks. fold in the chocolate and butter till fully incorporated. add the filling in the base and bake at 160c for 25 minutes or till just set": ""
             }
         ]
     },
@@ -848,25 +891,17 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "BASIC CHOUX PASTE": "mentioned in eclairs",
+                "creme patisserie": "mentioned in eclairs"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Using a pastry bag fitted with a 1/2' tip, pipe out 12 swan heads. (Youíre aiming for something between a numeral 2 and a question mark, with a little beak if youíre skilled)": "",
+                "Remove the tip from the bag and pipe out 12 swan bodies. These will be about 3î long, and about 2î wide. One end should be a bit narrower than the other.": "",
+                "bake at 180c till golden. remove the heads if they get coloured before the bodies. dry the bodies till hollow from inside.allow to cool": "",
+                "Take a swan body and use a very sharp knife to cut off the top 1/3rd to 1/2. Cut the removed top down the center to make two wings.": "",
+                "Dollop or pipe pastry cream into the body, insert head, and then add wings. Sprinkle with powdered sugar if desired.": ""
             }
         ]
     },
@@ -876,25 +911,38 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "COLD CHEESECAKE": "mentioned in cheesecake recipe",
+                "fresh mangoes, pureed": "2-3",
+                "fresh mangoes, chopped": "2",
+                "CHOCOLATE COOKIE CRUMB": "",
+                "Butter": "1360 gms",
+                "Sugar": "2000 gms",
+                "Eggs": "24",
+                "Chocolate chips": "1600 gms",
+                "melted chocolate": "1600 gms",
+                "baking powder": "40 gms",
+                "Cocoa powder": "400 gms",
+                "refined flour": "1720 gms",
+                "BASIL ICE CREAM": "",
+                "milk": "585 ml",
+                "cream": "175 ml",
+                "milk powder": "41 gms",
+                "sugar": "117 gms",
+                "liquid glucose": "35 gms",
+                "honey": "23 gms",
+                "basil": "40 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "MANGO CHEESECAKE": "",
+                "follow the same recipe of cold cheesecake. in the end, at the mango puree in the mixture and set in the chocolate cookie base, mentioned below. garnish the cheesecake with fresh chopped mangoes.": "",
+                "CHOCOLATE COOKIE CRUMB": "",
+                "Cream the butter and sugar. add the aggs 1 by 1 till the sugar is dissolved. add the melted chocolate.make sure the chocolate is not so hot.": "",
+                "fold the dry ingredients and chocolate chips.scatter the mixture on a silpat and bake at 180c till done. allow to cool and blend till smooth. add little melted butter and set at the bottom of the cheesecake mould till even and smooth.": "",
+                "BASIL ICECREAM": "",
+                "blanch the basil in salted boiling water and shock in ice cold water. dry the basil leaves and chop finely. blend the basil with cream and milk.": "",
+                "heat cream mixture till 40c. mix in all the other ingredients and heat till 85c. cool over ice bath. churn the ice cream with dry ice/liquid nitrogen/ice cream machine and place in freezer.": ""
             }
         ]
     },
@@ -1039,25 +1087,16 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "oil": "125 ml",
+                "yoghurt": "125 ml",
+                "sugarfree": "180 gms",
+                "flour": "250 gms",
+                "baking powder": "8 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "whisk together oil, yoghurt and sugarfree till smooth. fold the flour and baking powder. place the mixture in muffin mats and bake at 180c for 20-22 minutes.": ""
             }
         ]
     },
@@ -1067,25 +1106,19 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "tart base": "mentioned in chocolate tart",
+                "figs": "150 gms",
+                "castor sugar": "80 gms",
+                "maple syrup": "100 ml",
+                "eggs": "4"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "prepare the tart base and blind bake as mentioned.": "",
+                "for filling, add chopped figs, sugar and little water in a pan and cook till you get a fig compote.": "",
+                "add 100ml maple syrup and whisk in 4 eggs.": "",
+                "add the filling in the blind baked tart and bake at 180c for about 25 minutes.": ""
             }
         ]
     },
@@ -1151,25 +1184,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flourless fudge cake": "mentioned",
+                "BANANA AND CARAMEL ICE CREAM": "",
+                "egg yolks": "24",
+                "castor sugar": "200 gms",
+                "cream": "2 litres",
+                "bananas": "5-6",
+                "sugar": "50 gms",
+                "Cream": "40 ml",
+                "butter": "30 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "make the chocolate fudge cake as mentioned": "",
+                "for ice cream, boil the cream and allow to cool. cook the egg yolks and sugar over double boiler till thick sabayon. ": "",
+                "add the cream, combine and churn in the ice cream machine. ": "",
+                "meanwhile, make caramel with 50 gms sugar, add butter and thcikly sliced bananas and cook on low flame. add the cream and cook for a while.": "",
+                "when the ice cream becomes soft, add the caramelised bananas and mix properly. place the ice cream in the freezer.": ""
             }
         ]
     },
@@ -1179,25 +1211,31 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                " FRESH MANGO TART": "",
+                "TART BASE": "mentioned in chocolate tart",
+                "CREME PATISSERIE": "mentioned in eclairs",
+                "WHIPPED CREAM": "1/3rd of creme patisserie",
+                "fresh mangoes, sliced": "as required",
+                "MANGO AND MINT SALSA": "",
+                "Mangoes, chopped": "4-5",
+                "fresh mint leaves, chopped": "few",
+                "BERRY SORBET": "",
+                "Water": "2 litres",
+                "sugar": "300 gms",
+                "liquid glucose": "150 gms",
+                "lemon juice": "10 ml ",
+                "berry compote": "800 gms "
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                " FRESH MANGO TART": "",
+                "prapare the tart base and bake it fully. mix whipped cream and creme patisserie properly. fill the 90% of the tart base with cream. decorate the top with freshly sliced mangoes. ": "",
+                "MANGO AND MINT SALSA": "",
+                "combine the chopped mangoes and mint leaves.": "",
+                "BERRY SORBET": "",
+                "bring the water, sugar and liquid glucose to a boil. add lemon juice and berry compote. combine well.": "",
+                "allow to cool, and churn till thick and smooth. place in freezer.": ""
             }
         ]
     },
@@ -1207,25 +1245,15 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "tart base": "mentioned in chocolate tart",
+                "creme patisserie": "mentioned in eclairs",
+                "whipped cream": "1/3rd of creme patisserie",
+                "fresh strawberries": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "prepare the tart and bake till fully done. add whipped cream to creme patisserie and combine well. fill the tartlets with the cream. decorate the top with sliced strawberries.": ""
             }
         ]
     },
@@ -1235,25 +1263,21 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour": "600 gms",
+                "yeast": "20 gms",
+                "milk": "440 ml",
+                "eggs": "4",
+                "butter": "100 gms",
+                "sugar": "75 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "warm the milk till blood temperature. add butter and allow to melt. ": "",
+                "dissolve sugar in the milk and add the eggs. pour little of this mixture into yeast and dissolve. put it back into the milk.": "",
+                "make a well in the flour and add this milk. make a very thick batter. leave aside for 1 hour.": "",
+                "put little dumplings with your hands and fry in hot oil at about 160c till golden brown. roll in lavender sugar.": "",
+                "make a hole in the centre of the berliner and stuff with chocolate ganache/jam ...": ""
             }
         ]
     },
@@ -1347,25 +1371,27 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "240 gms",
+                "Sugar": "600 gms",
+                "Eggs": "4",
+                "vanilla pod": "1",
+                "flour": "600 gms",
+                "Baking soda": "14 gms",
+                "yoghurt (thick)": "240 ml",
+                "water": "240 ml",
+                "lemon juice, zest": "as required",
+                "egg whites": "4",
+                "castor sugar": "200 gms"
             }
         ],
         "method": [
             {
                 "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "whisk the eggs and vanilla pod seeds together and add little by little to the creamed butter at regular intervals till sugar is dissolved.": "",
+                "whisk the yoghurt and water together.": "",
+                "add the yoghurt liquid and flour, baking soda, little by little, till everything is incorporated and thick pouring consistency batter is obtained.add little lemon juice and lots of zest in the batter": "",
+                "pour the mixture in greased moulds and bake at 180c for 30 minutes or till done. ": "",
+                "make meringue with egg whites and sugar. pipe with meringue over the cupcakes and brulee it with blow torch.": ""
             }
         ]
     },
@@ -1375,25 +1401,22 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "tart base": "mentioned in chocolate tart",
+                "egg yolk": "9",
+                "whole eggs": "6",
+                "castor sugar": "200 gms",
+                "butter": "250 gms",
+                "lemon juice , little lemon zest": "100 ml",
+                "vanilla essence": "bit",
+                "egg whites": "4"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "preapre the tart and bake till fully done.": "",
+                "whisk the eggs, sugar and vanilla together and cook over double boiler.": "",
+                "when little thick, add the lemon juice and zest and continue whisking. slowly incorporate butter and whisk till thick and smooth. fill 80% of the tart with lemon curd and allow to set in the fridge.": "",
+                "make meringue with egg whites and slowly incorparating suagr. pipe the meringue over the tart and brulee it with blow torch. serve immediately.": ""
             }
         ]
     },
@@ -1487,28 +1510,25 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "rice": "75 gms",
+                "milk": "1 litre",
+                "sugar": "150 gms",
+                "saffron": "few strands",
+                "green cardamom powder": "1/2 tsp",
+                "pistachios, blanched, peeled and sliced": "few",
+                "fresh mangoes, pureed": "3"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "soak the rice for half an hour. blend the rice with little liquid till a coarse paste is formed. ": "",
+                "boil the milk and reduce it. add the rice paste and continue to cook for about 20 minutes on low heat, stirring continously. ": "",
+                "when the rice is fully dissolved and becomes little thick, add the sugar and soaked saffron. ": "",
+                "finish the phirni by adding green cardamom powder and mango puree. set in individual skoras/ claypots and serve chilled with pistachios on top.": ""
             }
         ]
-    },
+    }
+,
     {
         "src": "/images/DESSERTS/ORANGE BREAD AND BANANA BREAD.jpg",
         "caption": "ORANGE BREAD AND BANANA BREAD",
