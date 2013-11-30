@@ -59,6 +59,7 @@ html
                   span.numbers 7 
                     span.black ingredients
       div(style="clear:both")
+      img(id="loading",src="/images/ajax-loader.gif",style="margin:0 auto;width:25px;height:25px;display:block")
       footer
         p.pull-right
           a(href='#') Back to top
@@ -109,8 +110,10 @@ html
     window.onscroll = function(ev) {
     if(ajax == false){
         if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+            $("#loading").css("display","block");
             ajax=true;
             $.get("/recajax",{"categ":src,"pgno":pgno},function(resp){
+            $("#loading").hide();
               $("#columns").append(resp);
               pgno++;
               ajax=false;
