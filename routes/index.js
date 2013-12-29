@@ -2642,6 +2642,7 @@ var dessert=[
                 "add chopped garlic, anchovies, grated parmesan, worcestershire sauce to mayonnaise and mix well. ": "",
                 "take crisp lettuce in a bowl and add the dressing. mix well to coat properly.": "",
                 "place in serving bowl and garnish with parmesan shavings, bread croutons and fenugreek lavash.": ""
+            }
                 
         ]
     },
@@ -4241,8 +4242,8 @@ var main=[
                 "fresh cream": "1 tbl spoon",
                 "garam masala powder": "1/2 tsp",
                 "honey": "1 tsp",
-                "kashmiri chilli powder": "1 tsp"
-                "butter": "3 tbsp"
+                "kashmiri chilli powder": "1 tsp",
+                "butter": "3 tbsp",
                 "tandoori chicken, cooked": "as required"
             }
         ],
@@ -4282,6 +4283,7 @@ var main=[
                 "add coriander and lemon juice to finish.": "",
                 "pour dosa batter on a seasoned tawa and using a katori/bowl, spread it thinly aa around . place the paneer stuffing in one corner.": "",
                 "once golden brown, roll the dosa from stuffing side and serve hot with chicken chettinad gravy.": ""
+            }
                 
         ]
     },
@@ -5111,25 +5113,47 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "nilgiri masala": "",
+                "coconut oil": "3 tbsp",
+                "poppy seeds": "2 tsp",
+                "coconut, grated": "120 gms",
+                "broken cashewnuts": "3 tbsp",
+                "coriander, washed with stalks": "i big bunch",
+                "mint leaves": "i small bunch",
+                "nilgiri korma gravy": "",
+                "coconut oil": "2 tbsp",
+                "fennel seeds": "1/2 tsp",
+                "whole garam masala": "1 tbsp",
+                "slit green chillies": "2",
+                "ginger-garlic paste": "1 tsp",
+                "turmeric powder":  "1/2 tsp",
+                "coriander powder": "1 tsp",
+                "red chilli powder": "1 tsp",
+                "cumin powder": "1 tsp",
+                "curry leaves": "few",
+                "chopped onions": "3",
+                "chopped tomatoes": "3",
+                "paneer, cut in cubes": "400 gms",
+                "coconut milk": "50 ml",
+                "RAGI DOSA": "",
+                "ragi flour": "1/2 cup",
+                "wheat flour": "1/4 cup",
+                "chopped onion": "1",
+                "chopped green chilli": "1",
+                "curry leaves, torn": "2-3",
+                "cumin seeds": "1 tsp",
+                "buttermilk": "as required",
+                "salt": "to taste",
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "for the masala, heat oil in a pan. add poppy seeds, cashewnuts and coconut. saute and add the coriander and mint. allow to cool and grind into a fine paste.": "",
+                "heat coconut oil in a pan. add fennel seeds, whole garam masala, green chilli, curry leaves and onions. saute till golden. add ginger-garlic paste and the dry masalas.": "",
+                "add the tomatoes and continue to cook. add the paneer and the masala paste. add salt to taste and finish with coconut milk.": "",
+                "for ragi dosa, mix all the ingredients and make a thin batter.": "",
+                "on hotplate, drizzle little oil and pour the dosa batter. cook on both sides and serve hot.": ""
+               
             }
         ]
     },
@@ -5141,13 +5165,14 @@ var main=[
             {
                 "chickpeas, soaked overnight": "500 gms",
                 "tea bags": "3",
+                "dry amla/ gooseberry": "3 pieces",
                 "bay leaf": "1",
                 "whole cardamom": "2",
                 "mace": "1",
                 "cloves": "4",
                 "cinnamon": "1 small stick",
                 "salt ": "to taste",
-                "oil": "2 tbsp"
+                "oil": "2 tbsp",
                 "onions, peeled": "4",
                 "green chillies": "2-3",
                 "ginger-garlic paste": "1 tbsp",
@@ -5160,7 +5185,7 @@ var main=[
         ],
         "method": [
             {
-                "put all the whole garam masala in a muslin cloth. put the chickpeas with water, salt, teabags in a pressure cooker.": "",
+                "put all the whole garam masala, dry amla in a muslin cloth. put the chickpeas with water, salt, teabags in a pressure cooker.": "",
                 "puree the onions with green chillies in a blender. heat oil in a kadhai. add the onions and saute till brown. ": "",
                 "add the ginger-garlic paste and tomato puree. add the chhole masala. add the boiled chickpeas. let it simmer for 15-20 minutes.": "",
                 "finish with chopped coriander. heat ghee in a seperate kadhai, add ginger juliennes and pour the hot ghee over the chana and serve hot with bhatura/kulcha.": "",
@@ -5215,7 +5240,7 @@ var main=[
                 "eggs": "3",
                 "egg yolks": "2",
                 "cream": "300 ml",
-                "gruyere cheese, grated": "120 gms"
+                "gruyere cheese, grated": "120 gms",
                 "pate brisee": "as required"
             }
         ],
@@ -5320,25 +5345,47 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "SOUS-VIDE CHICKEN BREAST": "",
+                "chicken breast": "1",
+                "chettinad masala": "1 tsp",
+                "salt": "to taste",
+                "crushed pepper": "pinch",
+                "oil": "15 ml",
+                "melted butter": "15 gms",
+                "MUTTAI PARATHA MILLE-FEUILLE": "",
+                "malabar paratha, cooked ": "14 pieces",
+                "eggs": "14",
+                "chopped onions": "100 gms",
+                "chopped tomatoes": "100 gms",
+                "chopped green chillies": "25 gms",
+                "chopped coriander": "30 gms",
+                "salt": "to taste",
+                "turmeric powder": "1/2 tsp",
+                "red chilli powder": "1 tsp",
+                "black pepper powder": "1/2 tsp",
+                "ONION RINGS": "",
+                "onion, cut in to thick rondels and layers seperated": "1",
+                "gramflour": "100 gms",
+                "salt": "to taste",
+                "red chilli powder": "1 tsp",
+                "baking soda": "pinch",
+                "oil": "to deep fry",
+                "CHETTINAD SAUCE": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "SOUS-VIDE CHICKEN BREAST":"",
+                "marinate the chicken breast with salt, pepper, chettinad masala, oil and melted butter. put in a bag and vacuum pack it.": "",
+                "set the temperature of sous-vide machine t 146f. put the vacuum seal bag in the water bath for 2 hours. take it out and allow to rest.": "",
+                "when ready to serve, pan fry the chicken breast till coloured.": "",
+                "MUTTAI PARATHA MILLE-FEUILLE": "",
+                "Crush the malabar paratha into small pieces. make a batter of eggs, masalas and onion, tomatoes, chillies, coriander.": "",
+                "take a baking dish. apply foil over the dish and grease with lttle oil. put a layer of egg batter. cook in salamader or oven till it is half cooked. add the malabar paratha to it and allow to soak in the mixture. ": "",
+                "return to the oven till the egg is cooked. add a layer of malabar paratha and egg mixture. cook till batter is cooked, but the paratha does not burn. repeat this 2 more times. finally, cover the container with foil and put in oven at 160c for about 8 minutes.": "",
+                "take out from the dish and cut into thick slices. to reheat, cling wrap the slice and put in microwave for 2 minutes.": "",
+                "ONION RINGS": "",
+                "make a batter of gramflour, salt, chilli powder and baking soda with enough water. coat the onion roundels in it and deep fry at 180c till golden and crisp.":""
             }
         ]
     },
@@ -5430,25 +5477,27 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chicken breast, Diced": "2",
+                "cream cheese": "100 gms",
+                "Egg white": "1",
+                "pistachios, blanched": "15 gms",
+                "chicken thighs, boned": "4",
+                "salt, pepper": "to taste",
+                "oil": "for deep frying",
+                "butter": "20 gms",
+                "demi-glaze": "75 ml",
+                "red wine": "20 ml"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Put the chicken breasts into a food processor and pulse until smooth. Add the cream cheese, egg white and a pinch of salt and pepper and pulse to combine. fold the pistachios and transfer the mixture to a piping bag and refrigerate for 1 hour until firm.": "",
+                "Working with one chicken thigh at a time, place between two sheets of cling film and then using a rolling pin, flatten to an even thickness. Lay out another large sheet of cling film and lay the flattened chicken thigh skin-side down in the middle of the film.": "",
+                "Season with salt and pepper and then pipe a quarter of the chicken mousse along the centre of the meat. Using the cling film to help, roll the chicken up tightly, to enclose the filling and create a sausage shape. Tie the ends tightly together to seal. Repeat with the remaining thighs and mousse ": "",
+                "Bring a large pan of water to the boil, carefully add the chicken parcels, cover and remove the pan from the heat. Allow the chicken to poach in the pan, off the heat, for about 20 minutes. ": "",
+                "hen using a slotted spoon remove the chicken parcels from the pan, drain on kitchen paper and leave to cool slightly. Remove from the cling film and pat dry with kitchen towel. ": "",
+                "heat the oil for deep frying to 170C. Fry the chicken parcels, in batches, for about 2-3 minutes until the skin is crisp and golden. Transfer to a plate and drain on kitchen paper. Leave to rest for a couple of minutes and then carve into thick slices": "",
+                "heat red wine in a saucepan and allow to boil. add the demiglaze and reduce to a glaze. add butter and season with salt and pepper. ":""
             }
         ]
     },
