@@ -1117,26 +1117,25 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "tart base": "as required",
+                "figs, finely chopped": "300 gms",
+                "water": "1/2 cup",
+                "sugar": "5 tbsp",
+                "sesame seeds, toasted": "3 tbsp",
+                "orange flower water": "1 tbsp",
+                "Cinnamon powder": "3/4 tsp",
+                "eggs": "6",
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "prepare the tart base and blind bake as mentioned.": "",
+                "Simmer figs, water, sugar, and cinnamon in a 1- to 2-quart heavy saucepan, uncovered, stirring occasionally, until mixture is thickened, 2 to 3 minutes": "",
+                "Stir in sesame seeds (3 tablespoons) and cook, stirring, 1 minute. Remove from heat and stir in orange-flower water, then transfer filling to a bowl. add the eggs and mix properly.": "",
+                "fill the tart base with the mixture and bake in the oven at 180c till just set.": ""
             }
+                
         ]
     },
     {
@@ -1145,25 +1144,31 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "egg whites": "6",
+                "lemon juice": "dash",
+                "castor sugar": "120 gms",
+                "vanilla bean, scraped": "1",
+                "full fat milk": "1 litre",
+                "egg yolks": "10",
+                "castor sugar": "80 gms",
+                "water": "50 ml",
+                "castor sugar": "100 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "For the meringues, whisk the egg whites and lemon juice in a clean bowl until soft peaks form when the whisk is removed.": "",
+                "Add the sugar a third at a time, whisking after each addition, until stiff peaks form when the whisk is removed.": "",
+                "Bring the milk and the vanilla bean paste to the boil in a large, shallow, lidded pan. Reduce the heat until the mixture is just simmering.": "",
+                "Dip 2 tablespoons in hot water, then make 8 quenelles of the meringue mixture, using the spoons to shape the meringue. Carefully lower each quenelle of meringue into the simmering milk.": "",
+                "Cover the pan with the lid and poach for 7-10 minutes, carefully turning the meringues over halfway through cooking.": "",
+                "Remove the poached meringues from the pan using a slotted spoon and set aside to drain on a small tray until needed. Reserve the poaching milk and keep hot.": "",
+                "For the vanilla cream, lightly whisk the egg yolks and caster sugar together in a mixing bowl, until smooth.": "",
+                "Gradually add the hot milk to the egg yolks, whisking continuously, then return the custard mixture to the pan and heat over a medium heat, stirring continuously with a wooden spoon, until the custard is thick enough to coat the back of the spoon.": "",
+                "Pour the custard immediately into a large serving bowl and suspend it over a bowl of ice cubes or chilled water. Stir occasionally until the custard cools.": "",
+                "When the custard has cooled, transfer to a serving bowl. Float the poached meringues on top of the cooled custard, then chill in the fridge for up to 24 hours.": "",
+                "For the caramel, pour the water into a straight-sided pan, then add the sugar and cook over medium heat, until the sugar has dissolved. Once no sugar crystals remain, boil the mixture until caramelised to a dark golden-brown.": "",
+                "Pour the caramel over the floating meringues and serve immediately.":""
             }
         ]
     },
@@ -1276,25 +1281,28 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
+                "Butter": "115 gms",
+                "castor Sugar": "115 gms",
                 "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Almond meal": "115 gms",
+                "flour": "1 tbsp",
+                "puff pastry": "450 gms",
+                "icing sugar": "30 gms",
+                "raspberry jam": "2 tbsp",
+                "egg yolks": "1"
             }
         ],
         "method": [
             {
                 "Cream the butter and sugar together": "",
                 "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Fold the flour and almond meal.": "",
+                "To make the gateau, roll out the pastry and cut out 2 circles, approximately 25cm in diameter.": "",
+                "Lay 1 circle over a 23cm flan dish and tip in the almond mixture, leaving a couple of centimetres clear around the edges. ": "",
+                "Spread the other circle with jam, leaving 2cm clear around the edges. Brush the edge with egg yolk and invert over the filling. ": "",
+                "Press the edges to make a firm seal and tip out onto a lightly greased baking sheet. Brush with the remaining egg yolk and score the top with a sharp knife. ": "",
+                "Bake for 10 minutes, then lower the heat to 220C/gas 7 and cook for a further 25-30 minutes until golden. In the last 5 minutes of cooking, dust with icing sugar to give the pastry a rich glaze. Allow to cool and serve while still warm ": ""
+
             }
         ]
     },
@@ -1305,7 +1313,7 @@ var dessert=[
     "ingredients": [
         {
             "choux pastry": "150 gms",
-            " castor Sugar": "100 gms",
+            "castor Sugar": "100 gms",
             "puff pastry": "100 gms",
             "creme patisserie": "100 gms"
         }
@@ -1325,27 +1333,17 @@ var dessert=[
         "src": "/images/DESSERTS/GUM PASTE DECORATION OVER CAKE.jpg",
         "caption": "GUM PASTE DECORATION OVER CAKE",
         "categ": "DESSERTS",
-        "ingredients": [
+        "ingr edients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chocolate cake": "as required",
+                "gum paste": "as required"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "decorate the cake with the gum paste to your choice.": ""
+               
             }
         ]
     },
@@ -1465,25 +1463,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "crushed digestive biscuits": "40 gms",
+                "mousse base": "100 gms",
+                "mango puree": "75 gms",
+                "gelatin, powdered": "15 gms",
+                "fresh mangoes, chopped": "1",
+                "peppermint, powdered": "30 gms",
+                "fresh mint leaves": "few sprigs"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix mango puree and peppermint with the mousse base and cream properly.": "",
+                "melt the gelatin with little water in microwave. put 500 ml water in a pan. bring to a boil.": "",
+                "take it off the heat and add gealtin, peppermint and mango puree. set the jelly in desired moulds. ": "",
+                "to assemble, place crushed biscuits in the bottom of margherita glass. ": "",
+                "pipe a layer of mango mousse. then, put a layer of mango jelly.": "",
+                "put crushed biscuits on top of jelly. then pipe another layer of mousse. finally, top with fresh mangoes and garnish with mint.": ""
             }
         ]
     },
@@ -1555,25 +1552,23 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Sugar": "100 gms",
+                "Eggs": "5",
+                "Milk": "500 ml",
+                "Vanilla essence": "4 ml",
+                "orange,zest": "2 tsp",
+                "orange segments": "for garnish"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "blend the orange zest and sugar together. Boil milk and sugar together.": "",
+                "Whish eggs and vanilla essence together.": "",
+                "When the milk is hot(not too hot, otherwise eggs with curdle), add the eggs while continously whisking. Strain the mixture": "",
+                "Make dry caramel using sugar and desired color is achieved. Add this to the moulds so tha tbottom is covered completely.": "",
+                "Pour the mixture in the moulds till 90% and bake in a bain Morie  at 170 degrees celcius for 60 minutes.": "",
+                "Cool and garnish with orange segments.": ""
+                
             }
         ]
     },
@@ -1583,25 +1578,21 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "croissant dough": "as required",
+                "chocolate": "as required",
+                "Egg wash": "as required"
+               
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "sheet the croissant dough to 3.5 mm thickness adn place on a floured bench.": "",
+                "cut out rectangles of 10cm length and 8cm width.": "",
+                "cut chocolate bars of 6cm by 1cm.": "",
+                "put the chocolate bar on the base of width. fold the dough on the bar.seal the dough by pressing against it.": "",
+                "place another chocolate bar on the edge of fold. roll it over, making sure the crease comes in centre of the bottom of pain-au-chocolat.": "",
+                "put the dough base side down on a tray. prove for 45 minutes and bake in oven at 22oc for about 16 minutes with steam till golden brown.": "",
+                "allow to dry for 5 minutes.": ""
             }
         ]
     },
@@ -1611,25 +1602,22 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "croissant dough": "as required",
+                "rum soaked raisins": "40 gms",
+                "Egg wash": "as required",
+                "cinnamon powder": "1 tsp",
+                "apricot jam": "45 gms",
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "sheet the croissant dough to 3.5 mm thickness and place on a floured bench.": "",
+                "cut into rectangle of 30 cm length and 40 cm width.": "",
+                "apply apricot jam on top . sprinkle cinnamon powder and raisins. start rolling from the width and fold over.": "",
+                "place the closed edge on the bottom of tray. cut out rolls of 3cm width and press down to see the layers. ": "",
+                "prove for 30 minutes and spray with eggwash. bake in the oven at 220c for about 15 minutes with steam. allow to dry for 5 minutes.": "",
+                "put apricot jam in a pan with little water. cook till the jam is little sticky between fingertips. apply the glaze over pain-au-raisins once cooled.": ""
             }
         ]
     },
@@ -1667,25 +1655,19 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "puff pastry": "450 gms",
+                "castor Sugar": "250 gms"
             }
+                
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Sprinkle work surface with the sugar. Place the puff pastry on top and roll to a rectangle 8 by 26 inches and approximately 1/8 inch thick, continually sprinkling with additional sugar to prevent the dough from sticking.": "",
+                "Working quickly but gently, roll each long end to the center of the pastry, making sure to roll tightly and evenly. Freeze rolled log for 20 minutes, until very firm but not frozen.": "",
+                "Slice crosswise into 3/8-inch slices. Roll over each palmier with a rolling pin to lightly flatten, and sprinkle the center of each with more sugar. Place palmiers 2 inches apart on water-sprayed baking sheets. Freeze for at least 1 hour.": "",
+                "Preheat oven to 450 degrees. Bake palmiers 4 to 6 minutes, until golden on the underside.": "",
+                "Flip with a spatula, pressing down to flatten if palmiers seem to be unrolling. Bake 2 to 4 minutes more, watching carefully, until golden and crisp. Transfer to a cooling rack and cool completely.": ""
+                
             }
         ]
     },
@@ -1695,25 +1677,7 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                
             }
         ]
     },
@@ -1723,25 +1687,7 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                
             }
         ]
     },
@@ -1751,25 +1697,16 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chocolate, melted": "100 gms",
+                "peanut butter": "40 gms"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "line small silicon mould with a thick layer of melted chocolate and allow to set.": "",
+                "add peanut butter in the centre. pour melted chocolate o top and allow to set.": ""
+                
             }
         ]
     },
@@ -1779,25 +1716,20 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "pineapple, thickly sliced": "100 gms",
+                "Sugar": "100 gms",
+                "puff pastry": "200 gms"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat sugar in a pan and make golden dark caramel.": "",
+                "add the caramel on the base of silicon mats.": "",
+                "add pineapple slices on top of the caramel.": "",
+                "sheet the puff pastry to 4mm thickness and put on top of the pineapple. make sure to put little extra on the edges since it tends to shrink after baking. ": "",
+                "dock the puff with fork and bake in the oven at 200c till golden brown. revert the tray onto another one and serve hot with star anise ice cream.": ""
+                
             }
         ]
     },
@@ -1807,25 +1739,20 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "pineapple, thickly sliced": "100 gms",
+                "Sugar": "100 gms",
+                "muffin batter": "250 gms"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat sugar in a pan and make golden dark caramel.": "",
+                "add the caramel on the base of cake tin.": "",
+                "add pineapple slices on top of the caramel.": "",
+                "pipe the muffin batter on top of the pineapple evenly. it should not be a very thick layer.": "",
+                "bake in the oven at 180c till cooked. revert the tin on a tray carefully. serve hot.": ""
+                
             }
         ]
     },
@@ -1891,25 +1818,7 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                
             }
         ]
     },
