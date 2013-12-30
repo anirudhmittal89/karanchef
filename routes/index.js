@@ -341,7 +341,7 @@ var dessert=[
         "method": [
             {
                 "Whisk the egg yolks and one-third of sugar together in a bowl to a light ribbon consistency. whisk in the flour thoroughly.": "",
-                "in a saucepan, heat the milk with the rest of the sugar and the vanilla pod. as soon as it comes to the boil, pour it onto the egg yolk mixture, stirringas you go.": "",
+                "in a saucepan, heat the milk with the rest of the sugar and the vanilla pod. as soon as it comes to the boil, pour it onto the egg yolk mixture, stirring as you go.": "",
                 "mix well, then return the mixture to the pan. bring to the boil over medium heat, stirring continously with the whisk.": "",
                 "continue to cook till thick. pour into a container lined with cling film. put in the deep freezer for about 2-3 hours. take it out and cut thick strips.": "",
                 "make a little thick batter of flour, cornflour, baking powder and ice cold water. dip the strips in the batter and fry in hot oil till golden and crisp. serve with berry/mango sauce and fresh fruits.": ""
@@ -449,25 +449,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "BRANDY SNAP": "",
+                "honey": "100 gms",
+                "sugar": "200 gms",
+                "butter": "100 gms",
+                "flour": "100 gms",
+                "BASIL MOUSSE": "",
+                "mousse base": "as required",
+                "basil leaves": "few",
+                "whipping cream": "little"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat butter, sugar and honey together in a pan. once the suagr dissolves, take off the range and stir in the flour.": "",
+                "preaheat oven to 180c . put a teaspoon of the mixture on silpat and bake in the oven for 8-10 minutes till golden.  ": "",
+                "shape them into desired type while it is hot. ": "",
+                "pulse the basil leaves with cream. add to the mousse base and mix properly. pipe in the brandy snaps adn serve.": ""
+                
             }
         ]
     },
@@ -477,36 +476,38 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "85 gms",
+                "Sugar": "100 gms",
+                "chocolate": "115 gms",
+                "eggs": "2",
+                "flour": "70 gms",
+                "cocoa powder": "15 gms",
+                "vanilla essence": "3-4 ml",
+                "chocolate chips": "8 gms",
+                "egg yolk ": "2",
+                "castor sugar": "120 gms",
+                "cream cheese, softened": "440 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "melt the butter and chocolate together over double boiler.": "",
+                "whisk the eggs and sugar till tick and fluffy. add the melted chocolate and butter.": "",
+                "Fold all the dry ingredients and chococlate chips.": "",
+                "for cheesecake mixture, whisk egg yolks and sugar together till thick and fluffy. add the cream cheese and mix properly.": "",
+                "grease a baking tray. add the brownie mixture on bottom. add the cheesecake mixture on top such that brownie is 75% and cheesecake 25%.": "",
+                "bake in the oven at 150c over double boiler for 3o minutes. cool and serve.": ""
             }
         ]
     },
     {
-        "src": "/images/DESSERTS/CHOCLATE AND WANUT BROWNIE  2.jpg",
+        "src": "/images/DESSERTS/CHOCOLATE AND WALNUT BROWNIE  2.jpg",
         "caption": "CHOCLATE AND WANUT BROWNIE",
         "categ": "DESSERTS",
         "ingredients": [
             {
                 "Butter": "750 gms",
-                "Sugar": "1600 gms",
+                "Sugar": "1600 gms" ,
                 "Eggs": "24",
                 "Dark chocolate": "3600 gms",
                 "Baking powder": "20 gms",
@@ -587,25 +588,21 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "croissant dough": "as required",
+                "chocolate ": "as required",
+                "Egg yolks": "4",
+                "milk": "400 ml"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "make eggwash by combining egg yolks and milk. ": "",
+                "cut the chocolate in rectangles of 4cm by 1 cm. ": "",
+                "sheet the dough till 3.5 mm and place on floured bench. using a scale, measure 20 cm length and 8 cm width and cut triangles.": "",
+                "stretch the dough carefully. make a slit in the middle of width and place the chocolate bar on it. turn the slit into flap, widen the base and role into croissant. ": "",
+                "spray with eggwash and prove for 45 minutes. spray again with eggwash and bake in the oven at 220c with steam for about 18 minutes or golden brown. ": "",
+                "allow to dry for 5 minutes.": ""
             }
         ]
     },
@@ -711,25 +708,21 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flourless chocolate and mocha cake": "as required",
+                "mousse base": "as required",
+                "orange zest": "2",
+                "orange juice": "2",
+                "sugar": "50 gms"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "place the flourless cake in a mould such that it fills half the space.": "",
+                "put orange juice in a pan with sugar and reduce till glaze. add the zest and glaze to the mousse base and mix properly.": "",
+                "fill the mould with the mousse. allow to set in freezer for 2 hours. ": "",
+                "blow torch the sides of the mould and take out the ring carefully. cut into slices and serve.": ""
+                
             }
         ]
     },
@@ -745,7 +738,7 @@ var dessert=[
                 "butter": "250gms",
                 "egq yolks": "450 gms",
                 "coffee powder": "15 gms",
-                "Chocolate mousse": "refer to recipe of chocolate mousse"
+                "Chocolate mousse": "as required"
             }
         ],
         "method": [
@@ -818,53 +811,47 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chocolate sponge": "500 gms",
+                "chocolate truffle": "200 gms",
+                "whipped cream": "300 gms",
+                "sugar syrup": "1 cup"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix 100 gms of chocolate truffle with whipped cream. ": "",
+                "cut the sponge cake into 3 lenghwise. brush each layer with sugar syrup and spread chocolate cream. repeat the same for other 2 .": "",
+                "spread the chocolate cream on sides and top of the cake evenly. set in the fridge for 2 hours. ": "",
+                "melt the chocolate truffle and pour on top of the cake sitting on a wire rack. set in the fridge. cut into pieces and serve.": ""
+                
             }
         ]
     },
     {
-        "src": "/images/DESSERTS/CHOCOLATE PAVLOVA STUFFED WITH CHOCOLATE BUTTERCREAM.jpg",
+        "src": "/images/DESSERTS/CHOCOLATE CHIP PAVLOVA STUFFED WITH CHOCOLATE BUTTERCREAM.jpg",
         "caption": "CHOCOLATE PAVLOVA STUFFED WITH CHOCOLATE BUTTERCREAM",
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Egg whites": "3",
+                "castor sugar": "100 gms",
+                "icing sugar": "70 gms",
+                "cornflour": "1 tsp",
+                "lemon juice": "dash",
+                "chocolate chips": "50 gms",
+                "Chocolate truffle": "50 gms",
+                "buttercream": "150 gms",
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "whisk egg whites with dash of lemon juice . when little soft peaks are achieved, add 1 tbsp sugar little by little while whisking continously till stiff peaks.": "",
+                "fold icing sugar and cornflour in small batches.": "",
+                "pipe the mixture on silpat and bake in preheated oven at 140c for 90 minutes. ": "",
+                "mix the buttercream with chocolate truffle. pipe the chocolate buttercream in the centre of pavlova and place another on top.": "",
+                
             }
         ]
     },
@@ -992,25 +979,25 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "choux pastry": "1 kg",
+                "creme patisserie": "1 litre",
+                "sugar": "1 kg",
+                "water": "330 ml",
+                "liquid glucose": "200 ml"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "line baking trays with baking paper. pipe the choux mixture into small rounds. Bake in the oven for around 15 minutes, until puffed and golden, then turn the oven down to 170°C and continue to cook for around 12 minutes more, to ensure the profiteroles are cooked through but without giving them any extra colour. ": "",
+                "Turn the oven off and leave the profiteroles inside with the door ajar for around 30 minutes. Then, transfer to a rack to cool.": "",
+                "transfer creme patisserie to a piping bag fitted with a narrow nozzle. Use a sharp metal skewer to make a small hole in the base of each profiterole just large enough to fit the piping nozzle. Insert the nozzle into each profiterole and fill with custard.": "",
+                "To make the toffee, combine the sugar and water in a saucepan and bring to the boil. Once boiling, add the glucose. Continue to cook to a light golden brown (around 170°C on a sugar thermometer).": "",
+                "Carefully dip the top of each profiterole in toffee and place them toffee-side up on a tray lined with baking paper to cool briefly.": "",
+                "To assemble the croquembouche, place the disc of shortcrust pastry on a work surface. Working from the largest profiteroles to the smallest, begin to dip their bases in toffee one by one and form a circle around the rim of the pastry, sticking down with the toffee.": "",
+                "Drizzle the layer with a little toffee and continue to dip more profiteroles and build another layer. Continue to build the profiterole tower, allowing the walls to lean slightly inwards in order to meet in a peak at the top.": "",
+                "If you wish to decorate the tower with spun sugar and have extra toffee, dip a fork into the remaining toffee, coating it well, then hold it above the tower and flick it carefully but rapidly from side to side, which should coat the tower in long delicate strands of toffee": "",
+                "Continue to dip the fork and flick the sugar until the tower is coated in a cocoon of spun sugar. Carefully lift the finished croquembouche onto a serving plate.": ""
             }
         ]
     },
@@ -1020,25 +1007,21 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "croissant dough": "as required",
+                "eggwash": "as required",
+                "apricot jam": "as required"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "sheet the croissant dough to 5 mm thickness and place on a floured bench.": "",
+                "cut out squares of 8mm by 8mm. ": "",
+                "make a cut from the corner towards the center, making sure to leave a gap in the center. brush each square with eggwash." : "",
+                "fold 3 corner flaps toward the center to form a shape like a flower..": "",
+                "place apricot in the centre and prove for about 30 minutes. spray with eggwash and bake in the oven at 220c for 15 minutes with steam. ": "",
+                "allow to dry for 5 minutes.": "",
+                "to make apricot glaze, heat apricot jam with litttle water till little sticky on fingertips. apply the glaze over the danish, once little cooled.": ""
             }
         ]
     },
@@ -1048,25 +1031,19 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "croissant dough": "as required",
+                "eggwash": "as required",
+                "apricot jam": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "sheet the croissant dough to 5 mm thickness and place on a floured bench.": "",
+                "cut out squares of 8mm by 8mm. ": "",
+                "make a cut in the center of the square. bend first half of the square and push it inside the cut. pull the neck of pushed square to achieve the desired shape.": "",
+                "prove for about 30 minutes. spray with eggwash and bake in the oven at 220c for 15 minutes with steam. ": "",
+                "allow to dry for 5 minutes.": "",
+                "to make apricot glaze, heat apricot jam with litttle water till little sticky on fingertips. apply the glaze over the danish, once little cooled.": ""
             }
         ]
     },
@@ -1076,25 +1053,20 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+               "croissant dough": "as required",
+               "eggwash": "as required",
+               "apricot jam": "as required"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "sheet the croissant dough to 5 mm thickness and place on a floured bench.": "",
+                "cut out squares of 8mm by 8mm. ": "",
+                "make a cut from the corner towards the center, making sure to leave a gap in the center. brush each square with eggwash. fold alternating corner flaps toward the center to make a pinwheel.": "",
+                "place apricot in the centre and prove for about 30 minutes. spray with eggwash and bake in the oven at 220c for 15 minutes with steam. ": "",
+                "allow to dry for 5 minutes.": "",
+                "to make apricot glaze, heat apricot jam with litttle water till little sticky on fingertips. apply the glaze over the danish, once little cooled.": "" 
             }
         ]
     },
@@ -4363,58 +4335,93 @@ var main=[
         ]
     },
     {
-        "src": "/images/MAINS/CHLOROPHYLL RAVIOLI STUFFED WITH CHEESE.jpg",
+        "src": "/images/MAINS/CHLOROPHYLL RAVIOLI STUFFED WITH RICOTTA.jpg",
         "caption": "CHLOROPHYLL RAVIOLI STUFFED WITH CHEESE",
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "CHLOROPHYLL": "",
+                "spinach": "100 gms",
+                "flat parsley": "75 gms",
+                "RAVIOLI": "",
+                "refined flour": "100 gms",
+                "eggs": "1",
+                "extra virgin olive oil": "1 tsp",
+                "chlorophyll": "25 gms",
+                "ricotta cheese, softened": "200 gms",
+                "salt,pepper": "to taste",
+                "egg": "1",
+                "lemon zest": "1 tsp",
+                "pine nuts" :"1 tbsp",
+                "butter": "2 tsp",
+                "shallots, chopped": "1 tsp",
+                "lemon juice": "1 tsp",
+                "parmesan, grated": "2 tsp"
+                
             }
         ],
         "method": [
             {
-                "In an electric mixer fitted with a dough hook, add eggs, 1 at a time, and mix. Continue mixing and add all the flour and water; continue mixing until it forms a ball. Sprinkle some flour on work surface, and knead the dough until elastic and smooth. Wrap the dough in plastic wrap and let it rest for about 30 minutes to allow the gluten to relax.": "",
-                "Cut the ball of dough in half, cover and reserve the dough you are not immediately using to prevent it from drying out. Dust the counter and dough with flour. Form the dough into a rectangle and roll it through the pasta machine, 2 or 3 times, at its widest setting. Guide the sheet of dough with the palm of your hand as it emerges from the rollers. Reduce the setting and crank the dough through again, 2 or 3 times. Continue until the machine is at its narrowest setting. The dough should be paper-thin, about 1/8-inch thick.": "",
-                "Dust the counter and dough with flour, and lay out the long sheet of pasta. Brush the top surface of dough with egg wash. Drop 1 tablespoon of cooled filling about 2 inches apart on half the sheet of pasta. Fold the unfilled half over the filling. With an espresso cup or finger, gently press out air pockets around each mound of filling and form a seal. Use a crimper to cut each pillow into squares. Check to make sure the crimped edges are well sealed before cooking. If making ravioli in advance, dust with cornmeal to prevent them from sticking.": "",
-                "Cook the ravioli in plenty of boiling water for 10 to 15 minutes. Ravioli will float to the top when cooked so be careful not to overcrowd the pot. Lift the ravioli from water with a large strainer or slotted spoon. Plate the pasta, top with your favorite pasta sauce and grated cheese before serving.": "",
-                "Ricotta Cheese Filling:": "",
-                "1 cup ricotta cheese, well drained, 1 egg, Salt and pepper, In a mixing bowl, thoroughly combine all ingredients. Chill in the refrigerator a few minutes to firm up the filling.": ""
+                "For the chlorophyll, add the spinach and parsley to a blender with 400ml of water and a generous pinch of salt. Blend the mixture to a puree, then pour into a saucepan.": "",
+                "Gently bring the mixture to a boil, then skim the green chlorophyll from the surface and strain through a damp muslin cloth in a sieve, set over a bowl filled with ice, to cool quickly. Squeeze out excess liquid and reserve.": "",
+                "To make the pasta dough, place flour, eggs, olive oil, chlorophyll and a pinch of salt into a food processor. Pulse until the dough starts to come together. Tip the dough onto a clean work surface, lightly dusted in flour and knead for a few minutes until the dough is firm and elastic. Wrap in cling wrap and leave to rest in the fridge for 1 hour.": "",
+                "for the filling, combine ricotta, salt, pepper, lemon zest, pine nuts and egg . mix well. transfer the mixture into a piping bag.": "",
+                "roll the pasta dough to thin sheets. using a round cutter, cut out rounds of the dough.": "",
+                "brush the edges with egg. pipe the cheese mixture in the centre of the round sheet. place another sheet on top and seal tightly. ": "",
+                "mark the edges of the ravioli with a fork. blanch in boiling salted water for 1 minute.": "",
+                "saute shallots in butter and allow to get little brown. add the blanched raviolis and finish with lemo n juice and grated parmesan.": ""
             }
         ]
     },
     {
-        "src": "/images/MAINS/CIABATTA CRUSTED FISH WITH CHORIZO CRUMBLE,CHAWANMUSHI AND ROASTED PEPPERS.JPG",
+        "src": "/images/MAINS/CIABATTA CRUSTED FISH WITH CHORIZO CRUMBLE,CHAWANMUSHI, PETIT FRIES AND ROASTED PEPPERS.JPG",
         "caption": "CIABATTA CRUSTED FISH WITH CHORIZO CRUMBLE,CHAWANMUSHI AND ROASTED PEPPERS",
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "CIABATTA CRISPENED FISH": "",
+                "Basa, fillet": "160 gms",
+                "ciabatta": "5 gms",
+                "lemon zest": "1 gm",
+                "salt, pepper": "to taste",
+                "egg white": "little",
+                "STEWED BELL PEPPERS": "",
+                "Bell peppers": "75 gms",
+                "olive oil": "50 ml",
+                "garlic, sliced": "5 gms",
+                "CHAWANMUSHI": "",
+                "dashi stock": "100 ml",
+                "mirin": "2 ml",
+                "sake": "2 ml",
+                "light soya sauce": "1 ml",
+                "cream": "5 ml",
+                "scallions": "1 gm",
+                "eggs": "2",
+                "salt, pepper": "to taste",
+                "PETIT FRIES": "",
+                "frozen french fries": "20 gms",
+                "CHORIZO CRUMBLE": "",
+                "chorizo": "25 gms"
+
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "CIABATTA CRISPENED FISH": "",
+                "season the fish with salt, pepper, lemon zest. slice the ciabatta lengthwise in a gravity slicer very thinly.": "",
+                "apply egg white on top of the fish and place the ciabatta over it. trim the edges and pan fry the fish bread side down till ciabatta is crisp, golden brown and the fish is cooked through.": "",
+                "STEWED BELL PEPPERS": "",
+                "take red, yellow and green bell peppers. apply oil on top and put in the oven at 180c till brown from all over. put the peppers in plastic bag and cover from top to sweat the peppers and then peel the skin off.": "",
+                "cut the yellow and green peppers into thick strips. take the red peppers and pulse with salt and olive oil into a puree and strain.": "",
+                "add olive oil in a pan. add sliced garlic and saute. add the cut peppers and puree and cook for just a minute. ":"",
+                "CHAWANMUSHI": "",
+                "combine all the ingredients together. take a ring mould and cling wrap the bottom 5-6 times till tight. add the mixture into the mould and bake in a bain marie at 160c for 20 minutes till cooked. once cooled, puree and pipe on the plate.": "",
+                "PETIT FRIES": "",
+                "cut the french fries into small diamonds and deep fry till crisp.": "",
+                "CHORIZO CRUMBLE": "",
+                "slice the chorizo with mandolin slicer as thin as possible. place in the dehydrater at 68c for 3 hours or till crisp. drain the oil and pulse into coarse powder.":""
+
             }
         ]
     },
@@ -4500,53 +4507,87 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "GATTA": "",
+                "gramflour": "350 gms",
+                "yoghurt": "2 tbsp",
+                "oil": "3 tbsp",
+                "salt": "to taste",
+                "coriander powder": "1 tsp",
+                "fennel powder": "1/2 tsp",
+                "red chilli powder": "1 tsp",
+                "baking soda": "pinch",
+                "asafoetida": "pinch",
+                "CURRY": "",
+                "ghee": "2 tbsp",
+                "cumin seeds": "1 tsp",
+                "fenugreek seeds": "1/4 tsp",
+                "grated ginger": "1/2 tsp",
+                "green chillies, chopped": "2",
+                "asafoetida": "pinch",
+                "cloves": "2",
+                "bay leaf": "1",
+                "yoghurt": "360 ml",
+                "turmeric powder": "1/2 tsp",
+                "red chilli powder": "1 tsp",
+                "coriander powder": "1 tsp",
+                "salt": "to taste",
+                "garam masala powder": "1/4 tsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "In a bowl add gram flour,crushed seeds and all the ingredients listed for making gattas. Mix and make a tight dough,add some more yoghurt if needed": "",
+                "Make 6 balls from the dough and roll them to make long and medium thick rolls. Boil 2.5 glasses of water in a pan ,when it start boiling then add the rolls in it.": "",
+                "Boil for around 7-8 minutes ,they will float on top of water when done. Take out gatta from the pan and let them cool down for 5 minutes.don't throw the water, you will need this to add in the gravy.": "",
+                "Slice into medium size pieces and keep aside.": "",
+                "Heat ghee in a pan and add cumin,fenugreek,asafoetida and cloves. When cumin become golden then add the spices and little water. Remove the pan from heat and add whisked yoghurt and stir for a while ,now put the pan on fire and saute for a minute.": "",
+                "Now add 1 cup water(in which you have boiled the gattas) and cook for some time,keep stirring the gravy. When gravy start boiling add the sliced gattas after 2 minutes.": "",
+                "Simmer for a while. add garam masala and fresh coriander. serve hot.":""
             }
         ]
     },
     {
-        "src": "/images/MAINS/GONGURA SPICED LAMB RACK WITH SAFFRON MASHED POTATOES AND ROASTED BABY AUBERGINES.jpg",
+        "src": "/images/MAINS/TANDOORI LAMB CHOPS WITH SAFFRON MASHED POTATOES AND STUFFED ROASTED BABY AUBERGINES.jpg",
         "caption": "GONGURA SPICED LAMB RACK WITH SAFFRON MASHED POTATOES AND ROASTED BABY AUBERGINES",
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Lamb Chops": "4",
+                "salt": "to taste",
+                "kashmiri chilli powder": "2 tbsp",
+                "lemon juice": "2 tbsp",
+                "ginger-garlic paste": "1 tbsp",
+                "raw papaya paste": "1/2 tsp",
+                "tandoori marination": "as required",
+                "SAFFRON MASHED POTATOES":"",
+                "potatoes": "300 gms",
+                "rock salt": "as required",
+                "butter": "100 gms",
+                "milk": "25 gms",
+                "saffron": "1 gm",
+                "ROASTED BABY AUBERGINES":"",
+                "baby aubergines": "4",
+                "goats cheese": "50 gms",
+                "pine nuts": "1 tbsp",
+                "parsley, chopped": "1 tsp",
+                "cream": "1 tbsp",
+                "sun dried tomatoes": "1 tbsp"
+
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "marinate the lamb chops with salt, chilli powder, lemon juice and raw papaya for 3-4 hours.": "",
+                "drain out excess liquid from first marination and add the lamb chops in tandoori marination overnight.": "",
+                "cook in tandoor till little charred and cooked through.": "",
+                "wash and pat dry the potatoes. cover the potatoes with foil and bake on a bed of rock salt till fully cooked.": "",
+                "mash the potatoes while hot and pass through tamis. meanwhile, heat milk in a pan. add the saffron and let it infuse for half an hour. " :"",
+                "put the mashed potatoes in a pan and  whisk in cold butter and saffron milk. adjust the seasoning.": "",
+                "Wash eggplants and carefully slice about ¾ through each one lengthwise, careful not to go all the way through.": "",
+                "Place eggplants on baking sheet, drizzle with olive oil and season generously with salt & pepper. ": "",
+                "Roast for 20 minutes at 425 then turn to broil for an additional 3-5 minutes just until skins start to wrinkle.": "",
+                "combine gots cheese and cream and mash together. add sun dried tomatoes, pinenuts and parsley. stuff each eggplant with this mixture.":""
             }
         ]
     },
@@ -4622,37 +4663,39 @@ var main=[
             {
                 "marinate the fish with salt, pepper, lemon juice and oil. grill the fish till cooked.": "",
                 "MASHED POTATOES": "",
-                "wash and pat dry the poytatoes. cover the potatoes with foil and bke on a bed of rock alt till fully cooked.": "",
+                "wash and pat dry the potatoes. cover the potatoes with foil and bake on a bed of rock alt till fully cooked.": "",
                 "mash the potatoes while hot and pass through tamis. put in a pan and  whisk in cold butter and cream. adjust the seasoning.": ""
 
             }
         ]
     },
     {
-        "src": "/images/MAINS/GRILLED SEA BASS WITH PICKLED ONION SALAD AND SAUCE.jpg",
+        "src": "/images/MAINS/GRILLED SEA BASS WITH PICKLED ONION SALAD.jpg",
         "caption": "GRILLED SEA BASS WITH PICKLED ONION SALAD AND SAUCE",
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "sea bass": "1 fillet, with skin",
+                "salt": "to taste",
+                "lemon juice": "1 tsp",
+                "oil": "1 tsp",
+                "onions, sliced thinly": "1",
+                "salt": "to taste",
+                "sugar": "1 tsp",
+                "cider vinegar": "1 cup",
+                "water": "1 cup",
+                "beetroot, sliced": "little",
+                "roasted tomatoes": "1",
+                "cucumber, deseeded and cut in strips": "1/2",
+                "coriander": "few sprigs"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "make gashes on the skin of sea bass. marinate with salt , lemon juice and oil. grill the sea bass on skin side till skin is crisp and fish is cooked.": "",
+                "Boil water and beetroot together. Take beetroot out and discard. add salt, vinegar and sugar to the water and add to the onions. keep for 12 hours.": "",
+                "drain the onions and mix with tomatoes, cucumber and coriander. ": ""
+                
             }
         ]
     },
@@ -4802,30 +4845,72 @@ var main=[
         ]
     },
     {
-        "src": "/images/MAINS/LAMB CHOPS OVER DUM BIRYANI.jpg",
+        "src": "/images/MAINS/BRAISED LAMB SHANKS OVER DUM BIRYANI.jpg",
         "caption": "LAMB CHOPS OVER DUM BIRYANI",
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "BRAISED LAMB SHANKS": "",
+                "refined oil": "4 tbsp",
+                "whole garam masala": "2 tsp",
+                "onions, sliced": "3",
+                "lamb shanks": "4",
+                "ginger-garlic paste": "2 tbsp",
+                "salt": "to taste",
+                "cumin powder": "2 tsp",
+                "Coriander powder": "2 tbsp",
+                "red chilli powder": "1 tsp",
+                "turmeric powder": "1 tsp",
+                "yoghurt, whisked": "4 tbsp",
+                "ripe tomatoes, chopped": "3",
+                "DUM BIRYANI":"",
+                "Basmati rice, washed and soaked": "200 gms",
+                "ghee": "1 tbsp",
+                "cloves": "1",
+                "green cardamom": "2",
+                "bay leaf": "1",
+                "cinnamon": "1",
+                "mace": "1",
+                "ginger-garlic paste": "2 tsp",
+                "yoghurt, whisked": "1 cup",
+                "saffron": "2 gms",
+                "milk": "50 ml",
+                "fennel powder": "1 tsp",
+                "cream": "3 tsp",
+                "rose water": "few drops",
+                "kewra water": "few drops",
+                "onions, finely sliced": "3",
+                "red chilli powder": "1 tsp",
+                "coriander powder": "1 tbsp",
+                "cumin powder": "1 tsp",
+                "turmeric powder": "1/2 tsp",
+                "salt": "to taste",
+                "coriander, chopped": "1 tbsp",
+                "mint leaves, chopped": "1 tbsp",
+                "fried onions": "for garnish",
+                "ginger juliennes": "1 tsp",
+                "green chilli juliennes": "1 tsp"
+
+
+
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "BRAISED LAMB SHANKS": "",
+                "Heat the oil in a large saucepan. Add the cinnamon, cardamom, and cloves and sauté for half a minute. Add the sliced onions and sauté over a medium heat, stirring occasionally, until golden brown": "",
+                "Add the lamb shanks and cook over high heat for five minutes, stirring constantly": "",
+                "Add ginger and garlic paste, stir well for a couple of minutes and then add the turmeric, chilli, cumin and coriander powders and salt. Sauté for a further five minutes. Add the yoghurt and sauté for a further 5 minutes over high heat": "",
+                "Add the chopped tomato, stir and allow to simmer for 5 minutes or until the oil separates from the masala": "",
+                "Add enough hot water to cover the shanks and bring to a boil. Cover with a lid, simmer and cook until the lamb is done, approximately 1 hour or until the meat just starts to come away from the bone": "",
+                "Remove from the flame and allow the lamb shanks to cool in the liquid. Remove the shanks using a pair of tongs and strain the cooking liquid into a clean pot.":"",
+                "DUM BIRYANI": "",
+                "heat water in a pan. add whole garam masala, salt, green chilli and ginger juliennes. bring to a boil and add the rice. cook the rice till half done and strain .":"",
+                "heat milk in a pan and add the saffron. let it infuse for about half an hour. ":"",
+                "heat ghee in a lagan/brass pan. add the whole garam masala and onions. saute till golden. add the ginger-garlic paste and the dry masalas. add the yoghurt and little water.":"",
+                "take out some of the liquid. add the rice on top of the reamining liquid in handi. add the reserved liquid on top. add saffron milk, coriander and mint on top. cover the edges of pan with dough and cover tightly with lid. cook on dum for about 20 minutes or till the rice is cooked properly.":"",
+                "once done, break the seal of done and fluff up the rice using fork. garnish with fried onions.":""
             }
         ]
     },
@@ -4835,25 +4920,27 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "lamb, cut in pieces": "500 gms",
+                "oil": "250 gms",
+                "whole garam masala": "3",
+                "onions, sliced": "250gms",
+                "ginger-garlic paste": "450 gms",
+                "turmeric powder": "15 gms",
+                "red chilli powder": "7.5 gms",
+                "yoghurt": "125 gms",
+                "salt": "to taste",
+                "fried onion paste": "3 tbsp",
+                "appam batter": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Marinate the meat with turmeric, chilli powder, yoghurt, salt, ginger and garlic paste. Marinate for 2 hours at least. This can be marinated overnight in the refrigerator. The yoghurt helps in tenderising the meat.": "",
+                "heat oil in a pan. add whole garam masala. add chopped onions and saute until golden. add the ginger-garlic paste and the meat. saute till coloured. add the salt, turmeric and chilli powder.": "",
+                "Reduce to medium  heat and fry for at least 10 minutes till oil separates. Add the fried onion paste. Mix well": "",
+                "pressure cook or cook on slow flame till the meat is soft.": "",
+                "heat an appam kadhai. pour the batter and swirl it to coat all the sides. once golden on bottom, take it out and serve hot with curry.": ""
+                
             }
         ]
     },
@@ -4919,25 +5006,31 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "refined oil": "2 tbsp",
+                "whole garam masala": "1 tsp",
+                "dried red chillies": "1",
+                "onion, sliced": "1",
+                "ginger, julienned": "1/2 tsp",
+                "green chilli, slit": "1",
+                "curry leaves": "few",
+                "tomtoes, cut in small cubes": "3/4",
+                "salt": "to taste",
+                "turmeric powder": "pinch",
+                "red chilli powder": "1/2 tsp",
+                "coriander powder": "1/4 tsp",
+                "boiled lamb": "150 gms",
+                "coriander leaves, chopped": "1 tsp",
+                "coconut milk": "250 ml",
+                "appam batter": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat oil in a kadhai. add whole garam masala, broken red chillies, sliced onion, ginger, curry leaves and green chilli. saute till golden brown.": "",
+                "add salt, turmeric, chilli, turmeric powder and and the tomato cubes. saute for a while and add little water. add the lamb.": "",
+                "finish with coriander leaves and coconut milk.": "",
+                "heat a appam kadhai. pour batter in it and swirl till it coats all around . take it once golden on the bottom . serve hot with curry.": ""
+                
             }
         ]
     },
@@ -4947,25 +5040,29 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "refined oil": "2 tbsp",
+                "whole garam masala": "1 tsp",
+                "dried red chillies": "1",
+                "onion, sliced": "1",
+                "ginger, julienned": "1/2 tsp",
+                "green chilli, slit": "1",
+                "curry leaves": "few",
+                "tomtoes, cut in small cubes": "3/4",
+                "salt": "to taste",
+                "turmeric powder": "pinch",
+                "red chilli powder": "1/2 tsp",
+                "coriander powder": "1/4 tsp",
+                "boiled lamb nalli": "150 gms",
+                "coriander leaves, chopped": "1 tsp",
+                "coconut milk": "250 ml"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat oil in a kadhai. add whole garam masala, broken red chillies, sliced onion, ginger, curry leaves and green chilli. saute till golden brown.": "",
+                "add salt, turmeric, chilli, turmeric powder and and the tomato cubes. saute for a while and add little water. add the lamb.": "",
+                "finish with coriander leaves and coconut milk.": "" 
             }
         ]
     },
@@ -5001,25 +5098,34 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "coconut oil": "2 tbsp",
+                "mustard seeds": "1/2 tsp",
+                "fenugreek seeds": "1/4 tsp",
+                "garlic, chopped": "1 tsp",
+                "ginger, chopped": "1 tsp",
+                "dried red chillies, broken": "2",
+                "green chilli, slit": "1",
+                "curry leaves": "few",
+                "onions, finely sliced": "4",
+                "kerala kokum": "50 gms",
+                "turmeric powder": "1/2 tsp",
+                "ginger juliennes": "little",
+                "red chilli powder": "1 1/2tsp ",
+                "coriander powder": "1/2 tsp",
+                "salt": "to taste",
+                "coconut milk": "500 ml",
+                "medium prawns, cleaned": "10-12",
+                "appam batter": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat coconut oil in a pan. add mustard, fenugreek, garlic, ginger, red chilli, green chilli, curry leaves and onions. saute till little brown throughout.": "",
+                "meanwhile, add kerala kokum in a pan with curry leaves, pinch turmeric, ginger juliennes and enough water to cover. cook over medium heat till you get concentrated favour of kokum.": "",
+                "when onions brown, add chilli powder, turmeric and coriander powder. add salt and cook the spices. add the kokum water and cook till moitsure evaporates. ": "",
+                "add the prawns and cook for 1 minute. add the coconut milk and cook till prawns are done. ": "",
+                "heat a appam kadhai. pour batter in it and swirl till it coats all around . take it once golden on the bottom . serve hot with curry.": ""
+                
             }
         ]
     },
@@ -5029,25 +5135,60 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "MOILEE SAUCE": "",
+                "coconut oil": "1 tbsp",
+                "chopped garlic": "1/2 tsp",
+                "ginger juliennes": "1 tsp",
+                "curry leaves": "few",
+                "green chilli, slit": "1",
+                "onions, finely sliced": "2",
+                "turmeric powder": "1/2 tsp",
+                "tomatoes, cut in cubes": "1/2",
+                "coconut milk": "600 ml",
+                "salt": "to taste",
+                "TURMERIC GRILLED FISH": "",
+                "salt": "to taste",
+                "fish fillet": "150 gms",
+                "lemon juice": "1 tsp",
+                "turmeric powder": "1/2 tsp",
+                "ginger juice": "1 tsp",
+                "STEAMED RICE HOPPERS": "",
+                "rice hoppers": "3",
+                "TEMPERED TOMATOES":"",
+                "oil": "1 tbsp",
+                "mustard seeds": "1/2 tsp",
+                "garlic, chopped": "1/2 tsp",
+                "ginger, chopped": "1/2 tsp",
+                "green chilli, chopped": "1 tsp",
+                "tomatoes, deseeded and chopped": "2",
+                "salt": "to taste",
+                "coriander leaves, chopped": "1 tsp",
+                "BHINDI JAIPURI": "",
+                "Okra": "4-5",
+                "salt": "to taste",
+                "red chilli powder": "1/2 tsp",
+                "dry mango powder": "1/2 tsp",
+                "gramflour": "1 tbsp",
+                "rice flour": "1 tbsp",
+                "oil": "to deep fry"
+
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "MOILEE SAUCE": "",
+                "Heat coocnut oil in a pan. add chopped garlic, ginger juliennes, curry leaves. add sliced onions and slit green chilli. saute till golden.": "",
+                "add the turmeric powder, salt, tomatoes and little water. when comes to a boil, add the coconut milk and simmer for 2 minutes. ": "",
+                "GRILLED FISH": "",
+                "marinate the fish fillet with salt, turmeric, ginger juice and lemon juice. grill the fish on a skillet till cooked.": "",
+                "STEAMED RICE HOPPERS": "",
+                "soak the rice hoppers in water till softened and steam covered with a damp cloth for about 5 minutes till cooked through. ":"",
+                "TEMPERED TOMATOES":"",
+                "heat oil in a pan. add mustard seeds, chopped garlic, chopped ginger, green chilli, tomatoes. add salt and saute till tomatoes soften. add coriander to finish.":"",
+                "BHINDI JAIPURI": "",
+                "wash, pat dry and trim the ends of okra. deseed them and vut into rough juliennes. add salt, red chilli powder, amchur, gramflour and rice flour. add few drops of water and mix with your hands till masalas tend to stick.":"",
+                "now, break the okra into individual strands into hot oil and fry till golden and crisp.": ""
             }
         ]
     },
@@ -5057,25 +5198,37 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "large green chillies, washed and Dried": "4-6",
+                "gingelly oil": "2 tbsp",
+                "sesame seeds": "2 tbsp",
+                "raw peanuts": "3 tbsp",
+                "grated coconut": "2 tbsp",
+                "minced garlic": "1/2 tsp",
+                "grated ginger": "1/2 tsp",
+                "coriander powder": "1 tsp",
+                "cumin powder": "1/2 tsp",
+                "mustard seeds": "1/2 tsp",
+                "fenugreek seeds": "1/4 tsp",
+                "sliced onions": "1/2 cup",
+                "curry leaves": "few",
+                "turmeric powder": "pinch",
+                "tamarind pulp": "1 tbsp",
+                "dry red chilli": "1",
+                "powdered jaggery": "3/4 tsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Heat 1 tbsp oil in a wide pan and lightly fry the chillies until they are charred and start to look softer. Drain and set aside on paper towels.": "",
+                "Meanwhile, In a dry skillet, roast the coconut until golden brown. ": "",
+                "In the same pan used for the chillies, add the peanuts and sesame seeds and roast until a shade darker, keeping flame very low. Once they are done, add the roasted coconut and mix well. Switch off flame and remove to a plate to cool.": "",
+                "In the same pan (we like to minimise washing, remember?), add the remaining 1 tbsp oil and the mustard seeds+ fenugreek seeds. When the mustards pop, add the sliced onions and red chilli torn info half. Fry until onions turn golden brown. ": "",
+                "Next, add the curry leaves, ginger, garlic, and turmeric. Sautè for 30 seconds until fragrant.": "",
+                "Then thrown in the coriander pwoder, jeera powder, and some salt. Roast for 10 seconds and add 2 cups of water. Bring to a slow boil.": "",
+                "Meanwhile, grind the roasted coconut + sesame + peanut mixture with some water to a smooth paste. Add it to the simmering curry and mix well. Continue to cook on a low flame.": "",
+                "When the mixture is a bit thicker and simmering, add the jaggery and the tamarind extract dissolved in 1/2 cup water. ": "",
+                " Mix well and add the green chillies we had sautéed and set aside. Cook covered on a low flame for 5-7 mins until the green chillies are soft. Add more salt if required.": ""
+
             }
         ]
     },
@@ -5221,7 +5374,7 @@ var main=[
                 "roll the pasta dough to thin sheets. using a round cutter, cut out rounds of the dough.": "",
                 "brush the edges with egg. pipe the cheese mixture in the centre of the round sheet. place another sheet on top and seal tightly. ": "",
                 "mark the edges of the ravioli with a fork. blanch in boiling salted water for 1 minute.": "",
-                "saute shallots in butter and allow to get little brown. add the blanched raviolis and finish with lemo n juice and grated parmesan.": ""
+                "saute shallots in butter and allow to get little brown. add the blanched raviolis and finish with lemon juice and grated parmesan.": ""
              
             }
         ]
