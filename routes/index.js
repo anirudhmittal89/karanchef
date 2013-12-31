@@ -3045,25 +3045,23 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour": "1 kg",
+                "salt": "20 gm",
+                "fresh yeast": "20 gms",
+                "bread improver": "10gms",
+                "gluten": "20 gms",
+                "water": "550 ml"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Combine all the ingredients and knead into a soft,elastic dough. ": "",
+                "divide the dough into 250gms balls.": "",
+                "shape the dough in the shape of a loaf. dust little flour on top and make gashes on it using a blade.": "",
+                "prove for 90 minutes and bake in the oven at 220c for 22 minutes with steam.": "",
+                "allow to dry for 7-8 minutes.": ""
+                
             }
         ]
     },
@@ -3073,25 +3071,47 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "fish, cut in diagnol slices": "120 gms",
+                "salt": "to taste",
+                "red chilli powder": "1 tbsp",
+                "turmeric powder": "1/4 tsp",
+                "coriander powder": "1/2 tbsp",
+                "lemon juice": "25 ml",
+                "curry leaves, julienned": "few",
+                "ginger-garlic paste": "1 tsp",
+                "egg white": "1",
+                "RAW MANGO CHUTNEY":"",
+                "raw mango, grated": "2",
+                "kasundi": "2 tbsp",
+                "salt": "to taste",
+                "mustard oil": "1 tsp",
+                "sugar": "1 tbsp",
+                "green chillies, deseeded and chopped": "2",
+                "CAPSICUM CHUTNEY":"",
+                "onions, finely sliced": "5",
+                "capsicum, finely sliced": "3",
+                "ginger, chopped": "1 tsp",
+                "garlic, chopped": "1 tsp",
+                "dried red chillies": "2",
+                "black pepper": "10",
+                "curry leaves": "few",
+                "tamarind chutney": "2 tbsp",
+                "oil": "2 tsp"
+
+
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "FISH VARUVAL": "",
+                "make marination by combining chilli powder, turmeric, coriander powder, lemon juice, ginger-garlic, egg white, curry leaves, salt.": "",
+                "marinate the fish in this masala for few hours. pan fry the fish on hot pan till cooked through.": "",
+                "RAW MANGO CHUTNEY": "",
+                "Combine all the ingredients and mix properly.": "",
+                "CAPSICUM CHUTNEY": "",
+                "heat oil in a pan. add ginger, garlic, red chillies, curry leaves, onions and capiscum. saute and add black pepper.":"",
+                "add salt tand continue to saute till golden brown. let it cool and blend with tamarind chutney to a smooth paste.":""
             }
         ]
     },
@@ -3101,25 +3121,26 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "anchovies": "25",
+                "rice flour": "1 tsp",
+                "cornflour": "1/2 tsp",
+                "ginger-garlic paste": "1 tsp",
+                "red chilli powder": "1 tbsp",
+                "salt": "to taste",
+                "turmeric powder": "pinch",
+                "coriander powder": "1/2 tsp",
+                "chopped coriander leaves": "1 tsp",
+                "chopped green chillies": "1",
+                "chopped curry leaves": "few",
+                "lemon juice": "1 tbsp",
+                "oil": "to deep fry"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix all the ingredients of the marinade and allow the anchovies to marinate in this masala.": "",
+                "deep fry the anchovies in hot oil till golden and crisp.": "",
+                
             }
         ]
     },
@@ -3129,25 +3150,32 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "lamb mince": "200 gms",
+                "processed cheese, grated": "25 gms",
+                "mint leaves, chopped": "1 tsp",
+                "coriander leaves, chopped": "1 tsp",
+                "salt": "to taste",
+                "kashmiri chilli powder": "1 tsp",
+                "garam masala powder": "1/4 tsp",
+                "roasted cumin powder": "1 tsp",
+                "kasuri methi": "1/2 tsp",
+                "coriander powder": "1/2 tsp",
+                "ginger-garlic paste": "1 tsp",
+                "egg whites": "1",
+                "bell peppers, chopped": "1/2 cup",
+                "lemon juice": "1 tsp",
+                "melted butter": "2 tsp"
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "put the lamb mince in strainer to drain off excess moisture.": "",
+                "mash the cheese with the back of your palms and add coriander, mint, dry masalas and ginger-garlic. add the lamb mince and mix properly.": "",
+                "hold thickest seekh on the left hand and keep  bowl of water in front of you.": "",
+                "take the mixture in right hand and put in the middle of seekh. wet your fingers and press to spread the mixture using 3 fingers(except thumb, forefinger).": "",
+                "mix bell peppers and egg white. when the lamb mixture is spread evenly over the seekh, apply the bell peppers over the seekh to stick.": "",
+                "roast the seekh in tandoor till coloured and serve hot. apply meleted butter and lemon juice on top to finish.": ""
             }
         ]
     },
@@ -3157,25 +3185,41 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "oil": "10 gms",
+                "ghee": "15 gms",
+                "chopped ginger": "1 tsp",
+                "chopped garlic": "1 tbsp",
+                "cumin seeds": "1 tsp",
+                "onions, finely sliced": "3",
+                "green chilli": "2",
+                "green peas, frozen": "500 gms",
+                "coriander stems": "1/2 small bunch",
+                "coriander leves": "2 tbsp",
+                "blanched spinach puree": "2 tbsp",
+                "MUSTARD CAVIAR": "",
+                "mustard seeds": "1 tbsp",
+                "oil": "2  tbsp",
+                "SMOKED CHICKEN SKEWER": "",
+                "chicken breasts, cut in small cubes": "1",
+                "tandoori marination": "3 tbsp",
+                "salt": "to taste",
+                "kashmiri chilli powder": "1 tbsp",
+                "ginger-garlic paste": "1 tsp",
+                "lemon juice": "1 tbsp",
+                "whole garam masala": "1/2 tsp",
+                "ghee": "1 tsp"
+
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat oil, ghee in a pan. add cumin, chopped garlic, ginger,green chilli, onions. saute till golden. add the peas, coriander stems and little water.": "",
+                "add salt and cook till peas are soft. add coriander leaves and puree till smooth. add little spinach puree for good bright colour.": "",
+                "FOR MUSTARD CAVIAR, heat oil in a pan, add mustard seeds and when they just begin to crackle, take off the heat and allow to sit in the oil for 30 minutes. drain the oil and put mustard caviar on top of the soup. ": "",
+                "marinate the chicken breast with salt, chilli powder, ginger-garlic and lemon juice for 3-4 hours. apply the tandoori marination and allow to marinate overnight. ": "",
+                "take a deep bowl. place a small bowl with hot charcoal in it. put the chicken pieces around the small bowl. put whole garam masala and ghee on top of the charcoal and cover the deep bowl with foil immediately.": "",
+                "allow to smoke for 20 minutes. take it out and put the pieces in satay sticks. pan fry the chicken on hot tawa till cooked.": ""
             }
         ]
     },
@@ -3185,25 +3229,32 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "panini bread": "1",
+                "olive oil": "20 gms",
+                "mushrooms, sliced thickly": "3",
+                "eggplant, cut into roundels": "1 small",
+                "zucchini, cut in roundels": "1/2",
+                "bell peppers, cut in big cubes": "1/4 each",
+                "onions, thickly sliced": "1",
+                "fresh mozzrella, cut in thick roundels": "2 balls",
+                "Salt, pepper": "to taste",
+                "PESTO": "",
+                "basil": "2 cups",
+                "pine nuts": "1/4 cup",
+                "garlic clove": "2",
+                "extra virgin olive oil": "2/3 cup",
+                "parmesan cheese, grated": "1/2 cup"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat a grill pan.add salt, pepper to mushrooms, peppers, onions, eggplant, zucchini. ": "",
+                "apply olive oil over the pan and grill the vegtables one by one.": "",
+                "slice the panini in half and apply pesto sauce over the 2 sides. ": "",
+                "arrange the vegetables over the pesto and put mozzarella on top. cover with the 2nd slice of panini.": "",
+                "grill the panini till golden brown.": "",
+                "FOR PESTO, pulse basil, garlic and pine nuts together with olive oil. drizzle the oil slowly while pulsing.": "",
+                "when pulsed , add the parmesan and pulse again. cover the pesto with olive oil on top.":""
             }
         ]
     },
@@ -3213,25 +3264,41 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "HARIYALI MURGH TIKKA": "",
+                "Chicken thigh boneless, cut in big pieces": "2",
+                "salt": "to taste",
+                "green chilly paste": "1 tsp",
+                "ginger-garlic paste": "1 tsp",
+                "lemon juice": "1 tbsp",
+                "whole fresh coriander, washed": "1 big bunch",
+                "mint": "1/2 small bunch",
+                "oil": "1 tbsp",
+                "green chillies": "1",
+                "chopped ginger": "1 tsp",
+                "chopped garlic": "2 tsp",
+                "cumin seeds": "1/2 tsp",
+                "cashewnuts": "2 tbsp",
+                "hung yoghurt": "100 gms",
+                "mustard oil": "20 ml",
+                "allspice powder": "1/2 tsp",
+                "garam masala powder": "1/2 tsp",
+                "mace powder": "1/4 tsp",
+                "roasted cumin powder": "1/2 tsp",
+                "kasuri methi powder": "1/4 tsp",
+                "melted butter": "1 tbsp",
+                "CHICKEN SHAMMI KEBAB": "",
+                "":""
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "marinate the chicken tikka pieces with salt, lemon juice, green chilly and ginger-garlic for 3-4 hours.": "",
+                "blanch the coriander in salted boiling water for half a minute and shock in ice cold water. strain.": "",
+                "heat oil in a pan. add cumin, garlic, ginger, green chilly, cashewnuts and saute.remove form heat. add coriander, mint and blend into smooth thick paste": "",
+                "take hung yoghurt in a bowl. add salt, green paste, allspice, garam masala, mace, roasted cumin, kasuri methi powder and mustard oil. combine well.": "",
+                "allow the chicken to marinate in this masala overnight. skewere them in seekh and cook in tandoor till charred and cooked through. baste with melted butter on top.": "",
+                "CHICKEN SHAMMI KEBAB": "",
+                "":""
             }
         ]
     },
@@ -3241,25 +3308,26 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "paneer, cut in big cubes": "250 gms",
+                "tandoori marination": "3 tbsp",
+                "salt": "to taste",
+                "kashmiri chilli powder": "1 tbsp",
+                "ginger-garlic paste": "1 tsp",
+                "lemon juice": "1 tbsp",
+                "whole garam masala": "1/2 tsp",
+                "ghee": "1 tsp",
+                "melted butter": "1 tbsp"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "marinate the paneer with salt, chilli powder, lemon juice and ginger-garlic for 3-4 hours.": "",
+                "apply the tandoori marination over the paneer and allow to marinate overnight.": "",
+                "take a deep bowl. place a small bowl with hot charcoal in it. put the paneer pieces around the small bowl. put whole garam masala and ghee on top of the charcoal and cover the deep bowl with foil immediately.": "",
+                "allow to smoke for 20 minutes and take it out. skewere them and cook in tandoor till charred.": "",
+                "apply butter on top and serve hot.": ""
+                
             }
         ]
     },
@@ -3269,25 +3337,22 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chickpeas, soaked and cooked": "500 gms",
+                "garlic cloves": "3",
+                "olive oil": "100 ml",
+                "tahini paste": "2 tbsp",
+                "roasted cumin": "1 tsp",
+                "salt": "to taste",
+                "lemon juice": "2 tbsp"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Place the chickpeas, garlic, olive oil, tahini paste, cumin in a food processor and process until combined.": "",
+                "blend till smooth and add salt, lemon juice. ": "",
+                "Place hummus in a bowl and serve with toasted Turkish bread.": "",
+                
             }
         ]
     },
