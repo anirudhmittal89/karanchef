@@ -4133,74 +4133,7 @@ var main=[
             }
             ]
             },
-    {
-        "src": "/images/MAINS/AMRITSARI DUM ALOO.JPG",
-        "caption": "AMRITSARI DUM ALOO",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Baby potatoes": "22",
-                "Oil": "Appropiate to deep fry",
-                "Mustard oil": "2 tbl spoons",
-                "Cumin seeds": "1 tbl spoon",
-                "Asafoetida": "A pinch or two",
-                                                                                                                                                                                                                                                                                       "Onions": "2-4",
-                "Ginger-garlic paste": "1 tbl spoon",
-                "Tomatoes": "3-5",
-                "Red chilli": "1/2 tbl spoon",
-                "Cumin powder": "1/2 tbl spoon",
-                "Coriander powder": "1 tbl spoon",
-                "Turmeric powder": "1/2 tbl spoon",
-                "Salt": "1 tbl spoon( put more if needed)",
-                "Garam masala powder": "1/2 tbl spoon",
-                "Fresh coriander leaves": "1 tbl spoon",
-                "Ginger": "According to taste"
-            }
-        ],
-        "method": [
-            {
-                "Peel, wash and prick potatoes all over with the help of a fork": "",
-                "Keep in salted water for fifteen minutes": "",
-                "Heat sufficient oil in a kadai and deep-fry the potatoes on medium heat till golden brown. Drain and place on an absorbent paper and keep aside": "",
-                "Heat mustard oil in a pan to smoking point. Cool and heat again": "",
-                "Add cumin seeds and asafoetida and cook on medium heat till the cumin seeds change colour. Add onion and sauté for three to four minutes or till the onion turns light golden": "",
-                "Add ginger-garlic paste and sauté for a minute. Add a little water and stir. Add tomatoes and sauté for a minute. Add a little water and cook till tomatoes turn pulpy": "",
-                "Add red chilli powder, cumin powder, coriander powder, turmeric powder and a little water and stir. Add fried potatoes and stir to mix well and cook for two minutes": "",
-                "Add a little water and salt. Mix well and simmer for five minutes or till the potatoes absorb the gravy. Add garam masala powder and stir": "",
-                "Remove from heat and serve hot garnished with coriander leaves and ginger strips": ""
-            }
-        ]
-    },
-    {
-        "src": "/images/MAINS/BAINGAN KA BHARTA.JPG",
-        "caption": "BAINGAN KA BHARTA",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Eggplant": "1",
-                "Onion": "1-2",
-                "Tomatoes": "1-2",
-                "Green chillies": "2-4",
-                "Garlic": "7-8 cloves",
-                "Coariander powder": "1/4 tbl spoon",
-                "Mustard oil powder": "2 tbl spoon",
-                "Salt to taste": "",
-                "Lime": "1/2"
-            }
-        ],
-        "method": [
-            {
-                "Roast on a gas cooktop by just placing the eggplant straight on the burner and keeping the flame on low setting. Keep turning and cooking till all the skin on the eggplant is charred and the inner flesh looks really soft. A good sign to watch for is that the eggplant seems to 'cave in' on itself!": "",
-                "Grill in your oven grill or on your barbecue grill. Again, keep turning periodically till all the skin on the eggplant is charred and the inner flesh looks really soft.": "",
-                "'Roast' in your oven till all the skin on the eggplant is charred and the inner flesh looks really soft.": "",
-                "Once the eggplant is roasted, allow to cool fully and then peel off and discard the charred skin and stem.": "",
-                "Mash the eggplant roughly, in a mixing bowl.": "",
-                "Add the mustard oil, onion, tomato, green chillies, garlic, coriander leaves and salt to taste. Mix well.": "",
-                "Add a squeeze of lime juice and mix well.": "",
-                "Serve hot garnished with coriander leaves and ginger strips": ""
-            }
-        ]
-    },
+    
     {
         "src": "/images/MAINS/BEANS PORIYAL WITH APPAM.JPG",
         "caption": "BEANS PORIYAL WITH APPAM",
@@ -4231,35 +4164,8 @@ var main=[
         ]
     },
     {
-        "src": "/images/MAINS/BEEF WELLINGTON 1.jpg",
-        "caption": "BEEF WELLINGTON ",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "2 filets mignon": "",
-                "2 sheets puff pastry": "",
-                "Salt to taste": "",
-                "Pepper to taste": "",
-                "Butter": "1tbl spoon",
-                "Mushroom Duxelles": "4 tbl spoon",
-                "Egg": "1"
-            }
-        ],
-        "method": [
-            {
-                "Thaw puff pastry according to package directions.": "",
-                "Filets are often irregular in shape, if yours are use a piece of kitchen twine to tie them into a round": "",
-                "Season filets generously with salt and pepper.": "",
-                "Pre-heat a medium (10-inch) non-stick skillet over medium heat. Add butter and swirl in pan to melt.": "",
-                "Cook filets on both sides for about 3 minutes until well-browned, then brown the edges. Note: Regularly check the internal temperature of the filets, they should not be cooked past 120F at the center.*** Allow filets to cool, then wrap in plastic and chill for at least a couple of hours.": "",
-                "Heat oven to 400F. Whisk together egg and 1 tablespoon water (egg wash).": "",
-                "Wrap the filets in puff pastry according to the steps outlined in the photo tutorial for Individual Beef Wellingtons. Brush with egg wash, and bake in center of oven until golden brown; about 30 minutes.": ""                
-            }
-        ]
-    },
-    {
-        "src": "/images/MAINS/BEEF WELLINGTON 2.jpg",
-        "caption": "BEEF WELLINGTON ",
+        "src": "/images/MAINS/BEEF WELLINGTON.jpg",
+        "caption": "BEEF WELLINGTON",
         "categ": "MAINS",
         "ingredients": [
             {
@@ -4789,91 +4695,6 @@ var main=[
         ]
     },
     {
-        "src": "/images/MAINS/JEERA ALOO.JPG",
-        "caption": "JEERA ALOO",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "boiled nd peeled potatoes, cubed": "150 gms",
-                "oil": "15 ml",
-                "cumin seeds": "1 tsp",
-                "chopped green chillies": "1/2 tsp",
-                "chopped ginger": "1/2 tsp",
-                "salt": "to taste",
-                "coriander powder": "1 tsp",
-                "red chilli powder": "1/2 tsp",
-                "coriander leaves": "1 tsp"
-            }
-        ],
-        "method": [
-            {
-                "heat oil in a pan. add cumin seeds, chopped ginger and green chillies. ": "",
-                "Add the dry masalas and little water. cook the masals well. add the potatoes and toss well.": "",
-                "Finish with coriander leaves.": ""
-                
-            }
-        ]
-    },
-    {
-        "src": "/images/MAINS/KADHAI PANEER 2.jpg",
-        "caption": "KADHAI PANEER ",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "oil": "15 ml",
-                "paneer, cut in big cubes": "250 gms",
-                "onions, quartered and layers seperated": "1",
-                "capsicum, cut in big cubes": "1",
-                "onion-tomato masala": "3 tbsp",
-                "makhni gravy": "2 tbsp",
-                "salt": "to taste",
-                "kadhai masala": "2 tsp",
-                "butter": "2 tsp",
-                "turmeric powder": "1/2 tsp",
-                "cumin seeds": "1/2 tsp",
-                "garam masala powder": "1/4 tsp",
-                "chopped coriander": "2 tsp",
-                "ginger-garlic paste": "1 tbsp"
-            }
-        ],
-        "method": [
-            {
-                "heat oil in a kadhai. add cumin seeds. add turmeric powder and ginger-garlic paste.": "",
-                "add the kadhai masala and onion-tomato masala. add the onions and capsicum and saute. ": "",
-                "add salt, makhni gravy and paneer. finish with butter, garam masala powder and coriander.": ""
-                
-            }
-        ]
-    },
-    {
-        "src": "/images/MAINS/KADHAI PANEER.jpg",
-        "caption": "KADHAI PANEER",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
-    {
         "src": "/images/MAINS/KADHAI VEGETABLES , STUFFED PANEER , GRILLED UPMA AND MAKHANI SAUCE.jpg",
         "caption": "KADHAI VEGETABLES , STUFFED PANEER , GRILLED UPMA AND MAKHANI SAUCE",
         "categ": "MAINS",
@@ -5036,34 +4857,6 @@ var main=[
     {
         "src": "/images/MAINS/LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA.JPG",
         "caption": "LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
-    {
-        "src": "/images/MAINS/LAVASH DISPLAY.jpg",
-        "caption": "LAVASH DISPLAY",
         "categ": "MAINS",
         "ingredients": [
             {
@@ -5399,42 +5192,7 @@ var main=[
             }
         ]
     },
-    {
-        "src": "/images/MAINS/PINDI CHHOLE.jpg",
-        "caption": "PINDI CHHOLE",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "chickpeas, soaked overnight": "500 gms",
-                "tea bags": "3",
-                "dry amla/ gooseberry": "3 pieces",
-                "bay leaf": "1",
-                "whole cardamom": "2",
-                "mace": "1",
-                "cloves": "4",
-                "cinnamon": "1 small stick",
-                "salt ": "to taste",
-                "oil": "2 tbsp",
-                "onions, peeled": "4",
-                "green chillies": "2-3",
-                "ginger-garlic paste": "1 tbsp",
-                "chhole masala": "2 tbsp",
-                "tomato puree": "6 tbsp",
-                "ghee": "2 tbsp",
-                "ginger juliennes": "little",
-                "chopped coriander": "2 tbsp"
-            }
-        ],
-        "method": [
-            {
-                "put all the whole garam masala, dry amla in a muslin cloth. put the chickpeas with water, salt, teabags in a pressure cooker.": "",
-                "puree the onions with green chillies in a blender. heat oil in a kadhai. add the onions and saute till brown. ": "",
-                "add the ginger-garlic paste and tomato puree. add the chhole masala. add the boiled chickpeas. let it simmer for 15-20 minutes.": "",
-                "finish with chopped coriander. heat ghee in a seperate kadhai, add ginger juliennes and pour the hot ghee over the chana and serve hot with bhatura/kulcha.": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
+    
     {
         "src": "/images/MAINS/QUATTRO FROMAGGI RAVIOLI WITH BEURRE BLANC.jpg",
         "caption": "QUATTRO FROMAGGI RAVIOLI WITH BEURRE BLANC",
@@ -5808,6 +5566,195 @@ var main=[
         ]
     },
     {
+        "src": "/images/MAINS/AMRITSARI DUM ALOO.JPG",
+        "caption": "AMRITSARI DUM ALOO",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "Baby potatoes": "22",
+                "Oil": "Appropiate to deep fry",
+                "Mustard oil": "2 tbl spoons",
+                "Cumin seeds": "1 tbl spoon",
+                "Asafoetida": "A pinch or two",
+                                                                                                                                                                                                                                                                                       "Onions": "2-4",
+                "Ginger-garlic paste": "1 tbl spoon",
+                "Tomatoes": "3-5",
+                "Red chilli": "1/2 tbl spoon",
+                "Cumin powder": "1/2 tbl spoon",
+                "Coriander powder": "1 tbl spoon",
+                "Turmeric powder": "1/2 tbl spoon",
+                "Salt": "1 tbl spoon( put more if needed)",
+                "Garam masala powder": "1/2 tbl spoon",
+                "Fresh coriander leaves": "1 tbl spoon",
+                "Ginger": "According to taste"
+            }
+        ],
+        "method": [
+            {
+                "Peel, wash and prick potatoes all over with the help of a fork": "",
+                "Keep in salted water for fifteen minutes": "",
+                "Heat sufficient oil in a kadai and deep-fry the potatoes on medium heat till golden brown. Drain and place on an absorbent paper and keep aside": "",
+                "Heat mustard oil in a pan to smoking point. Cool and heat again": "",
+                "Add cumin seeds and asafoetida and cook on medium heat till the cumin seeds change colour. Add onion and sauté for three to four minutes or till the onion turns light golden": "",
+                "Add ginger-garlic paste and sauté for a minute. Add a little water and stir. Add tomatoes and sauté for a minute. Add a little water and cook till tomatoes turn pulpy": "",
+                "Add red chilli powder, cumin powder, coriander powder, turmeric powder and a little water and stir. Add fried potatoes and stir to mix well and cook for two minutes": "",
+                "Add a little water and salt. Mix well and simmer for five minutes or till the potatoes absorb the gravy. Add garam masala powder and stir": "",
+                "Remove from heat and serve hot garnished with coriander leaves and ginger strips": ""
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/JEERA ALOO.JPG",
+        "caption": "JEERA ALOO",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "boiled nd peeled potatoes, cubed": "150 gms",
+                "oil": "15 ml",
+                "cumin seeds": "1 tsp",
+                "chopped green chillies": "1/2 tsp",
+                "chopped ginger": "1/2 tsp",
+                "salt": "to taste",
+                "coriander powder": "1 tsp",
+                "red chilli powder": "1/2 tsp",
+                "coriander leaves": "1 tsp"
+            }
+        ],
+        "method": [
+            {
+                "heat oil in a pan. add cumin seeds, chopped ginger and green chillies. ": "",
+                "Add the dry masalas and little water. cook the masals well. add the potatoes and toss well.": "",
+                "Finish with coriander leaves.": ""
+                
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/KADHAI PANEER 2.jpg",
+        "caption": "KADHAI PANEER ",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "oil": "15 ml",
+                "paneer, cut in big cubes": "250 gms",
+                "onions, quartered and layers seperated": "1",
+                "capsicum, cut in big cubes": "1",
+                "onion-tomato masala": "3 tbsp",
+                "makhni gravy": "2 tbsp",
+                "salt": "to taste",
+                "kadhai masala": "2 tsp",
+                "butter": "2 tsp",
+                "turmeric powder": "1/2 tsp",
+                "cumin seeds": "1/2 tsp",
+                "garam masala powder": "1/4 tsp",
+                "chopped coriander": "2 tsp",
+                "ginger-garlic paste": "1 tbsp"
+            }
+        ],
+        "method": [
+            {
+                "heat oil in a kadhai. add cumin seeds. add turmeric powder and ginger-garlic paste.": "",
+                "add the kadhai masala and onion-tomato masala. add the onions and capsicum and saute. ": "",
+                "add salt, makhni gravy and paneer. finish with butter, garam masala powder and coriander.": ""
+                
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/PINDI CHHOLE.jpg",
+        "caption": "PINDI CHHOLE",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "chickpeas, soaked overnight": "500 gms",
+                "tea bags": "3",
+                "dry amla/ gooseberry": "3 pieces",
+                "bay leaf": "1",
+                "whole cardamom": "2",
+                "mace": "1",
+                "cloves": "4",
+                "cinnamon": "1 small stick",
+                "salt ": "to taste",
+                "oil": "2 tbsp",
+                "onions, peeled": "4",
+                "green chillies": "2-3",
+                "ginger-garlic paste": "1 tbsp",
+                "chhole masala": "2 tbsp",
+                "tomato puree": "6 tbsp",
+                "ghee": "2 tbsp",
+                "ginger juliennes": "little",
+                "chopped coriander": "2 tbsp"
+            }
+        ],
+        "method": [
+            {
+                "put all the whole garam masala, dry amla in a muslin cloth. put the chickpeas with water, salt, teabags in a pressure cooker.": "",
+                "puree the onions with green chillies in a blender. heat oil in a kadhai. add the onions and saute till brown. ": "",
+                "add the ginger-garlic paste and tomato puree. add the chhole masala. add the boiled chickpeas. let it simmer for 15-20 minutes.": "",
+                "finish with chopped coriander. heat ghee in a seperate kadhai, add ginger juliennes and pour the hot ghee over the chana and serve hot with bhatura/kulcha.": "",
+                "Bake at 180 degress celcius for 30 minutes": ""
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/KADHAI PANEER.jpg",
+        "caption": "KADHAI PANEER",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "Butter": "500 gms",
+                "Sugar": "250 gms",
+                "Eggs": "3",
+                "Almond meal": "250gms",
+                "Dried sponge crumbs": "450 gms",
+                "Baking powder": "15 gms",
+                "Cinnamon powder": "7.5 gms",
+                "Flour": "125 gms",
+                "Strawberry jam": "125 gms"
+            }
+        ],
+        "method": [
+            {
+                "Cream the butter and sugar together": "",
+                "Add the eggs one by one till sugar is dissolved": "",
+                "Fold all the dry ingredients": "",
+                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
+                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
+                "Bake at 180 degress celcius for 30 minutes": ""
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/BAINGAN KA BHARTA.JPG",
+        "caption": "BAINGAN KA BHARTA",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "Eggplant": "1",
+                "Onion": "1-2",
+                "Tomatoes": "1-2",
+                "Green chillies": "2-4",
+                "Garlic": "7-8 cloves",
+                "Coariander powder": "1/4 tbl spoon",
+                "Mustard oil powder": "2 tbl spoon",
+                "Salt to taste": "",
+                "Lime": "1/2"
+            }
+        ],
+        "method": [
+            {
+                "Roast on a gas cooktop by just placing the eggplant straight on the burner and keeping the flame on low setting. Keep turning and cooking till all the skin on the eggplant is charred and the inner flesh looks really soft. A good sign to watch for is that the eggplant seems to 'cave in' on itself!": "",
+                "Grill in your oven grill or on your barbecue grill. Again, keep turning periodically till all the skin on the eggplant is charred and the inner flesh looks really soft.": "",
+                "'Roast' in your oven till all the skin on the eggplant is charred and the inner flesh looks really soft.": "",
+                "Once the eggplant is roasted, allow to cool fully and then peel off and discard the charred skin and stem.": "",
+                "Mash the eggplant roughly, in a mixing bowl.": "",
+                "Add the mustard oil, onion, tomato, green chillies, garlic, coriander leaves and salt to taste. Mix well.": "",
+                "Add a squeeze of lime juice and mix well.": "",
+                "Serve hot garnished with coriander leaves and ginger strips": ""
+            }
+        ]
+    },
+    {
         "src": "/images/MAINS/VEGETABLE LASAGNA.JPG",
         "caption": "VEGETABLE LASAGNA",
         "categ": "MAINS",
@@ -5903,8 +5850,11 @@ if(/MAINS/i.test(src)){
 }else{
     entireData=dessert;
 }
+
 for(all in entireData){
+    console.log(entireData[all].caption);
     if(entireData[all].caption == caption){
+        console.log("got it");
         var method=entireData[all].method;
         var ingredients=entireData[all].ingredients;
         
