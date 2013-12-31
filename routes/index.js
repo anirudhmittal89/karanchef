@@ -3418,25 +3418,27 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "FISH VARUVAL": "As required",
+                "CHETTINAD SPICED CRAB CAKE": "",
+                "crabmeat, cleaned": "120 gms",
+                "onions, finely chopped": "1/2",
+                "chopped green chillies": "1",
+                "chopped coriander": "1 tsp",
+                "chopped ginger": "1 tsp",
+                "chopped curry leaves": "1 tsp",
+                "chettinad masala": "1/2 tsp",
+                "black pepper powder": "1/4 tsp",
+                "salt": "to taste",
+                "oil": "2 tbsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "CHETTINAD SPICED CRABCAKE": "",
+                "mix onions, green chilli, ginger, curry leaves, chettinad masala, pepper powder, salt.": "",
+                "Fadd the crabmeat and fold with very gentle hands.": "",
+                "shape into small tikkis and shallow fry in oil till golden brown on both sides.": ""
+                
             }
         ]
     },
@@ -3446,25 +3448,30 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "TANDOORI LAMB CHOPS": "As required",
+                "BURRANI RAITA": "",
+                "hung yoghurt": "100 gms",
+                "black salt": "1/2 tsp",
+                "salt": "to taste",
+                "roasted cumin powder": "1 tsp",
+                "mint leaves, chopped": "1 tbsp",
+                "chopped garlic": "2 tsp",
+                "cabbage, julienned": "1/2",
+                "bell peppers, julienned": "1/4 each",
+                "onions, finely sliced": "1",
+                "oven dried tomatoes": "6",
+                "lemon juice": " tbsp",
+                "salt, pepper": "to taste",
+                "mint, coriander leaves": "for garnish"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "for burrani raita, deep fry the garlic in moderately hot oil till golden. ": "",
+                "whisk the yoghurt. add salt, black salt, cumin, mint and fried garlic. mix properly.": "",
+                "for the salad, mix cabbage, bell peppers, onions, and tomatoes. ": "",
+                "add salt, pepper and lemon juice. toss well.": ""
+                
             }
         ]
     },
@@ -3530,25 +3537,41 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "DOUGH": "",
+                "flour": "1.6 kgs",
+                "multigrain": "400 gms",
+                "Eggs": "4",
+                "salt": "40 gms",
+                "sugar": "80 gms",
+                "softened butter": "100 gms",
+                "fresh yeast": "100 gms",
+                "milk": "1 litre",
+                "bread improver": "20 gms",
+                "gluten": "40 gms",
+                "BUTTER BLOCK": "",
+                "butter": "2 kgs",
+                "flour": "200 gms",
+                "eggwash": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix all the ingredients of dough and knead into a soft dough.": "",
+                "sheet the dough till 7 mm in a rectangle shape and put on a baking tray lined with baking paper. put in the freezer covered with another baking paper on top for 30 minutes.": "",
+                "For butter block, cream butter and flour together till there are no lumps.": "",
+                "place the block on baking paper and shape into small rectangle, in such a way that it can be encased in the dough.": "",
+                "put the block in the fridge for half an hour.": "",
+                "when the dough is hard and the butter block is set, take both out for lamination.": "",
+                "place the butter block in the centre of dough and wrap the butter with the dough from all sides. ":"",
+                "from the breadth(unopened side), start sheeting from the lowest setting(30 mm) to 9 mm.":"",
+                "after sheeted, fold in overlapping position in such way that no gap is left between the fold. from the opened side, sheet again from 30mm to 9mm.":"",
+                "repeat the overlapping fold. place the dough in the fridge for few hours.":"",
+                "now sheet from 30mm to 7.5 mm and make a book fold. allow the dough to rst in fridge for 12 hours.":"",
+                "sheet the dough till 3.5 mm . cut triangles of 20cm lenght and 8cm width. make a slit in the width of triangle. ": "",
+                "stretch the dough and open the slit to the edge. roll the dough to form croissant and place on a floured tray.": "",
+                "brush with eggwash and prove for 45 minutes. brush again with eggwash and bake in the oven at 220c aith steam for about 18 minutes till golden brown.": "",
+                "allow the croissants to dry for about 5 minutes in the oven.":""
+               
             }
         ]
     },
@@ -3614,25 +3637,25 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "medium prawns, cleaned": "10",
+                "rice flour": "100 gms",
+                "cornflour": "50 gms",
+                "salt": "to taste",
+                "oil": "to deep fry",
+                "chopped garlic": "1 tsp",
+                "coriander stem and leaves, chopped": "1 tsp",
+                "green chillies, julienned": "1",
+                "black pepper, crushed": "1 tbsp",
+                "lemon juice": "1 tbsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "make a thick batter of rice flour, cornflour, salt and water.": "",
+                "coat the prawns in this batter and deep fry in hot oil till golden and crisp.": "",
+                "heat oil in a pan. add garlic and saute. add the green chillies and coriander stems.": "",
+                "add the prawns and add pepper, salt, lemon juice and coriander leaves. toss well. serve hot.": ""
+                
             }
         ]
     },
@@ -3642,25 +3665,36 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "RASAM MASALA": "",
+                "Coriander seeds": "3 cups",
+                "toor dal": "1 cup",
+                "black peppercorns": "1 cup",
+                "chana dal": "1/2 cup",
+                "cumin seeds": "1/4 cup",
+                "dried red chillies": "3 cups",
+                "turmeric sticks": "6",
+                "PINEAPPLE RASAM": "",
+                "toor dal": "125 ml",
+                "tamarind": "3/4 small lemon size",
+                "salt": "to taste",
+                "asafoetida": "pinch",
+                "mustard seeds": "1 tsp",
+                "green chillies": "2",
+                "curry leaves": "few",
+                "rasam masala": "2 tsp",
+                "thick pineapple juice": "100 ml",
+                "grissini": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "RASAM MASALA": "",
+                "dry the ingredients in the sun. grind these together on a mill. ": "",
+                "PINEAPPLE RASAM": "",
+                "cook the dal and mash well. take 1/4 litres of tamarind juice, add salt and asafoetida and boil. ": "",
+                "add rasam masala to the boiling rasam and let it simmer for more than 5 minutes.": "",
+                "add to the dal and keep on low fire. when the rasam froths up, add coriander and curry leaves and remove from the fire.": "",
+                "add the pineapple juice. season with mustard and garnish with coriander leaves.":""
             }
         ]
     },
@@ -3698,8 +3732,8 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
+                "RAW MANGO PICKLE": "",
+                "": "250 gms",
                 "Eggs": "3",
                 "Almond meal": "250gms",
                 "Dried sponge crumbs": "450 gms",
@@ -4722,38 +4756,7 @@ var main=[
             }
         ]
     },
-    {
-        "src": "/images/MAINS/KUMBH MATAR.jpg",
-        "caption": "KUMBH MATAR",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "mushrooms, quartered": "500 gms",
-                "green peas, boiled": "250 gms",
-                "oil": "2 tsp",
-                "cumin seeds": "1 tsp",
-                "chopped onions": "3",
-                "ginger-garlic paste": "15 gms",
-                "chopped tomatoes": "3",
-                "makhni gravy": "3 tbsp",
-                "turmeric powder": "1/2 tsp",
-                "coriander powder":"1 tsp",
-                "red chilli powder": "1/2 tsp",
-                "fresh cream": "2 tablespoon",
-                "kasuri methi": "1 tsp",
-                "coriander chopped": "1 tsp",
-                "salt": "to taste"
-            }
-        ],
-        "method": [
-            {
-                "heat oil in a kadhai. add cumin seeds. add the onions and saute till brown. add the ginger-garlic paste and the dry masalas. ": "",
-                "Add the chopped tomatoes and cook till fully mashed. the the mushrooms and saute. add the green peas and makhni gravy.": "",
-                "add the cream, kasuri methi and coriander to finish.": ""
-                
-            }
-        ]
-    },
+    
     {
         "src": "/images/MAINS/LAMB CHOPS OVER DUM BIRYANI.jpg",
         "caption": "LAMB CHOPS OVER DUM BIRYANI",
@@ -5721,6 +5724,38 @@ var main=[
                 "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
                 "Using piping bag, pipe the mixture over jam in cross lines all over": "",
                 "Bake at 180 degress celcius for 30 minutes": ""
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/KUMBH MATAR.jpg",
+        "caption": "KUMBH MATAR",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "mushrooms, quartered": "500 gms",
+                "green peas, boiled": "250 gms",
+                "oil": "2 tsp",
+                "cumin seeds": "1 tsp",
+                "chopped onions": "3",
+                "ginger-garlic paste": "15 gms",
+                "chopped tomatoes": "3",
+                "makhni gravy": "3 tbsp",
+                "turmeric powder": "1/2 tsp",
+                "coriander powder":"1 tsp",
+                "red chilli powder": "1/2 tsp",
+                "fresh cream": "2 tablespoon",
+                "kasuri methi": "1 tsp",
+                "coriander chopped": "1 tsp",
+                "salt": "to taste"
+            }
+        ],
+        "method": [
+            {
+                "heat oil in a kadhai. add cumin seeds. add the onions and saute till brown. add the ginger-garlic paste and the dry masalas. ": "",
+                "Add the chopped tomatoes and cook till fully mashed. the the mushrooms and saute. add the green peas and makhni gravy.": "",
+                "add the cream, kasuri methi and coriander to finish.": ""
+                
             }
         ]
     },
