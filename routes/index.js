@@ -2390,25 +2390,29 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "paneer, grated": "150 gms",
+                "potatoes, boiled, peeled and grated": "100 gms",
+                "butter": "40 gms",
+                "cumin seeds": "1 tsp",
+                "ginger, chopped": "1 tsp",
+                "green chilli, chopped": "2",
+                "salt": "to taste",
+                "chaat masala": "to taste",
+                "coriander leaves, chopped": "1 tbsp",
+                "almond,blanched, peeled and sliced thinly": "15",
+                "egg": "4",
+                "oil": "to deep fry",
+                "tamrind chutney": "as required",
+                "fenugreek lavash": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat butter in a pan. add cumin seeds, chopped ginger, green chillies. add the grated paneer and potatoes.": "",
+                "cook till the moisture evaporates. remove from heat and add salt, chaat masala, coriander leaves.": "",
+                "shape into tikkis and dip in egg batter. crumb with sliced almonds.": "",
+                "deep fry in hot oil at 180c till the flakes are crisp and brown evenly. serve with tamarind chutney and lavash.": ""
+                
             }
         ]
     },
@@ -2418,26 +2422,24 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "beetroot": "1",
+                "goats cheese": "150 gms",
+                "hung yoghurt": "50 gms",
+                "salt": "to taste",
+                "parsley, chopped": "1 tsp",
+                "horseradish, grated": "2 tsp",
+                "english mustard": "1 tsp",
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "roast the beetroot covered in foil in the oven till cooked.": "",
+                "Aslice roundels of beetroot using mandolin.": "",
+                "for the filling, mix all the ingredients together. ": "",
+                "pipe the mixture in the centre of beetroot and roll tightly.": "",
             }
+                
         ]
     },
     {
@@ -2446,32 +2448,91 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "jaggery, broken": "1/4 cup",
+                "water": "1 cup",
+                "lemon juice": "1 tbsp",
+                "tamarind pulp": "2 tbsp",
+                "whole ginger, crushed": "1 whole",
+                "cardamom powder": "1/2 tsp",
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "soak the jaggery and ginger in water for about 20 minutes.": "",
+                "strain and add cardamom, lemon juice and tamrind. chill. it should be sweet balanced by little sourness.": ""
+               
             }
         ]
     },
     {
         "src": "/images/ENTREE/BAKHARKHANI BREAD WITH LAMB GALOUTI KEBAB AND MINT CHUTNEY.jpg",
         "caption": "BAKHARKHANI BREAD WITH LAMB GALOUTI KEBAB AND MINT CHUTNEY",
-        "categ": "ENTREE"
+        "categ": "ENTREE",
+        "ingredients": [
+        {
+                "BAKHARKHANI BREAD": "",
+                "Refined flour": "1 kg",
+                "Eggs": "4",
+                "ghee": "100 gms",
+                "salt": "15 gms",
+                "sugar": "35 gms",
+                "baking powder": "5 gms",
+                "green cardamom powder": "5 gms",
+                "milk": "500 ml",
+                "saffron": "1 gm",
+                "almonds, blanched, peeled, thinly sliced": "15",
+                "LAMB GALOUTI KEBAB": "",
+                "lamb boti": "400 gms",
+                "lamb fat": "100 gms",
+                "fried onions": "3 tbsp",
+                "poppy seeds, roasted": "2 tsp",
+                "ginger-garlic paste": "1 tbsp",
+                "salt": "to taste",
+                "red chilli powder": "2 tsp",
+                "raw papaya paste": "1 tsp",
+                "cashewnuts, fried": "2 tbsp",
+                "roasted cumin powder": "1 tsp",
+                "kasuri methi powder": "1/2 tsp",
+                "garam masala powder": "1/2 tsp",
+                "kewra water": "few drops",
+                "milk": "2 tbsp",
+                "saffron": "1 gm",
+                "melted ghee": "50 ml",
+                "lemon juice": "2 tbsp",
+                "rose petals, dried and crushed": "few petals",
+                "MINT CHUTNEY": "",
+                "Mint leaves, washed, dried": "1 bunch",
+                "coriander leaves": "1/2 bunch",
+                "ginger, peeled": "small piece",
+                "garlic cloves" : "5-6",
+                "roasted cumin powder": "1 tsp",
+                "chaat masala": "1 tsp",
+                "lemon juice": "3 tbsp",
+                "salt": "to taste",
+                "black salt": "1/2 tsp"
+
+            }
+        ],
+        "method": [
+            {
+                "BAKHARKHANI": "",
+                "heat little milk in a pan. add the saffron and allow to infuse for 30 minutes.": "",
+                "put refined flour, salt and baking powder in kneading machine. make a batter of milk, eggs, sugar, saffron, cardamom.": "",
+                "add ghee to the flour and mix. add the batter and knead into a soft dough.": "",
+                "make small pedas, roll into small circles, not too thin. add sliced almonds on the oil side and cook the bread in moderately hot tandoor till little golden brown on edges.": "",
+                "apply melted butter on top and serve hot.": "",
+                "LAMB GALOUTI KEBAB":"",
+                "marinate lamb boti and lamb fat pieces with ginger-garlic paste, lemon juice, salt, red chilli powder, raw papaya paste for 5 hours.":"",
+                "mince the lamb atleast 3 times to get very fine mince.": "",
+                "Heat milk in a pan. add saffron and let it infuse for 30 minutes.":"",
+                "make a paste of fried onions, cashewnuts, roasted poppy seeds. add this paste, crushed rose petal, cumin, garam masala, kewra, ghee, kasuri methi, soaked milk.": "",
+                "make small tikkis and shallow fry in ghee.":"",
+                "MINT CHUTNEY":"",
+                "place mint, coriander, ice, ginger and garlic in a blender. pulse. slowly add lemon juice and pulse. add lemon juice in batches and make a fine paste.":"",
+                "add salt, black salt, roasted cumin powder and chaat masala to taste.":""
+            }
+        ]
     },
     {
         "src": "/images/ENTREE/BURGER BUN.jpg",
@@ -2479,25 +2540,26 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "1 kg",
+                "Sugar": "100 gms",
+                "salt": "20 gms",
+                "fresh yeast": "30 gms",
+                "butter": "50 gms",
+                "bread improver": "10 gms",
+                "gluten": "20 gms",
+                "water": "600 ml",
+                "oil": "10 ml",
+                "sesame seeds": "30 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix flour, salt, sugar, yeast, butter, gluten, improver and water and knead into soft, smooth dough.": "",
+                "divide the dough into balls of 120 gms each.": "",
+                "shape into smooth, shiny burger balls and place on a greased tray.": "",
+                "spray water on top of buns and sprinkle sesame seeds on top.": "",
+                "using dampen fingers, flatten each ball from the center. allow the buns to prove for about 45 minutes.": "",
+                "bake in the oven at 220c for about 16 minutes till golden brown. take it out and brush oil over top.": ""
             }
         ]
     },
@@ -2533,25 +2595,25 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "coriander leaves": "1 bunch",
+                "mint leaves": "1/2 bunch",
+                "green chillies": "2-3",
+                "ginger": "1 tbsp",
+                "garlic": "5 cloves",
+                "cinnamon": "1",
+                "Cloves": "2",
+                "star anise": "2",
+                "toddy vinegar": "100 ml",
+                "medium prawns, cleaned": "10"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "marinate coriander, mint, ginger, garlic, cinnamon, cloves. star anise in toddy vinegar overnight.": "",
+                "blend into a fine paste.": "",
+                "marinate the prawns with salt and cafreal masala.": "",
+                "shallow fry the prawns on a tawa. ": ""
+               
             }
         ]
     },
@@ -2590,25 +2652,34 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "paneer, cut into big cubes": "500 gms",
+                "khoya": "100 gms",
+                "chopped coriander": "2 tsp",
+                "chopped green chillies": "1 tsp",
+                "chopped ginger": "1 tsp",
+                "chopped almonds": "2 tsp",
+                "chopped raisins": "2 tsp",
+                "hung yoghurt": "100 gms",
+                "chettinad masala": "250 gms",
+                "fennel powder": "3",
+                "lemon juice": "250gms",
+                "black pepper powder": "450 gms",
+                "coconut oil": "15 gms",
+                "salt": "7.5 gms",
+                "ginger-garlic paste": "125 gms",
+                "garam masala powder": "125 gms",
+                "roasted cumin powder": ""
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "cut the cubes in center, but dont cut all the way through.": "",
+                "marinate with salt, lemon juice, ginger-garlic paste for 3-4 hours. ": "",
+                "mix hung yoghurt, salt, chettinad masala, coconut oil, fennel, cumin , pepper, garama masala powder. ": "",
+                "mix grated khoya, almonds, raisins, green chillies, ginger, salt, pepper. stuff the paneer with this mixture.": "",
+                "apply the marination over paneer and allow to sit overnight.": "",
+                "cook in the tandoor till charred on edges.": ""
             }
         ]
     },
@@ -2646,25 +2717,24 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chicken mince": "500 gms",
+                "sugar": "10 gms",
+                "salt": "to taste",
+                "black pepper powder": "1 tsp",
+                "sesame oil": "1 tsp",
+                "soya sauce": "1 tbsp",
+                "ginger, grated": "2 tsp",
+                "green onions, chopped": "3 tsp",
+                "wonton wrappers": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix all the ingredients for stuffing and comine well.": "",
+                "stuff the mixture in wonton wrappers and shape into dimsums.": "",
+                "heat a steamer. place banana leaf. apply sesame oil on top.": "",
+                "place the dimsums on top of banana leaf in the steamer and steam till cooked.": "",
+                
             }
         ]
     },
@@ -2674,25 +2744,47 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chicken tikka, cooked": "4",
+                "tamrind chutney": "2 tsp",
+                "chopped green chillies": "1",
+                "chopped coriander ": "1 tsp",
+                "onion, finely chopped": "1/2",
+                "chaat masala": "1 tbsp",
+                "Mint chutney": "2 tsp",
+                "hung yoghurt": "2 tbsp",
+                "PEPPER CHICKEN": "",
+                "Chicken thigh, boneless and cut into big chunks": "2",
+                "oil": "1 tbsp",
+                "cloves": "1",
+                "cinnamon": "1",
+                "green cardamom": "2",
+                "fennel seeds": "1/2 tsp",
+                "shallots, sliced": "3 tbsp",
+                "curry leaves": "few",
+                "ginger-garlic paste" : "1 tsp",
+                "chopped tomatoes": "2 tbsp",
+                "coriander powder": "1/2 tsp",
+                "turmeric powder": "pinch",
+                "red chilli powder": "1/2 tsp",
+                "salt": "to taste",
+                "black pepper, powder": "1/4 tsp",
+                "roasted cumin powder": "1/2 tsp",
+                "chicken stock": "50 ml",
+                "coconut paste": "1 tbsp",
+                "lemon juice": "2 tsp",
+                "garam masala powder": "pinch"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "CHICKEN TIKKA CHAAT": "",
+                "Cut the chicken tikka into 2. mix with tamarind chutney, chaat masala, green chilli, coriander and chopped onions. ": "",
+                "FOR MINT YOGHURT, mix mint chutney and yoghurt together.": "",
+                "PEPPER CHICKEN": "",
+                "heat oil in a pan. add cloves, cardamom, cinnamon, fennel seeds, sliced shallots and saute till golden.": "",
+                "add curry leaves, ginger-garlic paste, dry masalas and chopped tomatoes. saute.": "",
+                "add the chicken pieces and saute for a while. add the chicken stock and cook till dry and chicken is cooked." :"",
+                "add coconut paste, garam masala powder and lemon juice to finish.": "",
             }
         ]
     },
@@ -2702,25 +2794,24 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour": "2 kg",
+                "salt": "40 gms",
+                "fresh yeast": "40 gms",
+                "bread improver": "20 gms",
+                "gluten": "40 gms",
+                "water": "1.6 litres"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix all the ingredients and knead on high speed. when the dough appears smooth, shiny , take it out. it should be extremely sodt like stretchy batter.": "",
+                "invert a baking tray and dust with flour. put the dough with floured hands on the floured side of tray.": "",
+                "dust flour on top of the dough and stetch it evenly over the tray.": "",
+                "allow to prove for 90 minutes.": "",
+                "Using a dough scraper dusted with flour, cut the dough and shape into small slippers and place on floured tray.": "",
+                "allow to prove for 60 minutes. bake in the oven at 220c for 28 minutes with steam.": "",
+                "allow to dry for 7-8 minutes. ciabatta should be light and sound hollow from inside.": ""
             }
         ]
     },
@@ -2818,25 +2909,40 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "DOUGH": "",
+                "flour": "2 kgs",
+                "Eggs": "4",
+                "salt": "40 gms",
+                "sugar": "80 gms",
+                "softened butter": "100 gms",
+                "fresh yeast": "100 gms",
+                "milk": "1 litre",
+                "bread improver": "20 gms",
+                "gluten": "40 gms",
+                "BUTTER BLOCK": "",
+                "butter": "2 kgs",
+                "flour": "200 gms",
+                "eggwash": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix all the ingredients of dough and knead into a soft dough.": "",
+                "sheet the dough till 7 mm in a rectangle shape and put on a baking tray lined with baking paper. put in the freezer covered with another baking paper on top for 30 minutes.": "",
+                "For butter block, cream butter and flour together till there are no lumps.": "",
+                "place the block on baking paper and shape into small rectangle, in such a way that it can be encased in the dough.": "",
+                "put the block in the fridge for half an hour.": "",
+                "when the dough is hard and the butter block is set, take both out for lamination.": "",
+                "place the butter block in the centre of dough and wrap the butter with the dough from all sides. ":"",
+                "from the breadth(unopened side), start sheeting from the lowest setting(30 mm) to 9 mm.":"",
+                "after sheeted, fold in overlapping position in such way that no gap is left between the fold. from the opened side, sheet again from 30mm to 9mm.":"",
+                "repeat the overlapping fold. place the dough in the fridge for few hours.":"",
+                "now sheet from 30mm to 7.5 mm and make a book fold. allow the dough to rst in fridge for 12 hours.":"",
+                "sheet the dough till 3.5 mm . cut triangles of 20cm lenght and 8cm width. make a slit in the width of triangle. ": "",
+                "stretch the dough and open the slit to the edge. roll the dough to form croissant and place on a floured tray.": "",
+                "brush with eggwash and prove for 45 minutes. brush again with eggwash and bake in the oven at 220c aith steam for about 18 minutes till golden brown.": "",
+                "allow the croissants to dry for about 5 minutes in the oven.":""
+                
             }
         ]
     },
@@ -2874,25 +2980,27 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "moong dal": "400 gms",
+                "urad dal": "250 gms",
+                "cumin seeds": "2 tsp",
+                "oil": "to deep fry",
+                "hung yoghurt": "1 cup",
+                "castor sugar": "1/8 cup",
+                "tamarind chutney": "4 tbsp",
+                "mint chutney": "3 tsp",
+                "coriander leaves, chopped": "2 tsp",
+                "chaat masala": "1 tbsp"
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Soak moong dal and urad dal for 2 hours.": "",
+                "In a food processor grind them nicely. Whisk the dal together till it becomes light and fluffy. Add cumin. The batter is ready.": "",
+                "With wet palms add small portions of batter into hot oil. Deep fry the bhallas till golden brown.": "",
+                "soak the bhallas in water for a while. drain the bhallas and squeeze out little juice and place on serving plate.": "",
+                "mix sugar and yoghurt and whisk well. add the sweetened yoghurt over the bhallas.": "",
+                "add tamarind chutney, mint chutney over the yoghurt. sprinkle coriander and chaat masala.": ""
             }
         ]
     },
@@ -2902,25 +3010,32 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "white wine vinegar": "15 ml",
+                "eggs": "4",
+                "english muffins": "2",
+                "parma ham": "4 slices",
+                "HOLLANDAISE SAUCE": "",
+                "egg yolks": "3",
+                "shallots, chopped": "15 gms",
+                "bay leaf": "1",
+                "black peppercorns": "4",
+                "White wine vinegar": "300 ml",
+                "clarified butter": "200 ml",
+                "lemon juice": "squeeze"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Bring a deep saucepan of water to the boil (at least 2 litres) and add the vinegar. Break the eggs into 4 separate coffee cups or ramekins. ": "",
+                "Swirl the vinegared water briskly to form a vortex and slide in an egg. It will curl round and set to a neat round shape. Cook for 2-3 mins, then remove with a slotted spoon.": "",
+                "Split the muffins, toast them": "",
+                "HOLLANDAISE SAUCE": "",
+                "Boil the vinegar together with shallots, peppercorns and bay leaf, reduce by half. Strain and reserve ": "",
+                "Boil a large pan of water, then reduce to a simmer. Using a large balloon whisk, beat together the yolks and 2 tsp of the reduced wine vinegar in a heatproof bowl that fits snugly over the pan.": "",
+                "Beat vigorously until the mixture forms a foam, but make sure that it doesn’t get too hot. To prevent the sauce from overheating, take it on and off the heat while you whisk, scraping around the sides with a plastic spatula": "",
+                "The aim is to achieve a golden, airy foam (called a sabayon), which forms ribbons when the whisk is lifted.":"",
+                "Whisk in a small ladle of the warmed butter, a little at a time until all the butter is incorporated and you have a texture as thick as mayonnaise. Finally, whisk in lemon juice, salt and pepper to taste plus a little warm water from the pan if the mixture is too thick.":"",
+                "to assemble, Spread some sauce on each muffin, scrunch a slice of ham on top, then top with an egg. Spoon over the remaining hollandaise and serve at once.":""
             }
         ]
     },
