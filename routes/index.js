@@ -5633,8 +5633,8 @@ var main=[
         ]
     },
     {
-        "src": "/images/MAINS/KADHAI PANEER 2.jpg",
-        "caption": "KADHAI PANEER ",
+        "src": "/images/MAINS/KADHAI PANEER.jpg",
+        "caption": "KADHAI PANEER",
         "categ": "MAINS",
         "ingredients": [
             {
@@ -5695,34 +5695,6 @@ var main=[
                 "puree the onions with green chillies in a blender. heat oil in a kadhai. add the onions and saute till brown. ": "",
                 "add the ginger-garlic paste and tomato puree. add the chhole masala. add the boiled chickpeas. let it simmer for 15-20 minutes.": "",
                 "finish with chopped coriander. heat ghee in a seperate kadhai, add ginger juliennes and pour the hot ghee over the chana and serve hot with bhatura/kulcha.": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
-    {
-        "src": "/images/MAINS/KADHAI PANEER.jpg",
-        "caption": "KADHAI PANEER",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
                 "Bake at 180 degress celcius for 30 minutes": ""
             }
         ]
