@@ -382,39 +382,6 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/DESSERTS/BLUEBERRY COLD CHEESECAKE 2.jpg",
-        "caption": "BLUEBERRY COLD CHEESECAKE",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
-                "crushed digestive bicuits": "200gms",
-                "melted butter": "75 gms",
-                "egg yolk": "3",
-                "castor Sugar": "100 gms",
-                "muscat": "80 ml",
-                "vanilla pod, scraped": "1",
-                "goats curd": "350 gms",
-                "cream cheese": "250 gms",
-                "sour cream": "200 gms",
-                "gelatin leaves": "3.5",
-                "lemon juice": "15 ml",
-                "egg white": "3",
-                "castor sugar": "125 gms",
-                "blueberry compote": "as required"
-            }
-        ],
-        "method": [
-            {
-                "blend the biscuits till smooth. add the butter and combine well. put this mixture in greased moulds and press well till smooth and even.": "",
-                "make a thick sabayon with egg yolks, sugar, muscat and vanilla.": "",
-                "cream the cheeses and add to the sabayon once cooled": "",
-                "heat the lemon juice and add dissolved gelatin. pour over the sabayon and mix.": "",
-                "make soft peak meringue with egg whites and sugar. fold into the mixture": "",
-                "pour over the biscuit base and set in fridge for 2 hours. add berry compote on top.": ""
-            }
-        ]
-    },
-    {
         "src": "/images/DESSERTS/BLUEBERRY CUPCAKES.jpg",
         "caption": "BLUEBERRY CUPCAKES",
         "categ": "DESSERTS",
@@ -2904,8 +2871,8 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/ENTREE/CROISSANT 1.jpg",
-        "caption": "CROISSANT ",
+        "src": "/images/ENTREE/CROISSANT.jpg",
+        "caption": "CROISSANT",
         "categ": "ENTREE",
         "ingredients": [
             {
@@ -2946,34 +2913,7 @@ var dessert=[
             }
         ]
     },
-    {
-        "src": "/images/ENTREE/CROISSANT 2.jpg",
-        "caption": "CROISSANT ",
-        "categ": "ENTREE",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
+    
     {
         "src": "/images/ENTREE/DAHI BHALLA.jpg",
         "caption": "DAHI BHALLA",
@@ -3900,15 +3840,15 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "THAI FISH CAKES": "",
+                "fish fillet": "250 gms",
+                "Egg": "3",
+                "fish sauce": "250gms",
+                "thai red chilli ": "450 gms",
+                "kaffir lime leaf, chopped": "15 gms",
+                "thai red curry paste": "7.5 gms",
+                "green beans, chopped": "125 gms",
+                "": "125 gms"
             }
         ],
         "method": [
@@ -5229,35 +5169,7 @@ var main=[
             }
         ]
     },
-    {
-        "src": "/images/MAINS/QUICHE LORRAINE 2.jpg",
-        "caption": "QUICHE LORRAINE ",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Butter": "60 gms",
-                "onion, finely chopped": "1",
-                "texter leeks, sliced thinly": "1/2",
-                "garlic cloves, chopped": "3",
-                "bacon, cut into thin lardons": "150 gms",
-                "eggs": "3",
-                "egg yolks": "2",
-                "cream": "300 ml",
-                "gruyere cheese, grated": "120 gms",
-                "pate brisee": "as required"
-            }
-        ],
-        "method": [
-            {
-                "roll the pate brisee to a thickness of 2-3 mm and line to a greased 21 cm fluted flan tin.": "",
-                "blind bake the tart at 200c for 15-20 minutes. take out the baking beans and return to the oven for 5 minutes.": "",
-                "For the mixture, heat half butter in a pan. add onions and leeks and saute till translucent. add the garlica nd saute for one more minute.": "",
-                "put mixture on a kitchen towel. heat remaining butter. add the bacon and saute till golden brown. add the onions nd leeks. drain on a kitchen towel.": "",
-                "whisk together cream, eggs, and egg yolks. season with salt and pepper. scatter the base of tart shell with onion mixture. add half of the cheese. ": "",
-                "pour the egg batter on top and sprinkle rest of the cheese. bake at 160c for about 15-20 minutes or just set. allow to cool before setting.": ""
-            }
-        ]
-    },
+    
     {
         "src": "/images/MAINS/QUICHE LORRAINE.jpg",
         "caption": "QUICHE LORRAINE",
