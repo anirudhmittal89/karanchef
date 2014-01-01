@@ -3848,7 +3848,7 @@ var dessert=[
                 "kaffir lime leaf, chopped": "15 gms",
                 "thai red curry paste": "7.5 gms",
                 "green beans, chopped": "125 gms",
-                "": "125 gms"
+                "s": "125 gms"
             }
         ],
         "method": [
@@ -3977,6 +3977,62 @@ var dessert=[
     {
         "src": "/images/ENTREE/VEGETABLE DIMSUM.jpg",
         "caption": "VEGETABLE DIMSUM",
+        "categ": "ENTREE",
+        "ingredients": [
+            {
+                "Butter": "500 gms",
+                "Sugar": "250 gms",
+                "Eggs": "3",
+                "Almond meal": "250gms",
+                "Dried sponge crumbs": "450 gms",
+                "Baking powder": "15 gms",
+                "Cinnamon powder": "7.5 gms",
+                "Flour": "125 gms",
+                "Strawberry jam": "125 gms"
+            }
+        ],
+        "method": [
+            {
+                "Cream the butter and sugar together": "",
+                "Add the eggs one by one till sugar is dissolved": "",
+                "Fold all the dry ingredients": "",
+                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
+                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
+                "Bake at 180 degress celcius for 30 minutes": ""
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL.jpg",
+        "caption": "SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL",
+        "categ": "ENTREE",
+        "ingredients": [
+            {
+                "Butter": "500 gms",
+                "Sugar": "250 gms",
+                "Eggs": "3",
+                "Almond meal": "250gms",
+                "Dried sponge crumbs": "450 gms",
+                "Baking powder": "15 gms",
+                "Cinnamon powder": "7.5 gms",
+                "Flour": "125 gms",
+                "Strawberry jam": "125 gms"
+            }
+        ],
+        "method": [
+            {
+                "Cream the butter and sugar together": "",
+                "Add the eggs one by one till sugar is dissolved": "",
+                "Fold all the dry ingredients": "",
+                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
+                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
+                "Bake at 180 degress celcius for 30 minutes": ""
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/SEAFOOD APPETIZER - PRAWN AND CORN POTLI , PEPPER FRIED SOFT SHELL CRAB AND PATRANI CRUSTED FISH.JPG",
+        "caption": "SEAFOOD APPETIZER - PRAWN AND CORN POTLI , PEPPER FRIED SOFT SHELL CRAB AND PATRANI CRUSTED FISH",
         "categ": "ENTREE",
         "ingredients": [
             {
@@ -5199,62 +5255,6 @@ var main=[
         ]
     },
     {
-        "src": "/images/MAINS/SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL.jpg",
-        "caption": "SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
-    {
-        "src": "/images/MAINS/SEAFOOD APPETIZER - PRAWN AND CORN POTLI , PEPPER FRIED SOFT SHELL CRAB AND PATRANI CRUSTED FISH.JPG",
-        "caption": "SEAFOOD APPETIZER - PRAWN AND CORN POTLI , PEPPER FRIED SOFT SHELL CRAB AND PATRANI CRUSTED FISH",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
-    {
         "src": "/images/MAINS/SOUS VIDE CHETTINAD SPICED CHICKEN BREAST , MUTTAI PARATHA MILLE - FEUILLE , ONION RINGS AND CHETTINAD SAUCE.jpg",
         "caption": "SOUS VIDE CHETTINAD SPICED CHICKEN BREAST , MUTTAI PARATHA MILLE - FEUILLE , ONION RINGS AND CHETTINAD SAUCE",
         "categ": "MAINS",
@@ -5771,9 +5771,7 @@ if(/MAINS/i.test(src)){
 }
 
 for(all in entireData){
-    console.log(entireData[all].caption);
     if(entireData[all].caption == caption){
-        console.log("got it");
         var method=entireData[all].method;
         var ingredients=entireData[all].ingredients;
         
@@ -5789,7 +5787,6 @@ exports.recajax = function(req, res){
     var categ= req.query.categ;
     var pgno = req.query.pgno;
     var entireData=[];
-    console.log(categ);
     if(/MAIN/i.test(categ)){
         entireData=main;
     }else if(/ENTREE/i.test(categ)){
@@ -5824,7 +5821,6 @@ var ob=[];
 var src=req.query.src;
 
 
-//console.log(src);
 //var type=req.query.type;
 var type=req.originalUrl.split("/")[1];
 if(type=="main"){
