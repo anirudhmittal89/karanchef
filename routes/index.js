@@ -1594,25 +1594,21 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "croissant dough": "as required",
+                "chocolate": "as required",
+                "Egg wash": "as required"
+               
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "sheet the croissant dough to 3.5 mm thickness adn place on a floured bench.": "",
+                "cut out rectangles of 10cm length and 8cm width.": "",
+                "cut chocolate bars of 6cm by 1cm.": "",
+                "put the chocolate bar on the base of width. fold the dough on the bar.seal the dough by pressing against it.": "",
+                "place another chocolate bar on the edge of fold. roll it over, making sure the crease comes in centre of the bottom of pain-au-chocolat.": "",
+                "put the dough base side down on a tray. prove for 45 minutes and bake in oven at 22oc for about 16 minutes with steam till golden brown.": "",
+                "allow to dry for 5 minutes.": ""
             }
         ]
     },
@@ -1729,25 +1725,7 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                
             }
         ]
     },
@@ -1785,6 +1763,20 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
+                "water": "2 litres",
+                "sugar": "300 gms",
+                "liquid glucose": "150 gms",
+                "lemon juice": "10 ml",
+                "raspberry compote": "800 gms"
+                
+            }
+        ],
+        "method": [
+            {
+                "bring water, sugar, liquid glucose to a boil in a pan.": "",
+                "take off the heat and add lemon juice and raspberry compote. whisk to combine.": "",
+                "allow to cool and churn in ice cream churner till thick. store covered in freezer.": ""
+                
                 
             }
         ]
@@ -1795,25 +1787,29 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "refined flour": "250 gms",
+                "castor Sugar": "300 gms",
+                "Eggs": "2",
+                "cocoa powder": "15 gms",
+                "butter": "113 gms",
+                "vanilla essence": "5 gms",
+                "buttermilk": "240 ml",
+                "baking soda": "5 gms",
+                "red food colouring": "as required",
+                "cream cheese": "220 gms",
+                "mascarpone": "220 gms",
+                "icing sugar": "115 gms",
+                "whipped cream": "50 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "cream the butter and sugar. add the eggs and vanilla essence one by one till the sugar is dissolved.": "",
+                "sieve flour, cocoa powder,baking soda together. fold the dry ingredients and buttermilk alternating till incorporated. ": "",
+                "add the red food colouring till you achieve the desired colour. pour the batter in a greased cake tin. bake at 180c till done. insert a skewer to check.": "",
+                "for the icing, combine cream cheese, mascarpone and icing sugar and whip using a paddle attachment. when fluffy and thick, fold whipped cream .": "",
+                "when the cake is cooled, cut into 2. spread icing on top of the cut cake. add the another layer of cake on top and sprad the icing all over.": ""
+                
             }
         ]
     },
@@ -2766,7 +2762,7 @@ var dessert=[
                 "fresh yeast": "40 gms",
                 "bread improver": "20 gms",
                 "gluten": "40 gms",
-                "water": "1.6 litres"
+                "water": "1.7 litres"
                 
             }
         ],
@@ -3227,7 +3223,19 @@ var dessert=[
                 "kasuri methi powder": "1/4 tsp",
                 "melted butter": "1 tbsp",
                 "CHICKEN SHAMMI KEBAB": "",
-                "":""
+                "chicken mince":"250 gms",
+                "chane ki dal": "50 gms",
+                "red chillies": "4",
+                "ginger-garlic paste": "1/2 tbsp",
+                "bay leaf": "1-2",
+                "black cardamom": "2-3",
+                "chopped coriander": "1 tbsp",
+                "chopped mint": "1 tbsp",
+                "minced onion": "1",
+                "green chillies, finely chopped": "2",
+                "black peppercorns": "4",
+                "salt": "to taste",
+                "ghee": "3 tbsp"
             }
         ],
         "method": [
@@ -3238,7 +3246,10 @@ var dessert=[
                 "take hung yoghurt in a bowl. add salt, green paste, allspice, garam masala, mace, roasted cumin, kasuri methi powder and mustard oil. combine well.": "",
                 "allow the chicken to marinate in this masala overnight. skewere them in seekh and cook in tandoor till charred and cooked through. baste with melted butter on top.": "",
                 "CHICKEN SHAMMI KEBAB": "",
-                "":""
+                "Wash and soak chane ki daal for half an hour in a cooking vessel. Wash and grind the kheema in a mixer and transfer it to a cooking vessel.":"",
+                "Add minced onion, chopped dhania or pudina and green chilli pieces to it. Cook till water evaporates and the kheema is dry.":"",
+                "Now make 12 kheema balls and flatten them.": "",
+                "Fry them in ghee. Transfer them to a plate": ""
             }
         ]
     },
@@ -3302,25 +3313,26 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "idli batter": "150 gms",
+                "oil": "20 ml",
+                "mustard seeds": "1 tsp",
+                "broken red chillies": "2",
+                "chopped green chillies": "2",
+                "chopped curry leaves": "1 tsp",
+                "chopped ginger": "1 tsp",
+                "chopped shallots": "3 tbsp",
+                "urad dal": "1 tbsp",
+                "asafoetida": "pinch",
+                "ghee": "2 tbsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat oil in a pan. add mustard seeds, red chilies, green chillies, curry leaves, asafoetida, ginger and shallots. saute till softened.": "",
+                "put the sauteed mixture in the idli batter and add salt. mix properly.": "",
+                "heat paniyaram kadhai. add ghee and paniyaram batter. once golden on one side, turn the paniyaram other side using a toothpick.": "",
+                "cook on the other side till golden. insert toothpick to check whether cooked. take it out and serve hot with coconut chutney.": ""
+                
             }
         ]
     },
@@ -3330,25 +3342,27 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "lamb mince":"250 gms",
+                "chane ki dal": "50 gms",
+                "red chillies": "4",
+                "ginger-garlic paste": "1/2 tbsp",
+                "bay leaf": "1-2",
+                "black cardamom": "2-3",
+                "chopped coriander": "1 tbsp",
+                "chopped mint": "1 tbsp",
+                "minced onion": "1",
+                "green chillies, finely chopped": "2",
+                "black peppercorns": "4",
+                "salt": "to taste",
+                "ghee": "3 tbsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Wash and soak chane ki daal for half an hour in a cooking vessel. Wash and grind the kheema in a mixer and transfer it to a cooking vessel.":"",
+                "Add minced onion, chopped dhania or pudina and green chilli pieces to it. Cook till water evaporates and the kheema is dry.":"",
+                "Now make 12 kheema balls and flatten them.": "",
+                "Fry them in ghee. Transfer them to a plate": ""
             }
         ]
     },
@@ -3421,25 +3435,26 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour tortillas": "8",
+                "oil": "2 tbsp",
+                "onion, sliced": "1",
+                "bell peppers, sliced": "1/2 each",
+                "chopped garlic": "1 tsp",
+                "zucchini, sliced": "1/2 each",
+                "monterey jack cheese": "1 cup",
+                "ground cumin": "1 tsp",
+                "fresh coriander": "1/4 cup",
+                "tomato salsa": "1/2 cup",
+                "salt": "to taste"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Wrap tortillas in aluminum foil, and place in oven. Turn heat to 350 degrees F (175 degrees C). Bake for 15 minutes, or until thoroughly heated.": "",
+                "In a 10 inch skillet, heat oil over medium high heat. Add onions, red and green peppers, and garlic; stir to coat with oil. Cover, reduce heat to medium, and cook for 5 minutes.": "",
+                "Stir squash into vegetables. Stir in salsa, cumin, and salt. Cover, and cook for 5 minutes.": "",
+                "Spoon vegetable mixture evenly down the centers of warm tortillas, and sprinkle with cheese and cilantro. Roll up tortillas, and serve.": ""
+                
             }
         ]
     },
@@ -3449,25 +3464,31 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "beef steak": "1",
+                "onions, thicky sliced": "2",
+                "mozzrella cheese, grated": "100 gms",
+                "mustard mayonnaise": "2 tbsp",
+                "hot dog bun": "2",
+                "frozen french fries": "as required",
+                "oil": "to deep fry",
+                "COLESLAW": "",
+                "cabbage, finely shredded": "1 cups",
+                "carrot, finely shredded": "1/6 cup",
+                "mayonnaise": "2 tbsp",
+                "green onions, thinly sliced": "2",
+                "salt, pepper": "to taste"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "cut the beef steak into thin slices. using a mallet, flatten each piece into thin sheets.": "",
+                "apply salt, pepper to the thin pieces of steaks. heat oil in a large skillet.": "",
+                "shallow fry the thin steaks for a minute till well-browned on both sides.": "",
+                "heat oil in a wok. add the onions and saute till brown and caramelised.": "",
+                "slit the hot dog bun in half. toast the bun in salamander. apply mustard mayonnaise on top of the bun.": "",
+                "add the thin steaks and caramelised onions. put cheese on top and gratinate under the salamander till cheese is melted.": "",
+                "COLESLAW": "",
+                "take green onions, cabbage and carrots in a bowl. add mayonnaise, salt and pepper. toss well.":""
             }
         ]
     },
@@ -3521,25 +3542,35 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "mushrooms": "3 kg",
+                "ghee": "20 ml",
+                "turmeric powder": "1 tsp",
+                "finely chopped onion": "2",
+                "finely chopped green chillies": "3",
+                "finely chopped ginger": "1 tbsp",
+                "finely chopped garlic": "1 tbsp",
+                "Finely chopped coriander": "1 tbsp",
+                "red chilli powder": "1 tsp",
+                "coriander powder": "1 tsp",
+                "cumin powder": "1 tsp",
+                "salt": "to taste",
+                "kewra water": "few drops",
+                "fried cashewnuts": "15",
+                "roasted poppy seeds": "1 tbsp",
+                "garam masala powder": "1/2 tsp",
+                "butter": "3 tbsp",
+                "mozzarella cheese, grated": "1 cup"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "wash the mushrooms. bring water to a boil in a container. add salt and turmeric.": "",
+                "blanch the mushrooms for a minute and drain. pat dry the mushrooms and pass through a mincer atleat 2 times.": "",
+                "heat ghee in a pan. add green chillies, ginger, garlic, onions. saute. add the dry masalas.": "",
+                "add the mushroom mince and salt. cook till the moisture evaporates.": "",
+                "meanwhile, make a thick paste of fried cashewnuts and poppy seeds. add to the mushroom mixture.": "",
+                "when the moisture has evaporared completely, add butter and mix properly. take it out in another container. add coriander, kewra and garam masala.": "",
+                "allow the mixture to cool and shape into small tikkis. stuff the tikki with mozzrella cheese. shallow fry the tikkis till golden on both sides. serve with mint chutney.":""
             }
         ]
     },
@@ -3549,25 +3580,30 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "puff pastry vol-au-vents": "as required",
+                "button mushrooms, sliced": "120 gms",
+                "wild mushrooms": "10",
+                "chopped garlic": "1 clove",
+                "chopped onion": "15 gms",
+                "chopped celery": "15 gms",
+                "chopped leeks": "15 gms",
+                "white wine": "15 ml",
+                "salt, pepper": "to taste",
+                "olive oil": "10 ml",
+                "cream": "2 tbsp",
+                "thyme": "few sprigs",
+                "butter": "10 gm",
+                "chives": "for garnish"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Put wild mushrooms in water to hydrate.": "",
+                "Put butter in a pan with olive oil till it melts. Add onions, leeks and celery, thyme and a clove of grated garlic.": "",
+                "Add the button mushrooms. Add a pinch of salt and pepper. ": "",
+                "Add the white wine and reduce all the way till all the liquid is evaporated. Add the cream to the mix reduce to a thick consistency. ": "",
+                "fill the vol-au-vents with the mushroom mixture and garnish with chives.": ""
+               
             }
         ]
     },
@@ -3644,25 +3680,25 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "medium prawns, cooked": "20",
+                "iceberg lettuce, cleaned and shredded": "1 head",
+                "mayonnaise": "60 ml",
+                "tomato ketchup": "25 ml",
+                "worcestershire sauce": "10 ml",
+                "lemon juice": "5 ml",
+                "tobasco sauce": "few drops",
+                "salt, pepper": "to taste",
+                "hard boiled eggs, cut in wedges": "2",
+                "chives": "for garnish"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "to make the cocktail dressing, combine mayonnaise, tomato ketchup, tobasco, lemon juice and worcestershire sauce, salt and pepper.": "",
+                "take a martini glass, add iceberg lettuce at the bottom. add little dressing on lettuce.": "",
+                "coat the prawns in the dressing and put on top of the lettuce. put wedeges of hard boiled eggs.": "",
+                "garnish with chive and serve immediately": ""
+               
             }
         ]
     },
@@ -3672,25 +3708,64 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
+                "SHRIMP PICKLE": "",
+                "shrimps, cleaned and deveined": "3 kg",
+                "kashmiri chilli powder": "100 gms",
+                "turmeric powder": "pinch",
+                "coriander powder": "50 gms",
+                "salt": "to taste",
+                "ginger-garlic paste": "400 gms",
+                "gingelly oil": "to deep fry",
+                "mustard seeds": "2 tbsp",
+                "fenugreek seeds": "1 tsp",
+                "dried red chillies": "6-8",
+                "curry leaves": "few",
+                "chopped ginger": "3 tbsp",
+                "chopped garlic": "3 tbsp",
+                "chopped green chillies": "2 tbsp",
+                "kashmiri chilli powder": "4 tbsp",
+                "coriander powder": "2 tbsp",
+                "turmeric powder": "1 tsp",
+                "asafoetida": "pinch",
+                "rice vinegar": "600 ml",
+                "roasted fenugreek powder": "1 tsp",
+                "LEMON PICKLE": "",
+                "Lemons": "2 kg",
+                "red chilli powder": "4 kg",
+                "coriander powder": "4 kg",
+                "turmeric powder": "50 gms",
                 "RAW MANGO PICKLE": "",
-                "": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Raw mangoes, roughly chopped": "2 kg",
+                "salt": "to taste",
+                "asafoetida": "large pinch",
+                "coriander powder": "50 gms",
+                "kashmiri chilli powder": "100 gms",
+                "rice vinegar": "600 ml",
+                "gingelly oil": "1 litre",
+                "mustard seeds": "1 tbsp",
+                "fenugreek seeds": "1 tsp",
+                "broken red chillies": "7-8",
+                "curry leaves": "few",
+                "roasted fenugreek powder": "1 tsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "marinate the shrimps with kashmiri chilli powder, salt, turmeric powder, coriander powder and ginger-garlic paste overnight.": "",
+                "heat gingelly oil in a kadhai. deep fry the shrimps till they are 3/4th done. place them in a a colander": "",
+                "strain the gingelly oil used for frying. heat again in another pan.": "",
+                "add mustard seeds, fenugreek seeds, dried red chilli, curry leaves, ginger, garlic, green chillies, coriander powder, turmeric powder , red chilli powder, asafoetida.": "",
+                "add the fried shrimps and rice vinegar. cook on slow flame till shrimps are cooked. add roasted fenugreek powder. ": "",
+                "LEMON PICKLE": "",
+                "Wash well pat dry lemons and cut them in 4 pieces/wedges. place them in a large bowl and add salt.":"",
+                "Add red chili powder and turmeric powder.": "",
+                "Now mix well with hands to mix all the spices with lemon and all lemon wedges is coated with spices.": "",
+                "Transfer prepared pickle in a large jar/ glass bottle or pickle jar, you should fill 3/4 of jar and not full as lemon and salt will release water later so don't fill jar until full.":"",
+                "Keep the jar under direct Sun light for 8-10 days ie everyone morning keep jar under Sun light and evening keep jar in shape inside house.": "",
+                "RAW MANGO PICKLE":"",
+                "mix raw mangoes, salt, asafoetida, coriander powder, red chilli powder together. add rice vinegar and mix well.":"",
+                "heat gingelly oil in a pan. add mustard seeds, fenugreek seeds, dried red chillies, curry leaves and asafoetida.": "",
+                "pour the hot oil over the mangoes. add the roasted fenugreek powder. keep the pickle in glass jar in sunlight for 2 days. ":""
             }
         ]
     },
@@ -3700,25 +3775,60 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "HARA BHARA KEBAB": "",
+                "Spinach leaves, washed": "4 bunches",
+                "frozen green peas": "250 gms",
+                "oil": "2 tsp",
+                "ghee": "2 tsp",
+                "cumin seeds": "1 tsp",
+                "chopped ginger": "1 tbsp",
+                "chopped green chillies": "1 tsp",
+                "chopped garlic": "1 tbsp",
+                "boiled potatoes, grated": "4",
+                "salt": "to taste",
+                "roasted cumin powder": "1 tsp",
+                "chaat masala": "1 tbsp",
+                "semolina": "200 gms",
+                "oil": "to deep fry",
+                "flour": "",
+                "STUFFING":"",
+                "khoya, grated": "100 gms",
+                "chopped cashewnuts": "10 gms",
+                "chopped rainis": "10 gms",
+                "chopped ginger": "1 tsp",
+                "chopped green chillies": "1/2 tsp",
+                "chana dal, boiled and drained": "2 tbsp",
+                "dry mango powder": "1/2 tsp",
+                "chaat masala": "1/2 tsp",
+                "salt": "to taste",
+                "KACHUMBER SALAD": "",
+                "onion. diced": "1",
+                "tomato, diced": "1",
+                "cucumber, diced": "1",
+                "capsicum, diced": "1/2",
+                "radish, diced": "1/2",
+                "lemon juice": "1 tbsp",
+                "salt": "to taste",
+                "coriander leaves, chopped": "1 tsp",
+                "green chillies, chopped": "1 tsp",
+                "carrot, diced": "1"
+
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "blanch the spinach in salted boiling water for 30 seconds and shock in ice cold water. squeeze out moisture from spinach and blend into thick paste.": "",
+                "blanch the green peas and drain. blend into a coarse paste.": "",
+                "heat oil and ghee in a pan. add cumin, green chillies, ginger, garlic and saute. ": "",
+                "add spinach puree and cook till moisture evaporates. add green peas paste and continue to cook. ": "",
+                "add mashed potatoes, salt, cumin powder and chaat masala. take in another container. allow to cool.": "",
+                "for the stuffing, mix all the ingredients together. ": "",
+                "shape the hara kebab into small tikkis and stuff the khoya mixture inside.": "",
+                "make a batter of flour, salt and water. dip the tikkis in the batter and then crumb with semolina.": "",
+                "deep fry the kebab in hot oil till golden and crisp.": "",
+                "KACHUMBER SALAD": "",
+                "Mix all the vegetables. Add chopped green chillies, chopped coriander leaves, lemon juice and salt. Toss well. Arrange in a salad bowl and serve cold. ":""
             }
         ]
     },
@@ -3756,53 +3866,54 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "baguette bread": "1",
+                "Smoked salmon": "100 gms",
+                "cream cheese, softened": "120 gms",
+                "lemon juice": "1 tbsp",
+                "salt": "to taste",
+                "capers": "12",
+                "dill leaves": "for garnish"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "cut the baguette into thin slices. bake the crostini under salamander till golden on both sides.": "",
+                "mix cream cheese, salt and lemon juice.": "",
+                "place smaked salmon on crostini and put a quenelle of cream cheese on top.": "",
+                "place caper along the cream cheese and garnish with dill leaves.": ""
+                
             }
         ]
     },
     {
-        "src": "/images/ENTREE/SPICED PUMPKIN SOUP WITH FLAVOURED.jpg",
+        "src": "/images/ENTREE/CURRIED PUMPKIN SOUP.jpg",
         "caption": "SPICED PUMPKIN SOUP WITH FLAVOURED",
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "pumpkin, roughly chopped": "2 cups",
+                "onion, sliced": "2 medium",
+                "ginger, chopped": "1/2 tsp",
+                "garlic, chopped": "1 tsp",
+                "curry powder": "2 tsp",
+                "cumin seeds": "1/2 tsp",
+                "Curry leaves": "few",
+                "oil": "1 tbsp",
+                "vegetable stock": "2 cups",
+                "garam masala powder": "1/2 tsp",
+                "coriander leaves, chopped": "2 tsp",
+                "salt, pepper": "to taste"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "In a pan or pressure cooker heat oil, add cumin seeds and let it crack.": "",
+                "Add ginger and garlic and sauté.  Add onion and sauté until light brown. Add pumpkin pieces and sauté for 2 minutes.": "",
+                "Add curry powder and mix well. Now add vegetable stock, curry leaves, salt and give a stir.": "",
+                " Close pan with lid and cook for 10-15 minutes or until pumpkin gets cooked or pressure cook for 1 whistle.": "",
+                "Once pumpkin cools down, puree it in mixer or blender.  Bring it back to pan, add vegetable stock or as required and simmer for 3-4 minutes, adjust salt if required. ": "",
+                "Add chopped cilantro and garam masala powder. take off flame and serve hot. ": ""
             }
         ]
     },
@@ -3841,24 +3952,37 @@ var dessert=[
         "ingredients": [
             {
                 "THAI FISH CAKES": "",
-                "fish fillet": "250 gms",
-                "Egg": "3",
-                "fish sauce": "250gms",
-                "thai red chilli ": "450 gms",
-                "kaffir lime leaf, chopped": "15 gms",
-                "thai red curry paste": "7.5 gms",
-                "green beans, chopped": "125 gms",
-                "s": "125 gms"
+                "fish fillet, cut in small pieces": "500 gms",
+                "Egg": "1",
+                "fish sauce": "1 tsp",
+                "thai red chilli, deseeded and chopped ": "2",
+                "kaffir lime leaf, chopped": "1",
+                "thai red curry paste": "1 tbsp",
+                "lemongrass, tender part finely chopped": "1/2",
+                "green beans, finely chopped": "125 gms",
+                "corinader, chopped": "2 tsp",
+                "sugar": "1 tsp",
+                "oil": "2 tbsp",
+                "CUCUMBER RELISH": "",
+                "cucumber": "1",
+                "mint, chopped": "1 tsp",
+                "coriander, chopped": "1 tsp",
+                "thai red chilli, deseeded and chopped": "1/2",
+                "lemon juice": "1 tbsp",
+                "shallots, finely sliced": "1",
+                "castor sugar": "2 tsp",
+                "plum sauce": "as required"
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "place fish, egg, fish sauce, curry paste, lemongrass, coriander, kaffir lime, red chilli, sugar and salt in food processor.": "",
+                "blend till little smooth and place in a bowl. stir green beans and mix. ": "",
+                "make small cakes and shallow fry in oil till golden browned and fish is cooked through.": "",
+                "CUCUMBER RELISH": "",
+                "Deseed the cucumber and quarter it. slice diagonally and place in a bowl.": "",
+                "add red chilli, coriander, mint, shallot, sugar, salt and lemon juice. mix properly and toss well.": ""
             }
         ]
     },
@@ -3896,25 +4020,24 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "ripe tomatoes": "4-5",
+                "toor dal": "4 tbsp",
+                "rasam masala": "1 tsp",
+                "salt": "to taste",
+                "asafoetida": "pinch",
+                "mustard seeds": "1/2 tsp",
+                "curry leaves": "few",
+                "coriander leaves, chopped": "few"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "cook the toor dal and mash well.": "",
+                "cut the tomatoes. add to it 1/4 litre of water, salt, rasam masala and asafoetida and boil.": "",
+                "after 10 minutes, add the cooked dal. when the rasam froths up, add curry leaves and coriander leaves.": "",
+                "season with fried mustard seeds and serve hot.": ""
+               
             }
         ]
     },
@@ -3924,25 +4047,41 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "RAW MANGO FOCACCIA": "",
+                "refined flour": "2 kg",
+                "salt": "40 gms",
+                "sugar": "50 gms",
+                "fresh yeast": "60 gms",
+                "olive oil": "100 ml",
+                "gluten": "40 gms",
+                "bread improver": "20 gms",
+                "water": "1.4 litres",
+                "raw mango pickle": "5 tbsp",
+                "TURMERIC CIABATTA": "",
+                "flour": "2 kg",
+                "Turmeric powder": "1 tsp",
+                "salt": "40 gms",
+                "fresh yeast": "40 gms",
+                "bread improver": "20 gms",
+                "gluten": "40 gms",
+                "water": "1.7 litres"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix flour, salt, sugar, water, yeast, bread improver and gluten and knead . ": "",
+                "when the dough starts to come together, add the olive oil and continue to knead till smooth, shiny and elastic dough.": "",
+                "place the dough on a greased tray and spread the dough evenly over the tray using oiled fingers. add the raw mango pickle and spread over the dough.": "",
+                "allow the dough to prove for about 45 minutes. bake in the oven at 230c for about 16 minutes or till done. apply oil over the surface.": "",
+                "allow the bread to cool for a while and cut in small pieces.": "",
+                "TURMERIC CIABATTA": "",
+                "mix all the ingredients and knead on high speed. when the dough appears smooth, shiny , take it out. it should be extremely sodt like stretchy batter.": "",
+                "invert a baking tray and dust with flour. put the dough with floured hands on the floured side of tray.": "",
+                "dust flour on top of the dough and stetch it evenly over the tray.": "",
+                "allow to prove for 90 minutes.": "",
+                "Using a dough scraper dusted with flour, cut the dough and shape into small slippers and place on floured tray.": "",
+                "allow to prove for 60 minutes. bake in the oven at 220c for 28 minutes with steam.": "",
+                "allow to dry for 7-8 minutes. ciabatta should be light and sound hollow from inside.": ""
             }
         ]
     },
@@ -3980,30 +4119,36 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chopped cabbage": "125 gms",
+                "chopped carrots": "125 gms",
+                "chopped beans": "125 gms",
+                "chopped onion": "2",
+                "chopped garlic": "1 tsp",
+                "grated cauliflower": "125 gms",
+                "oil": "2 tsp",
+                "sugar": "10 gms",
+                "salt": "to taste",
+                "black pepper powder": "1 tsp",
+                "sesame oil": "1 tsp",
+                "soya sauce": "1 tbsp",
+                "ginger, grated": "2 tsp",
+                "coriander leaves, chopped": "2 tsp",
+                "green onions, chopped": "3 tsp",
+                "wonton wrappers": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat oil in a pan. add chopped garlic,ginger, onions. saute. add the vegetables and salt. saute for a while till they soften.": "",
+                "add sesame oil, sugar, soya sauce, coriander, green onions, black pepper. mix properly and allow the mixture to cool. ":"",
+                "stuff the mixture in wonton wrappers and shape into dimsums.": "",
+                "heat a steamer. place banana leaf. apply sesame oil on top.": "",
+                "place the dimsums on top of banana leaf in the steamer and steam till cooked.": "",
             }
         ]
     },
     {
-        "src": "/images/MAINS/SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL.jpg",
+        "src": "/images/MAINS/SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPPLE SALSA AND CHILLI OIL.jpg",
         "caption": "SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL",
         "categ": "ENTREE",
         "ingredients": [
@@ -4064,25 +4209,49 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "corn tortillas": "4",
+                "onion, chopped": "1",
+                "bell peppers, diced": "1/2 each",
+                "tomatoes, chopped": "2",
+                "mushrooms, diced": "100 gms",
+                "spinach, chopped": "1/2 bunch",
+                "jalapenos, chopped": "15 gms",
+                "coriander, chopped": "15 gms",
+                "cumin powder": "1 tsp",
+                "salt, pepper": "to taste",
+                "monterey jack cheese, grated": "150 gms",
+                "TOMATO SALSA": "",
+                "ripe tomatoes": "4",
+                "jalapenos, chopped": "1 tsp",
+                "onion, finely chopped": "1 small",
+                "coriander leaves, chopped": "1 tbsp",
+                "lemon juice": "1 tbsp",
+                "salt, pepper": "to taste",
+                "GUACAMOLE": "",
+                "ripe avocados": "2",
+                "onion, chopped": "1/2",
+                "tomatoes, deseeded and chopped": "1/2",
+                "coriander, chopped": "1 tsp",
+                "lemon juice": "1 tbsp",
+                "salt, pepper": "to taste",
+                "SOUR CREAM": "as required"
+
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "heat oil in a pan. add chopped garlic and onions. saute.": "",
+                "add the bell peppers, mushrooms and tomatoes. add salt and saute.": "",
+                "add spinach and cumin powder and saute till softened. add jalapenos, coriander and season with salt and pepper.": "",
+                "take 1 corn tortilla and place the mixture on top of the tortilla and spread evenly. put grated cheese on top and cover with another tortilla.": "",
+                "heat little oil in a pan. put the tortilla in the pan and fry the tortillas on both sides till golden brown.": "",
+                "TOMATO SALSA": "",
+                "cut a 'x' mark on the bottom of tomatoes and blanch in salted boiling water for 10 seconds and shock in ice cold water.":"",
+                "peel the tomatoes and deseed them. chop them and place in a bowl. mix onion, jalapeno, coriander, salt, pepper and lemon juice. toss well.":"",
+                "GUACAMOLE":"",
+                "Cut avocados in half. Remove seed. Scoop out avacado from the peel, put in a mixing bowl. Using a fork, roughly mash the avocado.":"",
+                "Add the chopped onion, cilantro, lemon juice, salt and pepper and mash some more. add tomatoes and mix well.":""
             }
         ]
     }
