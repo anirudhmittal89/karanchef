@@ -200,31 +200,6 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/DESSERTS/BANOFEE PIE 2.jpg",
-        "caption": "BANOFEE PIE",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
-                "tart base": "mentioned in chocolate tart",
-                "Sugar": "200 gms",
-                "cream": "120 ml",
-                "butter": "80 gms",
-                "bananas, thickly sliced": "7-8",
-                "whipped cream": "as required",
-                "dark chocolate, grated": "for garnish"
-            }
-        ],
-        "method": [
-            {
-                "prepare the tart and bake till fully done.": "",
-                "Heat sugar on moderately high heat in a heavy-bottomed saucepan. As the sugar begins to melt, stir vigorously with a whisk or wooden spoon": "",
-                "As soon as all of the sugar crystals have melted (the liquid sugar should be dark amber in color), immediately add the butter to the pan. Whisk until the butter has melted.": "",
-                "Once the butter has melted, take the pan off the heat. Count to three, then slowly add the cream to the pan and continue to whisk to incorporate.": "",
-                "Whisk until caramel sauce is smooth. Let cool in the pan for a couple minutes. fill half of the tart shells with caramel sauce. add the bananas on top. pipe whipped cream on top of bananas and garnish with grated chocolate.": ""
-            }
-        ]
-    },
-    {
         "src": "/images/DESSERTS/BANOFEE PIE.jpg",
         "caption": "BANOFEE PIE",
         "categ": "DESSERTS",
@@ -1588,30 +1563,7 @@ var dessert=[
             }
         ]
     },
-    {
-        "src": "/images/DESSERTS/PAIN-AU-CHOCOLAT 2.jpg",
-        "caption": "PAIN-AU-CHOCOLAT",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
-                "croissant dough": "as required",
-                "chocolate": "as required",
-                "Egg wash": "as required"
-               
-            }
-        ],
-        "method": [
-            {
-                "sheet the croissant dough to 3.5 mm thickness adn place on a floured bench.": "",
-                "cut out rectangles of 10cm length and 8cm width.": "",
-                "cut chocolate bars of 6cm by 1cm.": "",
-                "put the chocolate bar on the base of width. fold the dough on the bar.seal the dough by pressing against it.": "",
-                "place another chocolate bar on the edge of fold. roll it over, making sure the crease comes in centre of the bottom of pain-au-chocolat.": "",
-                "put the dough base side down on a tray. prove for 45 minutes and bake in oven at 22oc for about 16 minutes with steam till golden brown.": "",
-                "allow to dry for 5 minutes.": ""
-            }
-        ]
-    },
+    
     {
         "src": "/images/DESSERTS/PALMIERS.jpg",
         "caption": "PALMIERS",
@@ -1630,26 +1582,6 @@ var dessert=[
                 "Slice crosswise into 3/8-inch slices. Roll over each palmier with a rolling pin to lightly flatten, and sprinkle the center of each with more sugar. Place palmiers 2 inches apart on water-sprayed baking sheets. Freeze for at least 1 hour.": "",
                 "Preheat oven to 450 degrees. Bake palmiers 4 to 6 minutes, until golden on the underside.": "",
                 "Flip with a spatula, pressing down to flatten if palmiers seem to be unrolling. Bake 2 to 4 minutes more, watching carefully, until golden and crisp. Transfer to a cooling rack and cool completely.": ""
-                
-            }
-        ]
-    },
-    {
-        "src": "/images/DESSERTS/PASTRY DISPLAY 2.jpg",
-        "caption": "PASTRY DISPLAY",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
-                
-            }
-        ]
-    },
-    {
-        "src": "/images/DESSERTS/PASTRY DISPLAY.jpg",
-        "caption": "PASTRY DISPLAY",
-        "categ": "DESSERTS",
-        "ingredients": [
-            {
                 
             }
         ]
@@ -3002,6 +2934,34 @@ var dessert=[
         ]
     },
     {
+        "src": "/images/MAINS/LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA.JPG",
+        "caption": "LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA",
+        "categ": "MAINS",
+        "ingredients": [
+            {
+                "Butter": "500 gms",
+                "Sugar": "250 gms",
+                "Eggs": "3",
+                "Almond meal": "250gms",
+                "Dried sponge crumbs": "450 gms",
+                "Baking powder": "15 gms",
+                "Cinnamon powder": "7.5 gms",
+                "Flour": "125 gms",
+                "Strawberry jam": "125 gms"
+            }
+        ],
+        "method": [
+            {
+                "Cream the butter and sugar together": "",
+                "Add the eggs one by one till sugar is dissolved": "",
+                "Fold all the dry ingredients": "",
+                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
+                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
+                "Bake at 180 degress celcius for 30 minutes": ""
+            }
+        ]
+    },
+    {
         "src": "/images/ENTREE/FISH VARUVAL WITH RAW MANGO AND CAPSICUM CHUTNEYS.JPG",
         "caption": "FISH VARUVAL WITH RAW MANGO AND CAPSICUM CHUTNEYS",
         "categ": "ENTREE",
@@ -3888,7 +3848,7 @@ var dessert=[
     },
     {
         "src": "/images/ENTREE/CURRIED PUMPKIN SOUP.jpg",
-        "caption": "SPICED PUMPKIN SOUP WITH FLAVOURED",
+        "caption": "CURRIED PUMPKIN SOUP",
         "categ": "ENTREE",
         "ingredients": [
             {
@@ -4148,7 +4108,7 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/MAINS/SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPPLE SALSA AND CHILLI OIL.jpg",
+        "src": "/images/MAINS/SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL.jpg",
         "caption": "SEAFOOD APPETIZER - PEPPER FRIED PRAWNS , CHETTINAD SPICED CRAB CAKE , CRACKLING SPINACH , PINEAPLLE SALASA AND CHILLI OIL",
         "categ": "ENTREE",
         "ingredients": [
@@ -4895,31 +4855,76 @@ var main=[
     },
     {
         "src": "/images/MAINS/KADHAI VEGETABLES , STUFFED PANEER , GRILLED UPMA AND MAKHANI SAUCE.jpg",
-        "caption": "KADHAI VEGETABLES , STUFFED PANEER , GRILLED UPMA AND MAKHANI SAUCE",
+        "caption": "ACHARI PANEER STEAK WITH KADHAI VEGETABLES , GRILLED UPMA AND MAKHNI SAUCE",
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "ACHARI PANEER STEAK":"",
+                "Cottage cheese": "250 gms",
+                "khoya": "100 gms",
+                "chopped coriander": "2 tsp",
+                "chopped green chillies": "1 tsp",
+                "chopped ginger": "1 tsp",
+                "chopped almonds": "2 tsp",
+                "chopped raisins": "2 tsp",
+                "hung yoghurt": "100 gms",
+                "kashmiri chilli powder": "15 gms",
+                "kasuri methi": "5 gms",
+                "garam masala": "5 gms",
+                "mustard oil": "20 ml",
+                "roasted cumin powder": "1 tsp",
+                "allspice powder": "1 tsp",
+                "cumin seeds " :"1/2 tsp",
+                "mustard seeds" :"1/2 tsp",
+                "fenugreek seeds" :"1/4 tsp",
+                "fennel seeds": "1/2 tsp",
+                "nigella seeds": "1/2 tsp",
+                "mango pickle pulp, pureed" :"2 tsp",
+                "kadhai vegetables":"",
+                "carrot, cut in cubes": "25 gms",
+                "french beans, cut in small pieces": "25 gms",
+                "cauliflower florets, blanched": "25 gms",
+                "bell peppers, cut in cubes": "25 gms",
+                "chopped onion": "150 gms",
+                "chopped tomatoes": "250 gms",
+                "ginger-garlic paste": "1 tsp",
+                "kadhai masala": "2 tsp",
+                "chopped coriander": "1 tsp",
+                "cumin seeds": "1/2 tsp",
+                "oil": "2 tbsp",
+                "salt": "to taste",
+                "grilled upma":"",
+                "semolina": "100 gms",
+                "oil":"1 tbsp",
+                "mustard seeds": "1/2 tbsp",
+                "chopped green chillies": "1/2 tbsp",
+                "urad dal": "1/2 tbsp",
+                "chopped curry leaves": "1 tbsp",
+                "chopped ginger": "1 tsp",
+                "turmeric powder": "1/2tsp",
+                "salt": "to taste",
+                "milk": "200 ml",
+                "chopped coriander": "1 tsp",
+                "water": "100 ml"
+
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "ACHARI PANEER STEAK": "",
+                "take a big piece of paneer and make a slit in the centre. make sure not to ut through entirely.": "",
+                "make marination using hung yoghurt, salt, chilli powder, kasuri methi, garam masala, allspice powder, cumin powder.  ": "",
+                "heat mustard oil in a pan and add all the 5 seeds and add to the marination. apply the marination over paneer and leave for 12 hours.": "",
+                "make the stuffing by mixing grated khoya, salt, chillies, ginger, almond, raisin , coriander. stuff the paneer with the stuffing and shallow fry the steak till golden on both sides.": "",
+                "kadhai vegetables": "",
+                "heat oil in a pan. add cumin seeds. add the onions and saute till golden brown. add the ginger-garlic paste and the kadhai masala.":"",
+               "add the tomatoes and salt and cook till fully cooked. add the vegetables and cook till done. finish with coriander.":"",
+               "grilled upma":"",
+                "heat oil in a pan. add the mustard seeds, urad dal, ginger, green chilli and curry leaves. add turmeric and salt.":"",
+                "add milk and water and bring to a boil. add the semoilna and cook on low flame. add coriander leaves and set the mixture in a greased thali. ":"",
+                "take a round cutter and shallow fry on both sides.":""
             }
-        ]
+            ]
     },
     
     {
@@ -5022,34 +5027,7 @@ var main=[
             }
         ]
     },
-    {
-        "src": "/images/MAINS/LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA.JPG",
-        "caption": "LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
-            }
-        ],
-        "method": [
-            {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
-            }
-        ]
-    },
+    
     {
         "src": "/images/MAINS/MADRAS LAMB CURRY WITH APPAM.JPG",
         "caption": "MADRAS LAMB CURRY WITH APPAM",
