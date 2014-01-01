@@ -4,14 +4,8 @@ each data in ob
           img.lazy(src="#{data.src}",alt="#{data.caption}",style="width: 100%;height:200px;padding: 0px;margin:0 auto")
           p #{data.caption}
           div.y-ingredients
-            | parmesan, sage, olive oil, kosher salt, unsalted butter, butternut squash and 
-            span.y-truncated.popup-card
-              olive oil, sage, parmesan, kosher salt, butternut squash, unsalted butter and strozzapreti
-          div.aspect-bar  
-            span.aspect-icon
-              span.clock.y-icon 
-                i.icon-time 
-                span.numbers 25 
-                  span.black mins,
-                span.numbers 7 
-                  span.black ingredient
+              | #{data.shortIngredients} 
+            div.aspect-bar  
+              span.aspect-icon
+                  span.numbers #{data.numIngredients} 
+                    span.black ingredients

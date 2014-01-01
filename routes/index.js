@@ -6127,6 +6127,18 @@ if(type=="entree"){
     title="Entree Recipes";
 }
 
+for(each in ob){
+    var tempIng="";
+    var thisIngredients=ob[each]["ingredients"];
+    var numIng=0;
+    for(eachIngredients in thisIngredients[0]){
+            tempIng+=eachIngredients+",";
+            numIng++;
+    }
+    ob[each]["shortIngredients"]=tempIng;
+    ob[each]["numIngredients"]=numIng;
+}
+
 var pagetitle="Chef Karan Mittal | "+title;
   res.render('recipes', {ob:ob,title:title,dessertMenu:true,pagetitle:pagetitle});
 };
