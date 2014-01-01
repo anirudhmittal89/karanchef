@@ -2680,21 +2680,6 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/ENTREE/COCONUT AND MINT , COCONUT , ONION AND TOMATO , CAPSICUM , CORIANDER CHUTNEY.jpg",
-        "caption": "COCONUT AND MINT , COCONUT , ONION AND TOMATO , CAPSICUM , CORIANDER CHUTNEY",
-        "categ": "ENTREE",
-        "ingredients": [
-            {
-                "Coming soon": ""
-            }
-        ],
-        "method": [
-            {
-                "Coming soon": ""
-            }
-        ]
-    },
-    {
         "src": "/images/ENTREE/COCONUT CHUTNEY.JPG",
         "caption": "COCONUT CHUTNEY",
         "categ": "ENTREE",
@@ -2889,21 +2874,7 @@ var dessert=[
             }
         ]
     },
-    {
-        "src": "/images/MAINS/LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA.JPG",
-        "caption": "LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA",
-        "categ": "MAINS",
-        "ingredients": [
-            {
-                "coming soon": ""
-            }
-        ],
-        "method": [
-            {
-                "coming soon": ""
-            }
-        ]
-    },
+    
     {
         "src": "/images/ENTREE/FISH VARUVAL WITH RAW MANGO AND CAPSICUM CHUTNEYS.JPG",
         "caption": "FISH VARUVAL WITH RAW MANGO AND CAPSICUM CHUTNEYS",
@@ -4016,6 +3987,21 @@ var dessert=[
     {
         "src": "/images/MAINS/SEAFOOD APPETIZER - PRAWN AND CORN POTLI , PEPPER FRIED SOFT SHELL CRAB AND PATRANI CRUSTED FISH.JPG",
         "caption": "SEAFOOD APPETIZER - PRAWN AND CORN POTLI , PEPPER FRIED SOFT SHELL CRAB AND PATRANI CRUSTED FISH",
+        "categ": "ENTREE",
+        "ingredients": [
+            {
+                "coming soon": ""
+            }
+        ],
+        "method": [
+            {
+                "coming soon": ""
+            }
+        ]
+    },
+    {
+        "src": "/images/MAINS/LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA.JPG",
+        "caption": "LAMB RILLETE ON FENUGREEK PAPDI , CHICKEN RECHADO SKEWERS , MASALA CHEESE CRUTED CHICKEN TIKKA AND CHILLI COCONUT PANACOTTA",
         "categ": "ENTREE",
         "ingredients": [
             {
