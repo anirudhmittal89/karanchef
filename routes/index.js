@@ -2222,12 +2222,60 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Coming soon": ""
+                "YOGHURT PANACOTTA": "",
+                "double cream": "240 ml",
+                "milk": "50 ml",
+                "sugar": "30 gms",
+                "gelatin sheet": "3 gms",
+                "thick yoghurt": "170 gms",
+                "DEHYDRATED STRAWBERRY MERINGUE": "",
+                "strawberry puree": "300 gms",
+                "water": "180 ml",
+                "egg white powder": "12 gms",
+                "sugar": "200 gms",
+                "gelatin sheets": "12 gms",
+                "BASIL ICE CREAM":"",
+                "milk": "585 ml",
+                "cream": "175 ml",
+                "mlk powder": "41 gms",
+                "sugar": "117 gms",
+                "liquid glucode": "35 gms",
+                "honey": "33 ml",
+                "basil": "40 gms",
+                "OAT MEAL CRUMBLE":"",
+                "flour": "225 ml",
+                "brown sugar": "225 gms",
+                "butter": "225 gms",
+                "salt": "5 gms",
+                "oats": "160 gms",
+                "cinnamon powder": "4 gms",
+                "STRAWBERRY GEL":"",
+                "strawberry puree": "125 gms",
+                "lemon juice": "15 ml",
+                "gel cold cream": "5.85 gms"                
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "YOGHURT PANACOTTA": "",
+                "heat the cream, milk and sugar. dissolve the gelatin in ice water and add to the cream. mix yoghurt and whisk well.": "",
+                "refrigerate till set.": "",
+                "DEHYDRATED STRAWBERRY MERINGUE": "",
+                "blend the egg white powder and water till well blended. place the mixture in small dough machine and whisk while slowly incorparating sugar.":"",
+                "add gelatin sheets in ice water. heat little strawberry puree and dissolve soaked gelatin it. add the entire strawberry puree in the meringue.":"",
+                "Whisk till soft peaks. Pipe on OHP sheets. Freeze for one huor":"",
+                "Dehydrate the meringue in the dehydrator at 68 degrees celcius till fluffy and crisp from outside":"",
+                "Place in container with butter paper and freeze immediately. Before serving, place in dehydrator for one hour":"",
+                "BASIL ICE CREAM":"",
+                "Blanch the basil in salted boiling water and shock in ice cold water. Chop the basil fine.":"",
+                "Blend the basil with cream and mild, heat till 40 degrees celcius":"",
+                "Mix in all the other ingredients and heal till 85 degrees celcius. Cool the moxture over ice-berth":"",
+                "Churn the ice-crea with dry ice or liquid nitrogen or in an ice crean churner and place in the freezer":"",
+                "OATMEAL CRUMBLE":"",
+                "Toast the oats in a pan till little color changes and aroma intensifies. Cool a little and mix flour salt and brown sugar. Cut cold butter in cubes and crumble with dry mixture":"",
+                "Place on a sil pat and bake at 160 degrees celcius till golden brown":"",
+                "STRAWBERRY GEL":"",
+                "Blend all the ingredients and store in fridge.":"",
             }
         ]
     },
@@ -3960,12 +4008,61 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Coming soon": ""
+                "BEETROOT EMULSION": "",
+                "beetroot": "50 gms",
+                "olive oil": "10 ml",
+                "salt": "to taste",
+                "SOUS-VIDE BEETROOT": "",
+                "beetroot": "60 gms",
+                "orange juice": "30 ml",
+                "BEETROOT CHIPS": "",
+                "beetroot": "75 gms",
+                "oil": "to deep fry",
+                "BEETROOT RAVIOLI": "",
+                "beetroot": "150 gms",
+                "walnuts": "50 gms",
+                "BEETROOT POACHED IN LIQUID NITROGEN": "",
+                "beetroot ": "100 gms",
+                "liquid nitrogen": "100 ml",
+                "CHEVRE LOG": "",
+                "chevre cheese": "50 gms",
+                "mascarpone cheese": "20 gms",
+                "parsley": "2 gms",
+                "orange zest": "1 gm",
+                "cream ": "15 ml",
+                "gelatin leaves": "3 gms",
+                "dill leaves": "2 gms",
+                "HONEYCOMB": "",
+                "castor sugar": "365 gms",
+                "liquid glucose": "140 gms",
+                "water": "110 ml",
+                "baking soda": "1 tsp"
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "BEETROOT EMULSION": "",
+                "roast the beetroot at 180c for about 75-90  minutes till extremely tender, covered with foil.": "",
+                "peel the skin. cut into small pieces and blend into a smooth puree with olive oil and salt.":"",
+                "SOUS-VIDE BEETROOT": "",
+                "cut cubes of beetroot and vacuum pack with orange juice. cook in sous-vide bath till beetroot is tender.": "",
+                "BEETROOT CHIPS": "",
+                "slice the beetroot with a mandolin slicer thinly. cut rounds with a cutter.": "",
+                "arrange the rounds in the silpat of dehydrater and cover with another silpat. dehydrate at 68c till dried completely.": "",
+                "deep fry the chips in medium hot oil till crisp.": "",
+                "BEETROOT RAVIOLI": "",
+                "roast the beetroot till cooked and puree it. spread the puree over OHP sheet and dehydrate in dehydrater till it resembles the texture of paper.": "",
+                "cut rounds of it and keep seperately. blanch the walnuts in salted boiling water for few seconds and shock in ice cold water.": "",
+                "deskin the walnuts with the help of toothpick. tast the walnuts at 160c for about 8-10 minutes. mix these walnuts with brunoise of cooked beetroot and salt.": "",
+                "encase this mixture in between beetroot paper and fold in half.": "",
+                "BEETROOT POACHED IN LIQUID NITROGEN": "",
+                "cut big sized cubes of cooked beetroot. add liquid nitrogen in a vessel. put the beetroot in it for the time till it freezes. cut little diamonds of it. ": "",
+                "CHEVRE LOG": "",
+                "add cream, cheese, parsley and orange zest. dissolve the gelatin and add to the mixture. take OHP sheet. shape into tube and put tape to retain the shape.": "",
+                "put clingwrap 5-6 times at the bottom of the tube. pour the mixture into the OHP tube and refrigerate until set.":"",
+                "HONEYCOMB": "",
+                "combine water, sugar and glucose in a pan and cook on medium heat till golden brown caramel is achieved.": "",
+                "add baking soda and remove from flame. immediately pour into a foiled container and place in fridge till hard crackle is formed.": ""
             }
         ]
     },
@@ -3975,7 +4072,9 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Coming soon": ""
+                "smoked masala cheese balls": "as in oatmeal crusted smoked masala cheese tikki",
+                "grilled upma": "in main course of achari paneer steak",
+                "chilly garlic chutney": "as required"
             }
         ],
         "method": [
@@ -4020,12 +4119,29 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Coming soon": ""
+                "pepper fried prawns": "as required",
+                "chettinad spiced crab cake ": "as required",
+                "spinach leaves, shredded": "1 bunch",
+                "cornflour": "2 tbsp",
+                "roasted sesame seeds": "1/2 tsp",
+                "pineapples, chopped": "50 gms",
+                "coriander leaves, chopped": "1 tsp",
+                "mint leaves, chopped": "1 tsp",
+                "green chillies, chopped": "1 tsp",
+                "lemon juice": "1 tbsp",
+                "salt": "to taste",
+                "oil": "400 ml",
+                "red chilli flakes": "20 gms",
+                "whole dried red chilli": "4"
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "for cracking spinach, coat the spinach with little cornflour and deep fry in hot oil till crisp. sprinkle sesame seeds on top.": "",
+                "for pineapple salsa, mix pineapples, coriander, mint, salt, lemon juice and green chillies. combine well.": "",
+                "for chilli oil, Gently warm the oil in a saucepan.": "",
+                "Add the chilli flakes and whole chillies to the oil and heat for 3-4 minutes. Remove from the heat and leave the oil to cool for 2 hours.": "",
+                "When the oil has cooled slightly, carefully strain it into sterilised, sealable glass bottle using a funnel.": ""
             }
         ]
     },
@@ -4035,12 +4151,69 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Coming soon": ""
+                "OATMEAL CRUSTED SMOKED MASALA CHEESE TIKKI": "",
+                "Choux pastry":"",
+                "water": "500 ml",
+                "butter": "200 gm",
+                "flour": "300 gm",
+                "processed cheese, grated": "100 gms",
+                "mozzarella cheese": "100 gms",
+                "oil": "1 tbsp",
+                "chopped garlic": "1 tsp",
+                "chopped green chillies": "1 tsp",
+                "chopped ginger": "1 tsp",
+                "chopped onion": "1",
+                "chopped coriander stalks": "1 tbsp",
+                "chilly flakes": "1/2 tsp",
+                "salt": "to taste",
+                "turmeric powder": "1/2 tsp",
+                "sugar": "1 tsp",
+                "chopped coriander leaves": "1 tsp",
+                "fried onions": "2 tbsp",
+                "ghee": "1 tsp",
+                "egg, whisked": "4",
+                "oatmeal": "100 gm",
+                "crushed cornflakes": "100 gm",
+                "oil": "to deep fry",
+                "OLIVE AND JALAPENO PANIYARAM": "",
+                "idli batter": "100 gms",
+                "chopped olives": "15 gms",
+                "chopped jalapenos": "15 gms",
+                "blanched spinach puree": "2 tbsp",
+                "ghee": "2 tsp",
+                "salt": "to taste",
+                "SPINACH LEAVES TEMPURA": "",
+                "spinach leaves, washed and dried": "10",
+                "gramflour": "100 gms",
+                "red chilli powder": "1/2 tsp",
+                "salt": "to taste",
+                "baking soda": "pinch",
+                "CHILLY GARLIC CHUTNEY": "",
+                "cashewnuts, fried": "100 gms",
+                "garlic, fried": "100 gms",
+                "red chilli paste": "100 gms",
+                "mayonnaise": "100 gms"
+
+
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "OATMEAL CRUSTED SMOKED MASALA CHEESE TIKKI": "",
+                "make choux paste by bringing water, butter to a boil. add flour and whisk to combine. take out the choux paste in another bowl.": "",
+                "allow to cool for a while. when warm, add the cheese and mix properly. ": "",
+                "heat oil in a pan. add chopped garlic, ginger, green chillies and onions. saute to soften. add turmeric, coriander stalks, salt, sugar and chilly flakes.":"",
+                "put the mixture in the choux paste and add coriander leaves and fried onions. ": "",
+                "take a deep big bowl. place a small bowl/ katori in the centre of deep bowl. put the choux mixture around the small bowl. place hot charcoal in the small bowl. add chopped garlic and ghee. cover immediately with foil. ": "",
+                " put oatmeal and cornflakes together in a bowl. allow choux mixture to smoke for 20 minutes. take out of the bowl and shape into small tikkis. crumb the tikki with egg first and then with oatmeal and cornflakes.": "",
+                "deep fry the tikki in hot oil till golden brown and crisp.": "",
+                "OLIVE AND JALAPENO PANIYARAM": "",
+                "heat oil in a pan. add olives and jalapenos and saute them for a minute to remove their raw flavour. take idli batter in a bowl. add salt, chopped olives, jalapenos and spinach puree. ": "",
+                "heat a paniyaram kadhai. put ghee and paniyaram mixture. cook till golden on one side. turn it over with the help of toothpick and cook on the other side till golden. check the doneness with the help of toothpick": "",
+                "SPINACH LEAVES TEMPURA": "",
+                "Make a batter of gramflour, salt, red chilli powder, baking soda and water. coat the spinach leaves in the batter and deep fry till golden and crisp on both sides.": "",
+                "CHILLY GARLIC CHUTNEY": "",
+                "make a smooth paste of fried garlic, cashewnuts and red chilly paste. add mayonnaise and combine well.": ""
             }
         ]
     },
@@ -4050,12 +4223,79 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "coming soon": ""
+                "PRAWN AND CORN POTLI": "",
+                "oil": "1 tbsp",
+                "cumin seeds": "1 tsp",
+                "chopped garlic": "1 tsp",
+                "chopped onions": "1",
+                "steamed corn kernels whole": "75 gms",
+                "steamed corn, chopped": "75 gms",
+                "prawns, cleaned and chopped": "100 gms",
+                "whole prawns,peeled and cleaned ": "100 gms",
+                "red chilli powder": "1 tsp",
+                "turmeric powder": "1/4 tsp",
+                "coriander powder": "1/2 tsp",
+                "coriander stems, chopped": "1 tsp",
+                "coriander leaves, chopped": "1 tsp",
+                "lemon juice": "1 tbsp",
+                "spring roll sheets": "4",
+                "refined flour": "50 gms",
+                "PATRANI CRUSTED FISH": "",
+                "fish fillet, cut in big cubes": "120 gms",
+                "mint leaves": "25 gms",
+                "coriander leaves": "75 gms",
+                "ginger, chopped": "5 gms",
+                "garlic, chopped": "5 gms",
+                "green chillies, chopped": "5 gms",
+                "salt": "to taste",
+                "lemon juice": "15 ml",
+                "fresh white breadcrumbs": "100 gms",
+                "banana leaf": "1",
+                "clove": "1",
+                "LEMON AND CORIANDER DIP": "",
+                "mayonnaise": "100 gms",
+                "coriander stems, finely chopped": "1 tsp",
+                "coriander leaves, finely chopped": "1 tsp",
+                "onion, finely chopped": "1/2",
+                "green chilli, deseeded and finely chopped": "1",
+                "spring onion greens, finely chopped": "1 tsp",
+                "lemon pickle": "2 tbsp",
+                "lemon juice": "2 tsp",
+                "PEPPER FRIED SOFT SHELL CRAB": "",
+                "soft shell crab, cleaned": "2",
+                "rice flour": "100 gms",
+                "cornflour": "50 gms",
+                "salt": "to taste",
+                "oil": "to deep fry",
+                "chopped garlic": "1 tsp",
+                "coriander stem and leaves, chopped": "1 tsp",
+                "green chillies, julienned": "1",
+                "black pepper, crushed": "1 tbsp",
+                "lemon juice": "1 tbsp"
+                
             }
         ],
         "method": [
             {
-                "coming soon": ""
+                "PRAWN AND CORN POTLI": "",
+                "heat oil in a pan. add cumin seeds, garlic, green chilli and onions. saute. add whole and chopped sweet corn.": "",
+                "add whole prawns and add salt, turmeric powder, red chilli powder, coriander powder and coriander stems. saute.": "",
+                "add chopped prawns and saute. add lemon juice and chopped coriander leaves. take it out and allow to cool.": "",
+                "cut small squares of spring roll sheets. make a thick batter of flour and water. ": "",
+                "place the filling in the centre of spring roll sheet. put the batter on the edges to stick and shape like a potli. deep fry these parcels in hot oil till golden and crisp.": "",
+                "PATRANI CRUSTED FISH": "",
+                "Make a fine paste of mint, coriander, ginger, green chilli, garlic, lemon juice, salt and little water. add breadcrumbs and combine till it becomes like a dough.": "",
+                "place the dough in between 2 thick plastic sheets and roll it to flatten. take a piece of fish and add salt over it. cut the patrani crust of the same size and place on top.": "",
+                "bake at 180c till the crust is crisp and the fish is cooked through. serve this in a banana leaf wrapped around it and pinched with clove.": "",
+                "LEMON AND CORIANDER DIP": "",
+                "take out lemon pieces from the pickle and wash it. finely chop the pickled lemons.": "",
+                "mix coriander leaves, stems, ginger, onions, green chillies, pickled lemons, lemon juice and spring onions in the mayonnaise and combine well.": "",
+                "PEPPER FRIED SOFT SHELL CRAB": "",
+                "make a thick batter of rice flour, cornflour, salt and water.": "",
+                "coat the soft shell crab in this batter and deep fry in hot oil till golden and crisp.": "",
+                "heat oil in a pan. add garlic and saute. add the green chillies and coriander stems.": "",
+                "add the crab and add pepper, salt, lemon juice and coriander leaves. toss well. serve hot.": ""
+
             }
         ]
     },
@@ -4065,12 +4305,81 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "coming soon": ""
+                "LAMB RILETTE": "",
+                "lamb curry cut": "1 kg",
+                "salt": "to taste",
+                "kashmiri chilli powder": "2 tbsp",
+                "coriander powder": "2 tbsp",
+                "oil": "2 tbsp",
+                "fried onions": "2 tbsp",
+                "fried cashewnuts": "2 tbsp",
+                "fried garlic": "2 tbsp",
+                "raw papaya paste": "1 tsp",
+                "coriander leaves, chopped": "1 tsp",
+                "mint leaves, chopped": "1 tsp",
+                "green chillies, deseeded and chopped": "1 tsp",
+                "ghee": "1 tsp",
+                "FENUGREEK PAPDI": "",
+                "Refined flour": "500 gms",
+                "melted ghee": "100 ml",
+                "kasuri methi powder": "15 gms",
+                "salt": "8 gms",
+                "water": "150 ml",
+                "oil": "to deep fry",
+                "CHICKEN RECHADO SKEWERS": "",
+                "kashmiri red chillies": "100 gms",
+                "toddy vinegar": "50 ml",
+                "peppercorns": "10 gms",
+                "cumin seeds": "5 gms",
+                "sugar": "15 gms",
+                "salt": "to taste",
+                "onions": "2",
+                "garlic": "20 gms",
+                "ginger": "15 gms",
+                "cinnamon": "1",
+                "cloves": "4",
+                "chicken supreme": "2",
+                "oil": "2 tspsp",
+                "CHILLI AND COCONUT PANACOTTA": "",
+                "goan fish curry base": "25 gms",
+                "sugar": "10g gms",
+                "lemon juice": "15 ml",
+                "coconut milk": "30 ml",
+                "powdered gelatin": "7 gms",
+                "MASALA CHEESE CRUSTED CHICKEN TIKKA": "",
+                "chicken tikka, cooked": "2",
+                "processed cheese, grated": "50 gms",
+                "chopped garlic, fried": "1 tsp",
+                "fried sliced onions": "1 tbsp",
+                "coriander leaves, chopped": "1 tsp",
+                "mint leaves, chopped": "1/2 tsp",
+                "green chillies, deseeded and chopped": "1/2 tsp"
+
             }
         ],
         "method": [
             {
-                "coming soon": ""
+                "LAMB RILETTE": "",
+                "marinate the lamb with salt, chilli powder, coriander powder and raw papaya paste.. heat oil in a pan. shallow fry the lamb pieces till browned on both sides.": "",
+                "put the lamb in a baking dish. add water to the frying pan used earlier.scrape off the sediments and add to the lamb to cover. ": "",
+                "make a paste of fried cashews, onions and garlic. add to the lamb, adjust seasoning. cover the container with foil and bake in the oven at 180c for 1 hour and 15 minutes.":"",
+                "when the meat is fully cooked, take the meat out of the bone. finely chop the meat and mix little roasting juices. ": "",
+                "add fried onions, coriander, mint and chillies to the meat and mix. ": "",
+                "take a deep big bowl. place a small bowl/ katori in the centre of deep bowl. put the lamb mixture around the small bowl. place hot charcoal in the small bowl. add and ghee. cover immediately with foil.":"",
+                "allow to smoke for 15 minutes and take it out. ": "",
+                "FENUGREEK PAPDI": "",
+                "add salt,methi and ghee to the flour. mix well and add water. knead into a tight dough. sheet the dough till thin.": "",
+                "cut roundels of the dough and dock all over the surface with a fork. Fry the papdi in moderately hot oil till golden and crisp.": "",
+                "RECHADO CHICKEN SKEWERS": "",
+                "deseed the kashmiri red chillies. burn whole onions on slow flame. take out the outer layer and reserve the inner flesh.": "",
+                "marinate the chillies with clove, cinnamon, ginger, garlic, peppercorn, cumin, onion and toddy vinegar overnight. blend into a fine paste with salt and sugar.": "",
+                "marinate the chicken supreme with the rechado and insert them in a satay stick. shallow fry the chicken till well coloured on both sides and cooked through.": "",
+                "CHILLI AND COCONUT PANACOTTA": "",
+                "mix 7gm gelatin with 21 ml water and melt it in microwave.": "",
+                "heat goan fish curry base in a pan and add little water. add salt, sugar, lemon juice and coconut milk. add the melted gelatin and set in silicon moulds. place the moulds in the fridge for few hours to set.": "",
+                "MASALA CHEESE CRUSTED CHICKEN TIKKA": "",
+                "take chicken tikka, which is already cooked in tandoor. mix cheese, fried garlic, onions, corinader, mint, green chillies.": "",
+                "put the cheese mixture on top of the chicken tikka and gratinate in salamander till cheese has melted.": ""
             }
         ]
     }
