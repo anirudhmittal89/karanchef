@@ -1716,7 +1716,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/RED VELVET , PINA COLADA , COFFEE CUPCAKES.jpg",
-        "caption": "RED VELVET , PINA COLADA",
+        "caption": "RED VELVET , PINA COLADA , COFFEE CUPCAKES",
         "categ": "DESSERTS",
         "ingredients": [
             {
