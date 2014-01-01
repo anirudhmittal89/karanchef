@@ -468,8 +468,8 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/DESSERTS/CHOCOLATE AND WALNUT BROWNIE  2.jpg",
-        "caption": "CHOCLATE AND WANUT BROWNIE",
+        "src": "/images/DESSERTS/CHOCLATE AND WALNUT BROWNIE.jpg",
+        "caption": "CHOCLATE AND WALNUT BROWNIE",
         "categ": "DESSERTS",
         "ingredients": [
             {
@@ -797,7 +797,7 @@ var dessert=[
     },
     {
         "src": "/images/DESSERTS/CHOCOLATE CHIP PAVLOVA STUFFED WITH CHOCOLATE BUTTERCREAM.jpg",
-        "caption": "CHOCOLATE PAVLOVA STUFFED WITH CHOCOLATE BUTTERCREAM",
+        "caption": "CHOCOLATE CHIP PAVLOVA STUFFED WITH CHOCOLATE BUTTERCREAM",
         "categ": "DESSERTS",
         "ingredients": [
             {
