@@ -1729,17 +1729,49 @@ var dessert=[
         ]
     },
     {
-        "src": "/images/DESSERTS/RED VELVET , PINA COLADA ,.jpg",
+        "src": "/images/DESSERTS/RED VELVET , PINA COLADA , COFFEE CUPCAKES.jpg",
         "caption": "RED VELVET , PINA COLADA",
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Coming soon": ""
+                "Butter": "240 gms",
+                "Sugar": "600 gms",
+                "Eggs": "4",
+                "vanilla pod": "1",
+                "flour": "600 gms",
+                "Baking soda": "14 gms",
+                "yoghurt (thick)": "240 ml",
+                "water": "240 ml",
+                "RED VELVET":"",
+                "red food colouring": "1 tsp or as required",
+                "lemon juice": "1/2 tsp",
+                "cocoa powder": "2 tsp",
+                "cream cheese": "220 gms",
+                "mascarpone": "220 gms",
+                "icing sugar": "115 gms",
+                "whipped cream": "50 gms",
+                "PINA COLADA": "",
+                "white rum": "30 ml",
+                "chopped pineapple": "50 gms",
+                "coconut buttercream": "as required",
+                "COFFEE": "",
+                "instant coffee powder": "2 tsp",
+                "espresso, cooled": "1 tbsp",
+                "buttercream": "as required"
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "Cream the butter and sugar together": "",
+                "whisk the eggs and vanilla pod seeds together and add little by little to the creamed butter at regular intervals till sugar is dissolved.": "",
+                "whisk the yoghurt and water together.": "",
+                "add the yoghurt liquid and flour, baking soda, little by little, till everything is incorporated and thick pouring consistency batter is obtained.": "",
+                "divide the cupcake batter into 3 parts. ": "",
+                "FOR RED VELVET, add sifted cocoa powder, lemon juice and red food colouring in the batter. for the icing, combine cream cheese, mascarpone, icing sugar using paddle attachment. when thick and fluffy, fold whipped cream.":"",
+                "FOR PINA COLADA, add white rum and chopped pineapples in the batter.":"",
+                "FOR COFFEE, Add coffee powder and espresso in the batter. ":"",
+                "pour the mixture in greased moulds and bake at 180c for 30 minutes or till done. ": "",
+                "pipe the cream cheese icing over the red velvet cupcake; coconut buttercream over the pina colada; buttercream over the coffee; and decorate them.": ""
             }
         ]
     },
@@ -1749,12 +1781,32 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Coming soon": ""
+                "Butter": "240 gms",
+                "Sugar": "600 gms",
+                "Eggs": "4",
+                "vanilla pod": "1",
+                "flour": "600 gms",
+                "Baking soda": "14 gms",
+                "yoghurt (thick)": "240 ml",
+                "water": "240 ml",
+                "cocoa powder": "5 tsp",
+                "lemon juice": "2 tsp",
+                "red food colouring": "3 tsp or as required",
+                "cream cheese": "220 gms",
+                "mascarpone": "220 gms",
+                "icing sugar": "115 gms",
+                "whipped cream": "50 gms"
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "Cream the butter and sugar together": "",
+                "whisk the eggs and vanilla pod seeds together and add little by little to the creamed butter at regular intervals till sugar is dissolved.": "",
+                "whisk the yoghurt and water together.": "",
+                "add the yoghurt liquid and flour,cocoa powder, baking soda, little by little, till everything is incorporated and thick pouring consistency batter is obtained. add lemon juice and red food colouring.": "",
+                "for the icing, combine cream cheese, mascarpone, icing sugar using paddle attachment. when thick and fluffy, fold whipped cream.": "",
+                "pour the mixture in greased moulds and bake at 180c for 30 minutes or till done. ": "",
+                "pipe the cream cheese icing over the cupcake and decorate it.": ""
             }
         ]
     },
@@ -1764,12 +1816,22 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Coming soon": ""
+                "Egg whites": "3",
+                "castor sugar": "100 gms",
+                "icing sugar": "70 gms",
+                "cornflour": "1 tsp",
+                "lemon juice": "dash",
+                "rose essence": "few drops",
+                "buttercream": "150 gms"
+                
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "whisk egg whites with dash of lemon juice . when little soft peaks are achieved, add 1 tbsp sugar little by little while whisking continously till stiff peaks.": "",
+                "fold icing sugar and cornflour in small batches. add rose essence.": "",
+                "pipe the mixture on silpat and bake in preheated oven at 140c for 90 minutes. ": "",
+                "pipe the buttercream in the centre of pavlova and place another on top.": "",
             }
         ]
     },
@@ -1779,12 +1841,34 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Coming soon": ""
+                "plain chocolate": "140 gms",
+                "butter, softened": "140 gms",
+                "eggs": "5",
+                "almond meal": "85 gms",
+                "refined flour": "55 gms",
+                "vanilla extract": "1/2 tsp",
+                "castor sugar":"115 gms",
+                "ICING": "",
+                "plain chocolate": "140 gms",
+                "milk chocolate": "25 gms",
+                "double cream": "200 ml",
+                "apricot jam": "6 tbsp"
             }
         ],
         "method": [
             {
-               "Coming soon": ""
+               "Preheat the oven to 180C/350F/Gas 4. Grease a deep 23cm/9in round cake tin then line the base with greaseproof paper.": "",
+               "Break the chocolate into pieces, melt gently in a bowl set over a pan of hot water, stirring occasionally, then cool slightly.":"",
+               "Beat the butter in a bowl until really soft, then gradually beat in the sugar until the mixture is light and fluffy.":"",
+               "Add the cooled chocolate and the vanilla extract and beat again. Add the egg yolks, then fold in the ground almonds and sieved flour.":"",
+               "in a separate bowl, whisk the egg whites until they are stiff but not dry. Add about one-third to the chocolate mixture and stir in vigorously":"",
+               "Gently fold in the remaining egg whites. Pour the mixture into the prepared tin and level the surface.":"",
+               "Bake in the oven for about 45-50 minutes, or until well risen at the top and the cake springs back when lightly pressed with a finger. Leave to cool in the tin for a few minutes then turn out, peel off the paper and finish cooling on a wire rack.":"",
+               "To make the topping, heat the apricot jam in a small pan and then brush evenly over the top and sides of the cold cake. Allow to set.":"",
+               "Make the icing by breaking the plain chocolate into pieces. Heat the cream until piping hot, remove from the heat and add the chocolate. ":"",
+               "Stir until the chocolate has melted, then cool till a coating consistency. Then pour the icing on to the centre of the cake. Spread it gently over the top and down the sides, and leave to set.":"",
+               "For the ‘icing’ writing, break the milk chocolate into pieces then melt gently in a bowl set over a pan of hot water.":"",
+               "Spoon into a small paper icing bag or polythene bag and snip off the corner. Pipe ‘Sacher’ across the top and leave to set.":""
             }
         ]
     },
@@ -1794,12 +1878,32 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Coming soon": ""
+                "PASTRY": "",
+                "refined flour": "375 gms",
+                "icing sugar": "50 gms",
+                "butter": "200 gms",
+                "egg": "1",
+                "FRANGIPANE":"",
+                "butter, cubed":"125 gms",
+                "icing sugar": "125 gms",
+                "eggs":"2",
+                "egg yolk": "1",
+                "almond meal": "",
+                "dark rum": "25 ml",
+                "strawberry jam, heated": "1/4 cup",
+                "fresh strawberries": "1/2 cup"
             }
         ],
         "method": [
             {
-                "Coming soon": ""
+                "Preheat oven to 180C. Grease and line the base of a 18cm loose bottomed tart tin.": "",
+                "To make the pastry, add the flour, icing sugar and butter to the bowl of a food processor and pulse until the mixture resembles coarse breadcrumbs.":"",
+                "Add the egg and pulse again until the dough comes together. Wrap in cling wrap, then rest in the fridge for about 1 hour. ":"",
+                " On a lightly floured surface, roll out half of the pastry until 3-4mm thick. (you can freeze the remaining pastry for up to 4 weeks). Line the tart tin with pastry, then rest in the fridge for 15 minutes. ":"",
+                "For the frangipane, cream the butter and sugar in an electric mixer until pale and fluffy.": "",
+                "Add the eggs and egg yolk, one at a time until incorporated in the mixture. Fold in the almond meal and dark rum. ": "",
+                "Remove the tart tin from the fridge. Brush half of the strawberry jam over the bottom of the tart, then spread the frangipane on top.": "",
+                "Scatter over half of the berries, pressing lightly into the mixture. Bake in the oven for 30-35 until golden and cooked through. Remove from the oven and brush lightly with remaining strawberry jam. Serve with whipped cream and berries.": ""
             }
         ]
     },
@@ -1824,12 +1928,23 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Coming soon": ""
+                "digestive biscuits, crushed": "200 gms",
+                "melted butter": "75 gms",
+                "eggs": "4",
+                "castor sugar": "120 gms",
+                "vanilla pod, scraped": "1",
+                "cream cheese": "480 gms",
+                "powdered gelatin": "10 gms",
+                "strawberry crush": "100 ml"
             }
         ],
         "method": [
             {
-               "Coming soon": ""
+               "blend the biscuits till smooth . add the butter and combine well. put this mixture in greased cheesecake moulds and press well till smooth and even all around.": "",
+               "whisk the eggs and sugar and vanilla till thick and fluffy. cream the cream cheese using palate knife and combine well with the egg mixture.": "",
+               "pour the mixture over the biscuit base and bake at 160c over water bath for 45 minutes. ": "",
+               "allow to cool. heat 300 ml water in a pan. meanwhile melt gelatin in microwave. ":"",
+               "when water comes to a boil, add the strawberry crush and melted gelatin. allow to cool a bit and add on top of the cheesecake while in the mould. allow to set.":""
             }
         ]
     },
@@ -1839,25 +1954,17 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "mousse base": "200 gms",
+                "strawberry crush": "30 gms",
+                "fresh strawberries, chopped": "50 gms"
             }
+                
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "mix strawberry crush and fresh strawberries in the mousse base. mix properly till no lumps.": "",
+                "set the mousse in silicon mats and place in freezer.": ""
+                
             }
         ]
     },
@@ -1867,25 +1974,27 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour": "1800 gms",
+                "Salt": "30 gms",
+                "sugar": "225 gms",
+                "softened butter": "150 gms",
+                "fresh yeast": "120 gms",
+                "bread improver": "35 gms",
+                "eggs": "4",
+                "milk": "650-700 ml",
+                "strawberry jam": "for stuffing",
+                "icing sugar": "for garnish"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "combine all the ingredients and knead into a very soft dough.": "",
+                "sheet the dough till 6mm thick. place the dough covered with butter paper over a floured tray and put in the fridge for atleast 2 hours. ": "",
+                "take the tray out of the fridge. using 7mm round cutter, cut the berliners and place on a floured tray. ": "",
+                "place the berliners in the proving chamber or warm place for 90 minutes. after proving, fry the berliners in oil at 160c till golden on both sides.": "",
+                "allow the berliners to cool. using a small knife, make a little hole and through that hole, cut inside the berliner.": "",
+                "whisk the strawberry jam and place in a piping bag with a small hole. using the piping bag, fill the berliner with strawberry jam through the little hole till completely filled.":"",
+                "sprinkle icing sugar on top.": ""
             }
         ]
     },
@@ -1895,25 +2004,24 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "flour": "1800 gms",
+                "Salt": "30 gms",
+                "sugar": "225 gms",
+                "softened butter": "150 gms",
+                "fresh yeast": "120 gms",
+                "bread improver": "35 gms",
+                "eggs": "4",
+                "milk": "650-700 ml",
+                "castor sugar": "for coating"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "combine all the ingredients and knead into a very soft dough.": "",
+                "sheet the dough till 6mm thick. place the dough covered with butter paper over a floured tray and put in the fridge for atleast 2 hours. ": "",
+                "take the tray out of the fridge. using doughnut cutter, cut the doughnuts and place on a floured tray. ": "",
+                "place the doughnuts in the proving chamber or warm place for 90 minutes. after proving, fry the doughnuts in oil at 160c till golden on both sides.": "",
+                "allow the doughnuts to cool a bit. put castor sugar in a bowl. coat the doughnuts in the sugar till coated evenly on all sides.": ""
             }
         ]
     },
@@ -1923,25 +2031,12 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "coming soon": ""
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "coming soon": ""
             }
         ]
     },
@@ -1951,25 +2046,18 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chocolate sponge cake": "400 gms",
+                "tiramisu": "400 gms",
+                "espresso": "50 ml",
+                "cocoa powder": "for dusting"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "cut the sponge cake into 3 lenghwise. brush each layer with espresso and spread tiramisu. repeat the same for other 2 .": "",
+                "spread the tiramisu on sides and top of the cake evenly. set in the fridge for 2 hours. ": "",
+                "dust cococa powder on top of the cake. cut into pieces and serve.": ""
             }
         ]
     },
@@ -1979,25 +2067,25 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "egg yolks": "10",
+                "castor Sugar": "200 gms",
+                "whipped cream": "1 kg",
+                "espresso, cooled": "120 ml",
+                "mascarpone cheese": "1 kg",
+                "tia maria": "120 ml",
+                "lady fingers/ chocolate sponge fingers": "as required",
+                "cocoa powder": "for dusting",
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "put water in a pan and allow to boil. cook the egg yolks and sugar in a bowl placed over the boing water. make a thick and fluffy sabayon.": "",
+                "add tia maria and espresso to the sbayon and whisk well. ": "",
+                "cream the mascarpone cheese and add to the sabayon mixture. finally, fold the whipped cream.": "",
+                "for serving, soak the lady fingers in espresso and put in the bottom of martini glass. pipe a layer of tiramisu over the fingers.": "",
+                "add another layer of soaked lady fingers and pipe tiramisu over top. set n the fridge for 2 hours.": "",
+                "before serving, dust cocoa powder on top.": ""
             }
         ]
     },
@@ -2007,25 +2095,25 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "pate sucree": "300 gms",
+                "golden syrup": "250 gms",
+                "white breadcrumbs": "3",
+                "ground ginger": "250gms",
+                "lemon zet and juice": "450 gms",
+                "black treacle": "15 gms",
+                "eggs": "7.5 gms",
+                "double cream": "125 gms",
+                "melted butter": "125 gms"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Roll out the pastry on a lightly floured surface to a large round, the thickness of 3 mm. line silicon tartet moulds with the sweet paste.": "",
+                "Line the pastry case with baking paper and dried or ceramic baking beans and bake ‘blind’ for 15-20 minutes or until the base is cooked through.": "",
+                "For the filling, gently heat the golden syrup by immersing the bottle or tin in a bowl of hot water for a few minutes. Mix the breadcrumbs, lemon zest and ground ginger together in a large bowl and make a well in the middle.": "",
+                "Pour in the warm golden syrup and add the butter, egg yolks, cream, treacle and lemon juice. Stir well to mix.": "",
+                "Pour the filling into the pastry case. Bake for 20-30 minutes until the top has just set, but the centre is slightly wobbly when you shake the tin gently. It should still feel slightly soft in the centre.": "",
+                "Let the tart cool completely before slicing and serving, with cream or crème fraiche.": ""
             }
         ]
     },
@@ -2035,25 +2123,27 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "chocolate biscuits, crushed": "200 gms",
+                "melted butter": "60 gms",
+                "eggs": "4",
+                "castor sugar": "120 gms",
+                "vanilla pod, scraped": "1",
+                "cream cheese": "480 gms",
+                "dark chocolate, chopped": "50 gms",
+                "milk chocolate, chopped": "50 gms",
+                "white chocolate, chopped": "50 gms",
+                "double cream": "75 ml"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+               "blend the biscuits till smooth . add the butter and combine well. put this mixture in greased cheesecake moulds and press well till smooth and even all around.": "",
+               "whisk the eggs and sugar and vanilla till thick and fluffy. cream the cream cheese using palate knife and combine well with the egg mixture.": "",
+               "bring cream to a boil . divide into 3 containers. add dark chocolate in one, milk chocolate in second and white chocolate in last. whisk well to combine properly without lumps.":"",
+               "divide the cheesecake mixture into 3 equal parts and add one of each ganache in the divided cheesecake mixtures. ": "",
+               "pour white chocolate cheesecake mixture on top of the biscuit base till less than 1/3rd of the mould is filled. bake in the oven at 160c for about 30 minutes over water bath till just set.":"",
+               "take it out and let it rest for 5 minutes. now pour milk chocolate cheesecake mixture over the mould carefully and return to the oven for 25 minutes or till the layer is just set.": "",
+               "again, take the mould out for 5 minutes. now, pour the dark chocolate mixture over it and return to the oven till just set. allow to cool completely. cut in wedges and serve.": ""
             }
         ]
     },
@@ -2086,24 +2176,19 @@ var dessert=[
         "ingredients": [
             {
                 "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Sugar": "500 gms",
+                "Eggs": "10",
+                "Vanilla essence": "5 ml",
+                "flour": "500 gms",
+                "baking powder": "20 gms"
             }
         ],
         "method": [
             {
                 "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Add the eggs one by one till sugar is dissolved and mixture is creamed": "",
+                "Fold all the dry ingredients and set aside the muffin batter.": "",
+                "pour the batter in muffin moulds and bake at 180c till done.": ""
             }
         ]
     },
@@ -2113,25 +2198,27 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
+                "Butter": "225 gms",
+                "Sugar": "225 gms",
                 "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "self raising flour": "225 gms",
+                "whipped cream": "200 gms",
+                "strawberry jam": "6 tbsp",
+                "icing sugar": "for dusting"
+                
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Line the bottom of the two cake tins with a circle of greaseproof paper.": "",
+                "In a large bowl, cream together the butter and sugar until pale and creamy, using an electric whisk or a wooden spoon. Beat well to get lots of air into the mixture (this should take a couple of minutes).": "",
+                "Beat in the eggs one at a time. Add a tablespoon of flour if the mixture curdles.": "",
+                "Fold in the flour using a large metal spoon. Be careful not to over-mix it.": "",
+                "Pour the mixture equally between the two cake tins and level off the top with a spatula. Make a slight dip in the centre with the tip of the spatula if you don't want them to be pointed in the middle.": "",
+                "Place in the oven and bake for about 20 minutes, or until the cakes spring back when pressed gently with a finger and are pale golden in colour.": "",
+                "Remove from the oven and take them out of the tins after about 5-10 minutes. Place them on a wire rack to cool completely (for about half an hour).": "",
+                "Spread the sponge with the jam and the whipped cream, then carefully sandwich together.": "",
+                "Dust with icing sugar and serve.":""
             }
         ]
     },
@@ -2141,25 +2228,33 @@ var dessert=[
         "categ": "DESSERTS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "CRUST": "",
+                "refined flour": "2 1/2 cups",
+                "cold butter, cut in small cubes": "1 cup",
+                "ice water": "6 tbsp",
+                "salt": "1/2 tsp",
+                "castor sugar": "2 tbsp",
+                "FILLING": "",
+                "Fresh blueberries": "700 gms",
+                "cornflour": "3 tbsp",
+                "salt": "1/4 tsp",
+                "brown sugar": "1/3 cup",
+                "lemon juice": "1 tbsp"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "Cut the cold butter into the sifted flour, sugar and salt until crumbly. You can either use a pastry cutter or a stand mixer on low (with the paddle attachment), or even a fork or two knives": "",
+                "Add the freezing cold water a little at a time until the dough is wet enough. It shouldn’t be sticky but should hold together.": "",
+                "Kneed just a few seconds to bring it together, then divide into two round flat rounds and place in the freezer for 15 minutes.": "",
+                "While the dough is freezing, wash the blueberries and add to a bowl. Add the lemon juice, brown sugar, flour (or cornstarch), and salt. Mix.": "",
+                "Heat your oven to 375°F (190°C) and take one dough round out of the freezer.": "",
+                "Flour your counter, the dough and the rolling pin and roll until about 11″ across. Place over your 9″ pie pan and pat down well. Trim the edges and place back in the freezer. Take out the remaining dough round.": "",
+                "Roll out this dough into more of a rectangle to about the same thickness as your previous dough. Cut into long strips about 1″ (2cm) wide.": "",
+                "Remove your pie crust from the freezer and fill with the blueberries.": "",
+                "Now we’ll make the lattice top. Place strips across the top in one direction only. Fold every other one back at the half way point. Place one strip across and bring all the strips back down.": "",
+                "Fold the other half of the strips up and repeat. When you get to the end of the pie, turn it to do the other half. Fold the strips under the first crust and crimp the edges.": "",
+                "Bake for 50-55 minutes or until the filling is thick and bubbling and the crust is browned.": ""
             }
         ]
     }
@@ -2800,25 +2895,12 @@ var dessert=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "coming soon": ""
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "coming soon": ""
             }
         ]
     },
@@ -3937,25 +4019,12 @@ var dessert=[
         "categ": "ENTREE",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "coming soon": ""
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "coming soon": ""
             }
         ]
     },
@@ -4429,25 +4498,12 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "coming soon": ""
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "coming soon": ""
             }
         ]
     },
@@ -5062,25 +5118,12 @@ var main=[
         "categ": "MAINS",
         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "coming soon": ""
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "coming soon": ""
             }
         ]
     },
