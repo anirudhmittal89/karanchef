@@ -5216,27 +5216,28 @@ var main=[
         "src": "/images/MAINS/QUICHE LORRAINE.jpg",
         "caption": "QUICHE LORRAINE",
         "categ": "MAINS",
-        "ingredients": [
+         "ingredients": [
             {
-                "Butter": "500 gms",
-                "Sugar": "250 gms",
-                "Eggs": "3",
-                "Almond meal": "250gms",
-                "Dried sponge crumbs": "450 gms",
-                "Baking powder": "15 gms",
-                "Cinnamon powder": "7.5 gms",
-                "Flour": "125 gms",
-                "Strawberry jam": "125 gms"
+                "Butter": "60 gms",
+                "onion, finely chopped": "1",
+                "texter leeks, sliced thinly": "1/2",
+                "garlic cloves, chopped": "3",
+                "bacon, cut into thin lardons": "150 gms",
+                "eggs": "3",
+                "egg yolks": "2",
+                "cream": "300 ml",
+                "gruyere cheese, grated": "120 gms",
+                "pate brisee": "as required"
             }
         ],
         "method": [
             {
-                "Cream the butter and sugar together": "",
-                "Add the eggs one by one till sugar is dissolved": "",
-                "Fold all the dry ingredients": "",
-                "Grease the mould. Add the mixture till about 30% filled and add the layer of strawberry jam evenly": "",
-                "Using piping bag, pipe the mixture over jam in cross lines all over": "",
-                "Bake at 180 degress celcius for 30 minutes": ""
+                "roll the pate brisee to a thickness of 2-3 mm and line to a greased 21 cm fluted flan tin.": "",
+                "blind bake the tart at 200c for 15-20 minutes. take out the baking beans and return to the oven for 5 minutes.": "",
+                "For the mixture, heat half butter in a pan. add onions and leeks and saute till translucent. add the garlica nd saute for one more minute.": "",
+                "put mixture on a kitchen towel. heat remaining butter. add the bacon and saute till golden brown. add the onions nd leeks. drain on a kitchen towel.": "",
+                "whisk together cream, eggs, and egg yolks. season with salt and pepper. scatter the base of tart shell with onion mixture. add half of the cheese. ": "",
+                "pour the egg batter on top and sprinkle rest of the cheese. bake at 160c for about 15-20 minutes or just set. allow to cool before setting.": ""
             }
         ]
     },
