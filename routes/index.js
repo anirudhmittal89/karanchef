@@ -1271,7 +1271,7 @@ var dessert=[
         "src": "/images/DESSERTS/GUM PASTE DECORATION OVER CAKE.jpg",
         "caption": "GUM PASTE DECORATION OVER CAKE",
         "categ": "DESSERTS",
-        "ingr edients": [
+        "ingredients": [
             {
                 "chocolate cake": "as required",
                 "gum paste": "as required"
@@ -2275,7 +2275,7 @@ var dessert=[
                 "Toast the oats in a pan till little color changes and aroma intensifies. Cool a little and mix flour salt and brown sugar. Cut cold butter in cubes and crumble with dry mixture":"",
                 "Place on a sil pat and bake at 160 degrees celcius till golden brown":"",
                 "STRAWBERRY GEL":"",
-                "Blend all the ingredients and store in fridge.":"",
+                "Blend all the ingredients and store in fridge.":""
             }
         ]
     },
@@ -6126,7 +6126,6 @@ if(type=="entree"){
 	ob=entree;
     title="Entree Recipes";
 }
-
 for(each in ob){
     var tempIng="";
     var thisIngredients=ob[each]["ingredients"];
@@ -6137,6 +6136,7 @@ for(each in ob){
     }
     ob[each]["shortIngredients"]=tempIng;
     ob[each]["numIngredients"]=numIng;
+
 }
 
 var pagetitle="Chef Karan Mittal | "+title;
