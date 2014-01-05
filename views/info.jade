@@ -55,7 +55,9 @@ html
           ul
             each key,val in ingredients[0]
               li
-                span #{val} - <b>#{key}</b>
+                span 
+                  span(style="min-width:250px;display:inline-block") #{val} -
+                <b>#{key}</b>
             
           
       h3.featurette-heading.nomargin
