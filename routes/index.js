@@ -6085,8 +6085,8 @@ exports.recajax = function(req, res){
         entireData=dessert;
     }
 
-    var index=pgno*8;
-    var lowerIndex=(pgno-1)*8;
+    var index=pgno*12;
+    var lowerIndex=(pgno-1)*12;
     var resultData=[];
     var resultDataCounter=0;
     for(each in entireData){
