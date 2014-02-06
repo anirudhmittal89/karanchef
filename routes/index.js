@@ -6035,7 +6035,12 @@ var main=[
     }
 ];
 exports.index = function(req, res){
-  res.render('index', { pagetitle: 'Chef Karan Mittal' })
+    var src=req.query.src;
+    var imgsrc=req.query.imgsrc;
+    if(imgsrc==null){
+        imgsrc="/images/wallpaper.jpg"
+    }
+  res.render('index', { pagetitle: 'Chef Karan Mittal',imgsrc:imgsrc })
 };
 
 
